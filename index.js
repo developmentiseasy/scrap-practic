@@ -2,6 +2,7 @@ const Xray = require('x-ray')
 const request = require('request')
 const _ = require('lodash')
 const fs = require('fs')
+const mongoose = require('mongoose')
 
 const x = new Xray()
 
@@ -17,7 +18,7 @@ const selectors = [
   {
     selector: 'article.post-content',
     res_body: {
-      description: 'strong',
+      title: 'strong',
     },
   },
 ]
@@ -25,40 +26,103 @@ const selectors = [
 var finish_result = []
 var correctScrapItem = ''
 
-findData = (result, nextData) => {
-  if (result.length === 0) return
-  result.forEach((obj, index) => {
-    if (obj.url === correctScrapItem.url) {
-      result[index].body = nextData
-    } else findData(obj, nextData)
-  })
-}
+// findData = (result, nextData) => {
+//   if (result.length === 0) return
+//   result.forEach((obj, index) => {
+//     if (obj.url === correctScrapItem.url) {
+//       result[index].body = nextData
+//     } else findData(obj, nextData)
+//   })
+// }
 
-getData = (err, res) => {
-  setTimeout(() => {
-    if (!err) {
-      if (res.length === 0) return
+var DataModel = mongoose.model('codes', {
+  title: String,
+  url: String,
+  body: Array
+})
 
-      selectors.forEach((selector) => {
-        res.forEach((item) => {
-          if (!_.isEmpty(finish_result)) {
-            correctScrapItem = item
-            findData(finish_result, item)
-            x(item.url, selector.selector, [selector.res_body])(getData)
+
+mongoose.Promise = global.Promise
+mongoose.connect('mongodb://localhost:27017/californiacodesdb', {
+  useMongoClient: true
+})
+  .then(() => {
+    console.log('MongoDB has started ...')
+    var currentItem = []
+    var firstCodes = []
+
+    DataModel.find({}, (err, codes) => {
+      if (err) throw err
+      console.log(codes)
+
+    }).then((codes) => {
+      getData = (err, res) => {
+        if (res.length === 0) return
+        setTimeout(() => {
+          if (_.isEmpty(codes)) {
+
+            //Clear DB
+            //
+            // DataModel.remove({}, function (err) {
+            //   if (err) return handleError(err)
+            //   console.log(err)
+            // })
+
+            firstCodes = codes
+
+            if (!_.isEqual(firstCodes, codes))
+              res.forEach((item, i) => { //Pushing start data to DB
+                DataModel.create({
+                  title: item.title,
+                  url: item.url,
+                  body: [],
+                }, (err, data) => {
+                  if (err) return console.log(err)
+                  console.log(data)
+                })
+              })
+
+
+            if (!err) { //Scrap data for next cycle
+              selectors.forEach((selector) => {
+                res.forEach((item) => {
+                  currentItem = item
+                  x(item.url, selector.selector, [selector.res_body])(getData)
+                })
+              })
+            } else {
+              console.log(err)
+              console.error(err)
+            }
+
+
           } else {
-            finish_result = res
+            console.log('aaaaaaaaaaaaaaa')
+            if (!err) { //Scrap data for next cycle
+              selectors.forEach((selector) => {
+                res.forEach((item) => {
+                  console.log('currentItem = ', currentItem)
+                  DataModel.findOneAndUpdate(
+                    {title: currentItem.title, url: currentItem.url, body: []},
+                    {body: item}).then(() => {
+                    DataModel.findOne().then((result) => {
+                      assert(result.body === item)
+                      done()
+                    })
+                  })
+
+                  x(item.url, selector.selector, [selector.res_body])(getData)
+                })
+              })
+            } else {
+              console.log(err)
+              console.error(err)
+            }
+
           }
-        })
-      })
-      console.log(res)
-      // console.log(finish_result)
-      console.log(_.isEmpty(finish_result))
-      fs.writeFile('result.json', JSON.stringify(finish_result, null, 4), () => {
-      })
-    } else {
-      console.log(err)
-      console.error(err)
-    }
-  }, 1000)
-}
-x(URL, selectors[0].selector, [selectors[0].res_body])(getData)
+        }, 1000)
+      }
+      x(URL, selectors[0].selector, [selectors[0].res_body])(getData)
+    })
+  })
+
