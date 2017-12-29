@@ -1,0 +1,660 @@
+{
+  "stat:Level": {
+    "stat:Text": {
+      "stat:heading": "Revenue and Taxation Code - RTC ",
+      "-xmlns:stat": "https://casetext.com/stat"
+    },
+    "-id": "Bk4QCVUW77zSkBX04U-Q7GHyLXRNUZQXz",
+    "stat:Level": [
+      {
+        "stat:Text": {
+          "stat:heading": "GENERAL PROVISIONS"
+        },
+        "-id": "Sk_6rhz7mMr1FaB3MmXMBJcaB2MmQz",
+        "stat:Level": [
+          {
+            "stat:p": [],
+            "stat:note": "( General Provisions enacted by Stats. 1939, Ch. 154. )",
+            "-id": "Sy-c2zm7fSkxZqhMmXzrJ-b52MQ7f"
+          },
+          {
+            "stat:header": "1.",
+            "stat:p": [
+              "",
+              "This act shall be known as the Revenue and Taxation Code.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "ByGW53zm7MByQZ53fmmfBk4-q3GXXz"
+          },
+          {
+            "stat:header": "2.",
+            "stat:p": [
+              "",
+              "The provisions of this code in so far as they are substantially the same as existing statutory provisions relating to the same subject matter shall be construed as restatements and continuations, and not as new enactments.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "BkS-c2zmQGSkIb92zQQMHyDb93GmmM"
+          },
+          {
+            "stat:header": "3.",
+            "stat:p": [
+              "",
+              "All persons who, at the time this code goes into effect, hold office under any of the acts repealed by this code, which offices are continued by this code, continue to hold them according to their former tenure.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "rk_b93GQ7MS1Fb92M7mfH15Z9nM7QG"
+          },
+          {
+            "stat:header": "4.",
+            "stat:p": [
+              "",
+              "Any action or proceeding commenced before this code takes effect, or any right accrued, is not affected by this code, but all procedure taken shall conform to the provisions of this code as far as possible.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "r1iZcnzmmfB13WcnfX7GByTb52M7QG"
+          },
+          {
+            "stat:header": "5.",
+            "stat:p": [
+              "",
+              "Unless the context otherwise requires, the general provisions hereinafter set forth govern the construction of this code.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "ByRW52G7QMrJyg-53z7mzS1eg-c2GX7G"
+          },
+          {
+            "stat:header": "6.",
+            "stat:p": [
+              "",
+              "Division, part, chapter, article, and section headings do not in any manner affect the scope, meaning, or intent of the provisions of this code.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "SJWxbc2fmQMBkfgbq3fXmGHy7x-5hfQQG"
+          },
+          {
+            "stat:header": "7.",
+            "stat:p": [
+              "",
+              "Whenever a power is granted to, or a duty imposed on, any person or board by any provision of this code, it may be exercised or performed by any deputy or person authorized by the person or board to whom the power is granted or on whom the duty is imposed, unless it is expressly provided that the power or duty shall be exercised or performed only by the person or board to whom the power is granted or on whom the duty is imposed.",
+              "",
+              "(Amended by Stats. 1943, Ch. 874.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1943, Ch. 874.)",
+            "-id": "rJVx-93MQXGHJHl-9hMmmfryLl-qhzQ7G"
+          },
+          {
+            "stat:header": "8.",
+            "stat:p": [
+              "",
+              "Writing includes any form of recorded message capable of comprehension by ordinary visual means. Whenever any notice, report, petition, permit, statement, or record is required by this code, it shall be made in writing in the English language.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "HJveWc2MXQMrJdxW52MXQzryYlb5nz7XM"
+          },
+          {
+            "stat:header": "9.",
+            "stat:p": [
+              "",
+              "Whenever any reference is made to any portion of this code or of any other law, the reference applies to all amendments and additions thereto now or hereafter made.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "SkqgZqnMX7GByieZcnzXmMBk2lWqhzXQG"
+          },
+          {
+            "stat:header": "10.",
+            "stat:p": [
+              "",
+              "“Section” means a section of this code unless some other statute is specifically mentioned and “subdivision” means a subdivision of the section in which that term occurs unless some other section is expressly mentioned.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "ByTeZ9hMX7zSk0xW9hfmmMHy1-Z9nM7XG"
+          },
+          {
+            "stat:header": "11.",
+            "stat:p": [
+              "",
+              "The present tense includes the past and future tenses; and the future, the present.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "HkgWZchM7mfSyZWZ9hMXXGS1z-W92MQmG"
+          },
+          {
+            "stat:header": "12.",
+            "stat:p": [
+              "",
+              "The masculine gender includes the feminine and neuter.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "H17ZWchMmXGSyVbbqnfXQGH1rW-q2Gm7M"
+          },
+          {
+            "stat:header": "12.2.",
+            "stat:p": [
+              "",
+              "“Spouse” includes “registered domestic partner,” as required by Section 297.5 of the Family Code.",
+              "",
+              "(Added by Stats. 2016, Ch. 50, Sec. 94.   Effective January 1, 2017.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2016, Ch. 50, Sec. 94.   Effective January 1, 2017.)",
+            "-id": "HyIbZ52zQXzrJv-b93Gm7GBydZ-qhMX7z"
+          },
+          {
+            "stat:header": "13.",
+            "stat:p": [
+              "",
+              "The singular number includes the plural, and the plural the singular.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "HyFb-9nzX7zBycbWc3fXXfr1sW-cnMQXf"
+          },
+          {
+            "stat:header": "14.",
+            "stat:p": [
+              "",
+              "“City” includes incorporated city, city and county, municipal corporation, municipality, town, and incorporated town.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "Bkn-Z92zmXfSJTWZ93MXmGryCZbqhz7mz"
+          },
+          {
+            "stat:header": "15.",
+            "stat:p": [
+              "",
+              "“County” includes city and county.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "SyyGb93G7XGB1gMW5hfXXMSJZzZ9nMXQz"
+          },
+          {
+            "stat:header": "16.",
+            "stat:p": [
+              "",
+              "“Shall” is mandatory and “may” is permissive.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "BJMMWqhG7mGSyXMZcnGQXfSkEGbchzQXG"
+          },
+          {
+            "stat:header": "17.",
+            "stat:p": [
+              "",
+              "“Oath” includes affirmation and written declarations signed under the penalties of perjury.",
+              "",
+              "(Amended by Stats. 1957, Ch. 323.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1957, Ch. 323.)",
+            "-id": "HkSMWq2G77MBkLfb93G7QGBJwz-53MmQG"
+          },
+          {
+            "stat:header": "18.",
+            "stat:p": [
+              "",
+              "“Signature” or “subscription” includes mark. Such mark shall be made as required in the Civil Code.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "SkOzb9nfmmfSkYMZcnGmmzBk5M-92zXXz"
+          },
+          {
+            "stat:header": "19.",
+            "stat:p": [
+              "",
+              "“Person” includes any person, firm, partnership, general partner of a partnership, limited liability company, registered limited liability partnership, foreign limited liability partnership, association, corporation, company, syndicate, estate, trust, business trust, or organization of any kind.  As used in Division 2 (commencing with Section 6001), “person” shall include, in addition to the items of definition contained in the first sentence, trustee, trustee in bankruptcy, receiver, executor, administrator, or assignee.",
+              "",
+              "(Amended by Stats. 1995, Ch. 679, Sec. 10.   Effective October 10, 1995.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1995, Ch. 679, Sec. 10.   Effective October 10, 1995.)",
+            "-id": "Byjzb5nzm7Mr1nGW9hGXXGr1aMZchGXQz"
+          },
+          {
+            "stat:header": "20.",
+            "stat:p": [
+              "",
+              "(a) Except as otherwise provided in subdivisions (b) and (c), and notwithstanding any other law, “board” means the California Department of Tax and Fee Administration.",
+              "",
+              "(b) Unless the context requires otherwise, as used in this code or any other code, “board,” with respect to an appeal, means the Office of Tax Appeals if the authority to handle appeals has been transferred from the State Board of Equalization to the Office of Tax Appeals pursuant to Part 9.5 (commencing with Section 15670) of Division 3 of Title 2 of the Government Code.",
+              "",
+              "(c) Unless the context requires otherwise, as used in this code or any other code, “board” means the State Board of Equalization where the State Board\n\t\t\t\t  of Equalization has retained authority pursuant to subdivision (b) or (c) of Section 15600.",
+              "",
+              "(d) This section shall become operative on July 1, 2017.",
+              "",
+              "(Repealed (in Sec. 14) and added by Stats. 2017, Ch. 16, Sec. 15.   Effective June 27, 2017.   Section operative July 1, 2017, by its own provisions.)",
+              ""
+            ],
+            "stat:note": "(Repealed (in Sec. 14) and added by Stats. 2017, Ch. 16, Sec. 15.   Effective June 27, 2017.   Section operative July 1, 2017, by its own provisions.)",
+            "-id": "HyRM-9hMmmGH1kXbq2G77MByx7b93f7XM"
+          },
+          {
+            "stat:header": "20.5.",
+            "stat:p": [
+              "",
+              "(a) Unless the context requires otherwise, as used in this code or any other code, “board, itself” or “State Board of Equalization meeting as a public body” means the California Department of Tax and Fee Administration for those duties, powers, and responsibilities transferred to the California Department of Tax and Fee Administration pursuant to Section 15570.22 of the Government Code.",
+              "",
+              "(b) Unless the context requires otherwise, as used in this code or any other code, “executive director” or “executive officer of the board” means the director of the California Department of Tax and Fee Administration for those duties, powers, and responsibilities transferred to the California Department of Tax and Fee Administration pursuant to Section 15570.22 of\n\t\t\t\t  the Government Code.",
+              "",
+              "(Added by Stats. 2017, Ch. 252, Sec. 16.   Effective September 16, 2017.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2017, Ch. 252, Sec. 16.   Effective September 16, 2017.)",
+            "-id": "ryb7b9nMXQGrkGQ-c2zXmzHkQm-5nzmQM"
+          },
+          {
+            "stat:header": "21.",
+            "stat:p": [
+              "",
+              "“Controller” means the State Controller.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "HyN7W5hf7QfrJrXZ5nzQ7Mr18X-5nG7mG"
+          },
+          {
+            "stat:header": "22.",
+            "stat:p": [
+              "",
+              "“Auditor” of a city or county means the chief accounting officer, by whatever title he may be known.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "HyD7Wc2MXQzHy_mZ93MQmfB1FQWqnzQQz"
+          },
+          {
+            "stat:header": "23.",
+            "stat:p": [
+              "",
+              "“Assessee” means the person to whom property or a tax is assessed.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "SJ9Q-52fmmfrkomb92MXXzH13QZ93GX7f"
+          },
+          {
+            "stat:header": "24.",
+            "stat:p": [
+              "",
+              "No act in all the proceedings for raising revenue by taxation is illegal on account of informality or because not completed within the required time.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "BypX-q3fmmMB107bq2GmXMrJJV-93fXXM"
+          },
+          {
+            "stat:header": "25.",
+            "stat:p": [
+              "",
+              "Unless expressly otherwise provided, any notice required to be given to any person by any provision of this code may be given in the manner prescribed in the Code of Civil Procedure for service by mail.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "rJeNZ5hMmXGBJbNWc3fQXfByz4Zq2M77M"
+          },
+          {
+            "stat:header": "26.",
+            "stat:p": [
+              "",
+              "If any provision of this code, or its application to any person or circumstance, is held invalid, the remainder of the code, or the application of the provision to other persons or circumstances, is not affected.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "ry7V-9nG7QGHyNE-cnGQXzBJBNZ53MXmz"
+          },
+          {
+            "stat:header": "27.",
+            "stat:p": [
+              "",
+              "This code, and any amendment hereto made by any statute enacted at the fifty-third session of the Legislature, takes effect on February 1, 1941.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 154.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 154.)",
+            "-id": "Hy8NW9hMXmMS1vVZ5nzXXfSJuVb53MmXG"
+          },
+          {
+            "stat:header": "28.5.",
+            "stat:p": [
+              "",
+              "As used in Division 1 of this code, “partnership” shall include limited liability company, registered limited liability partnership, and foreign limited liability partnership, except where the context or the specific provisions of this division otherwise require.",
+              "",
+              "(Amended by Stats. 1995, Ch. 679, Sec. 11.   Effective October 10, 1995.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1995, Ch. 679, Sec. 11.   Effective October 10, 1995.)",
+            "-id": "BJtN-c2MX7GBkqV-qhfQXfByiEZ5nz7mz"
+          },
+          {
+            "stat:header": "29.",
+            "stat:p": [
+              "",
+              "Whenever any official is authorized to commence an action for the violation of any law relating to revenue or to compel the specific performance of such a law, he may designate the county in which the action shall be commenced and prosecuted, unless otherwise provided by law.",
+              "",
+              "(Added by Stats. 1951, Ch. 655.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1951, Ch. 655.)",
+            "-id": "ry2NZ9nzXmGSypE-9hfQXMrJREbq2M7Qz"
+          },
+          {
+            "stat:header": "30.",
+            "stat:p": [
+              "",
+              "The courts of this State shall recognize and enforce liabilities for taxes lawfully imposed by any other state, or the political subdivisions thereof, which extends a like comity to this State.",
+              "",
+              "(Amended by Stats. 1951, Ch. 1381.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1951, Ch. 1381.)",
+            "-id": "B1JB-c2z7XMH1xrW5nfm7MryZrbcnfQXf"
+          },
+          {
+            "stat:header": "31.",
+            "stat:p": [
+              "",
+              "The Attorney General or an appropriate official of any political subdivision of this State may bring suits in the courts of other states to collect taxes legally due this State or any political subdivision thereof. The officials of other states which extend a like comity to this State are empowered to sue for the collection of such taxes in the courts of this State. A certificate by the Secretary of State under the Great Seal of the State that such officers have authority to collect the tax is conclusive evidence of such authority. This section does not apply to Parts 8 and 9 of Division 2.",
+              "",
+              "(Amended by Stats. 1953, Ch. 569.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1953, Ch. 569.)",
+            "-id": "SyzBW93fQXfByXSbc2zQmfSJNSb53MQmM"
+          },
+          {
+            "stat:header": "33.",
+            "stat:p": [
+              "",
+              "Human whole blood, plasma, blood products, and blood derivatives, or any human body parts held in a bank for medical purposes, shall be exempt from taxation for any purpose.",
+              "",
+              "(Added by Stats. 1965, Ch. 930.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1965, Ch. 930.)",
+            "-id": "HJrrb9nzXQzSJIB-53MXmfSkwSZ9nzQmz"
+          },
+          {
+            "stat:header": "34.",
+            "stat:p": [
+              "",
+              "Whenever an amount of money paid by a person to the state or any of its agencies includes a sum which can be identified as in fact intended as payment of a locally administered tax which should have been paid directly to a city, city and county, county or district within the state, the state or its agency may pay the amount to the local government entitled thereto and notify the payor of its action. This procedure, however, shall not be followed by the state or any of its agencies unless the governing body of the local government concerned has, by resolution, agreed with respect to such payments that a timely payment received by the state or its agency will be regarded as a timely payment to the local government concerned, and that it will process all claims with respect to such payment in the same manner as though the payment had been made to it in the first instance.",
+              "",
+              "(Added by Stats. 1969, Ch. 2.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1969, Ch. 2.)",
+            "-id": "HyuHWc2z7mMrkKr-q3GXQzBkcBWcnGXXM"
+          },
+          {
+            "stat:header": "35.",
+            "stat:p": [
+              "",
+              "Commencing with its January 1, 1985, population base and continuing until the date of certification of the 1990 Federal Census, the population to be used by the Controller and by all other state and county agencies for all purposes of allocation and distribution of grant funds and subventions, including, without limitation, the annual allocation from the Public Library Fund and from the Motor Vehicle License Fee Account in the Transportation Tax Fund, for any general law city located in a county of the 11th class, which city’s population as of January 1, 1985, was 38,925 based upon an estimate validated by the Department of Finance, shall be 38,925, adjusted annually, commencing January 1, 1986, by the percentage of population growth of the State of California as a whole.",
+              "",
+              "(Added by Stats. 1987, Ch. 440, Sec. 1.   Effective September 8, 1987.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1987, Ch. 440, Sec. 1.   Effective September 8, 1987.)",
+            "-id": "HkiBb9nzQXzB13Bb93zXmMH1aBbq3f77f"
+          },
+          {
+            "stat:header": "36.",
+            "stat:p": [
+              "",
+              "Whenever any notice or other communication is required by this code to be mailed by registered mail, the mailing of such notice or other communication by certified mail shall be deemed to be sufficient compliance with the requirements of law.",
+              "",
+              "(Added by Stats. 1970, Ch. 287.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1970, Ch. 287.)",
+            "-id": "ryAHb5nzQQGryJUbc2fXXMB1x8-cnGX7M"
+          },
+          {
+            "stat:header": "37.",
+            "stat:p": [
+              "",
+              "Notwithstanding any other provision of law, all interest and penalties owing due to late payment of supplemental unsecured property tax levies shall be canceled, if such payment is made by December 31, 1981.",
+              "",
+              "Notwithstanding any other provision of law, all interest and penalties owing on the readjusted amount of any other tax resulting from supplemental unsecured property tax levies shall be canceled, if the payment of such readjusted tax is made by December 31, 1981.",
+              "",
+              "As used in this section, “supplemental unsecured property tax levies” shall mean that amount of property tax levied by any city, county, city and county, and special district which is attributable to that portion of the property tax rate levied on the unsecured roll for the 1978–79 tax year, less the rate for voter-approved indebtedness, which is in excess of four dollars ($4) per one hundred dollars ($100) of  assessed value.",
+              "",
+              "As used in this section, “the readjusted amount of any other tax resulting from supplemental unsecured property tax levies” shall mean the difference in any other tax levy between the amount that would have been levied had Article XIII A applied to the 1978–79 unsecured property tax roll and the amount levied using the 1977–78 secured roll property tax rate.",
+              "",
+              "(Added by Stats. 1981, Ch. 242, Sec. 3.   Effective July 21, 1981.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1981, Ch. 242, Sec. 3.   Effective July 21, 1981.)",
+            "-id": "SJZU-52zQ7fSkGLbcnMm7Gry7Ib9hGQXG"
+          },
+          {
+            "stat:header": "38.",
+            "stat:p": [
+              "",
+              "(a) The Legislative Analyst shall submit a report to the Legislature regarding the possible consolidation of the remittance processing and cashiering functions and the mail processing operations, of the Franchise Tax Board, the State Board of Equalization, and the Employment Development Department.",
+              "",
+              "(b) The Franchise Tax Board, the State Board of Equalization, and the Employment Development Department shall provide the Legislative Analyst all data and information that the Legislative Analyst identifies as necessary for completing the report and shall assist the Legislative Analyst in the preparation of the report.  The information provided to the Legislative Analyst shall include, but not be limited to, an evaluation of the short- and long-term fiscal and budgetary advantages and disadvantages that would result from the proposed consolidation of the remittance processing and cashiering functions and the mail processing functions of, the Franchise Tax Board, the State Board of Equalization, and the Employment Development Department.  Any data and information requested by the Legislative Analyst shall be submitted on or before July 1, 2004.",
+              "",
+              "(c) The purpose of the report required by this section is to determine, to the extent possible and based on available information and reasonable assumptions, if there are any benefits to the consolidation of the management and control of these operations based on all of the following criteria:",
+              "",
+              "(1) The elimination of duplicative functions and fragmented responsibilities.",
+              "",
+              "(2) Increased operational efficiencies due to the use of improved technologies and economies of scale.",
+              "",
+              "(3) Additional interest earnings for the state.",
+              "",
+              "(d) For purposes of this section, “remittance processing and cashiering” means receiving, batching, balancing, and depositing remittances.",
+              "",
+              "(e) The Legislative Analyst shall provide to the Legislature its report and any recommendations and considerations with regard to the possible consolidation of these functions by November 1, 2004.",
+              "",
+              "(Added by Stats. 2003, Ch. 569, Sec. 1.   Effective January 1, 2004.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2003, Ch. 569, Sec. 1.   Effective January 1, 2004.)",
+            "-id": "Sy4LZ92Gm7zrJHLZ5hMQQGHJUL-q3GQXf"
+          },
+          {
+            "stat:header": "38.7.",
+            "stat:p": [
+              "",
+              "(a) On or before January 1, 2016, the Legislative Analyst’s Office shall provide to the Assembly Committee on Revenue and Taxation, the Senate Committee on Governance and Finance, and the public a report evaluating the economic effects and administration of the tax credits allowed pursuant to Sections 6902.5, 17053.85, and 23685. In researching the reports, the Legislative Analyst’s Office may do all of the following:",
+              "",
+              "(1) Request and receive all information provided to the California Film Commission pursuant to subdivision (g) of Sections 17053.85 and 23685.",
+              "",
+              "(2) Request and receive all information provided to the Franchise Tax Board relating\n\t\t\t\t  to the sale or assignment of credits pursuant to subdivision (c) of Sections 17053.85 and 23685.",
+              "",
+              "(3) Request and receive all information provided to the board pursuant to subdivisions (c) and (g) of Section 6902.5.",
+              "",
+              "(b) The California Film Commission, the board, the Franchise Tax Board, the Employment Development Department, and all other relevant state agencies shall provide additional information, as specified by the Legislative Analyst’s Office, as needed to research the reports required by this section.",
+              "",
+              "(c) (1) The information received by the Legislative Analyst’s Office pursuant to this section shall be considered confidential taxpayer information subject to Sections 7056, 7056.5, and 19542 of this code and Section 1094 of the Unemployment Insurance Code, and shall be subject to the\n\t\t\t\t  appropriate confidentiality requirements of the participating state agency.",
+              "",
+              "(2) The Legislative Analyst’s Office may publish statistics in conjunction with the reports required by this section that are derived from information provided to the Legislative Analyst’s Office pursuant to this section if the published statistics are classified to prevent the identification of particular taxpayers, reports, and tax returns and the publication of the percentage of dividends paid by a corporation that is deductible by the recipient under Part 11 (commencing with Section 23001) of Division 2.",
+              "",
+              "(Added by Stats. 2012, Ch. 840, Sec. 1.   Effective September 30, 2012.   See similar section added by Stats. 2012, Ch. 841.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2012, Ch. 840, Sec. 1.   Effective September 30, 2012.   See similar section added by Stats. 2012, Ch. 841.)",
+            "-id": "HkPIbqhGXXzHydIbqhMXmMSktL-53M77f"
+          },
+          {
+            "stat:header": "38.7.",
+            "stat:p": [
+              "",
+              "(a) On or before January 1, 2016, the Legislative Analyst’s Office shall provide to the Assembly Committee on Revenue and Taxation, the Senate Committee on Governance and Finance, and the public a report evaluating the economic effects and administration of the tax credits allowed pursuant to Sections 6902.5, 17053.85, and 23685. In researching the reports, the Legislative Analyst’s Office may do all of the following:",
+              "",
+              "(1) Request and receive all information provided to the California Film Commission pursuant to subdivision (g) of Sections 17053.85 and 23685.",
+              "",
+              "(2) Request and receive all information provided to the Franchise\n\t\t\t\t\t\tTax Board relating to the sale or assignment of credits\n\t\t\t\t\t\tpursuant to subdivision (c) of Sections 17053.85 and 23685.",
+              "",
+              "(3) Request and receive all information provided to the board pursuant to subdivisions (c) and (g) of Section 6902.5.",
+              "",
+              "(b) The California Film Commission, the board, the Franchise Tax Board, the Employment Development Department, and all other relevant state agencies shall provide additional information, as specified by the Legislative Analyst’s Office, as needed to research the reports required by this section.",
+              "",
+              "(c) (1) The information received by the Legislative Analyst’s Office pursuant to this section shall be considered confidential taxpayer information subject to Sections 7056, 7056.5, and 19542 of this code and Section 1094 of\n\t\t\t\t\t\tthe Unemployment Insurance Code, and shall be subject to the appropriate confidentiality requirements of the participating state agency.",
+              "",
+              "(2) The Legislative Analyst’s Office may publish statistics in conjunction with the reports required by this section that are derived from information provided to the Legislative Analyst’s Office pursuant to this section if the published statistics are classified to prevent the identification of particular taxpayers, reports, and tax returns and the publication of the percentage of dividends paid by a corporation that is deductible by the recipient under Part 11 (commencing with Section 23001) of Division 2.",
+              "",
+              "(Added by Stats. 2012, Ch. 841, Sec. 1.   Effective September 30, 2012.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2012, Ch. 841, Sec. 1.   Effective September 30, 2012.)",
+            "-id": "ry5UWchM77GB1iU-9nGXQzSk3U-92Gmmf"
+          },
+          {
+            "stat:header": "38.9.",
+            "stat:p": [
+              "",
+              "(a) On or before July 1, 2019, the Legislative Analyst’s Office shall provide to the Assembly Committee on Revenue and Taxation, the Senate Committee on Governance and Finance, and the public a report evaluating the economic effects and administration of the tax credits allowed pursuant to Sections 6902.5, as amended by the act adding this section, 17053.95, and 23695. In researching the reports, the Legislative Analyst’s Office may do all of the following:",
+              "",
+              "(1) Request and receive all information provided to the California Film Commission pursuant to subdivision (g) of Sections 17053.95 and 23695.",
+              "",
+              "(2) Request and receive all information\n\t\t\t\t  provided to the Franchise Tax Board relating to the sale or assignment of credits pursuant to subdivision (c) of Sections 17053.95 and 23695.",
+              "",
+              "(3) Request and receive all information provided to the board pursuant to subdivisions (c) and (g) of Section 6902.5, as amended by the act adding this section.",
+              "",
+              "(b) The California Film Commission, the board, the Franchise Tax Board, the Employment Development Department, and all other relevant state agencies shall provide additional information, as specified by the Legislative Analyst’s Office, as needed to research the reports required by this section.",
+              "",
+              "(c) (1) The information received by the Legislative Analyst’s Office pursuant to this section shall be considered confidential taxpayer information subject to Sections 7056,\n\t\t\t\t  7056.5, and 19542 of this code and Section 1094 of the Unemployment Insurance Code, and shall be subject to the appropriate confidentiality requirements of the participating state agency.",
+              "",
+              "(2) The Legislative Analyst’s Office may publish statistics in conjunction with the reports required by this section that are derived from information provided to the Legislative Analyst’s Office pursuant to this section, if the published statistics are classified to prevent the identification of particular taxpayers, reports, and tax returns and the publication of the percentage of dividends paid by a corporation that is deductible by the recipient under Part 11 (commencing with Section 23001) of Division 2.",
+              "",
+              "(Added by Stats. 2014, Ch. 413, Sec. 2.   Effective September 18, 2014.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2014, Ch. 413, Sec. 2.   Effective September 18, 2014.)",
+            "-id": "BypUZchfQmGBk0IWchz77GB11wWc2GXmM"
+          },
+          {
+            "stat:header": "40.",
+            "stat:p": [
+              "",
+              "(a) (1) The board shall publish on its Internet Web site a written formal opinion, a written memorandum opinion, or a written summary decision for each decision of the board in which the amount in controversy is five hundred thousand dollars ($500,000) or more, within 120 days of the date upon which the board rendered its decision.",
+              "",
+              "(2) A decision of the board shall not include consent calendar actions taken by the board.",
+              "",
+              "(b) Each formal opinion, memorandum opinion, and summary decision as described in subdivision (a) shall include all of the following:",
+              "",
+              "(1) Findings of fact.",
+              "",
+              "(2) The legal issue or issues presented.",
+              "",
+              "(3) Applicable law.",
+              "",
+              "(4) Analysis.",
+              "",
+              "(5) Disposition.",
+              "",
+              "(6) Names of adopting board members.",
+              "",
+              "(c) (1) A board member may submit a dissenting opinion setting forth his or her rationale for disagreeing with the memorandum opinion or formal opinion.",
+              "",
+              " (2) A board member may submit a concurring opinion setting forth the board member’s rationale for agreeing with the result reached in the memorandum opinion or formal opinion, if different than the rationale set forth in the\n\t\t\t\t  memorandum opinion or formal opinion. ",
+              "",
+              "(3) A dissenting opinion and a concurring opinion shall be published in the same manner as prescribed in subdivision (a) for a formal opinion or memorandum opinion.",
+              "",
+              " (d) A formal opinion or memorandum opinion adopted by the board may be cited as precedent in any matter or proceeding before the board, unless the opinion has been depublished, overruled, or superseded. A summary decision may not be cited as precedent in any matter or proceeding before the board. ",
+              "",
+              "(Added by Stats. 2012, Ch. 788, Sec. 1.   Effective January 1, 2013.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2012, Ch. 788, Sec. 1.   Effective January 1, 2013.)",
+            "-id": "Hyew-cnzQ7GB1bvWcnGXQMS1Mw-qnf7XG"
+          },
+          {
+            "stat:header": "41.",
+            "stat:p": [
+              "",
+              "Notwithstanding any other law, any bill, introduced on or after January 1, 2015, that would authorize a new credit against the “net tax,” as defined in Section 17039, or against the “tax,” as defined in Section 23036, or both, shall contain all of the following:",
+              "",
+              "(a) Specific goals, purposes, and objectives that the tax credit will achieve.",
+              "",
+              "(b) Detailed performance indicators for the Legislature to use when measuring whether the tax credit meets the goals, purposes, and objectives stated in the bill.",
+              "",
+              "(c) Data collection requirements to enable the Legislature to determine whether the tax\n\t\t\t\t  credit is meeting, failing to meet, or exceeding those specific goals, purposes, and objectives. The requirements shall include the specific data and baseline measurements to be collected and remitted in each year the credit is in effect, in order for the Legislature to measure the change in performance indicators, and the specific taxpayers, state agencies, or other entities required to collect and remit data.",
+              "",
+              "(d) Taxpayer information collected pursuant to this section is subject to Section 19542.",
+              "",
+              "(Added by Stats. 2014, Ch. 845, Sec. 2.   Effective January 1, 2015.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2014, Ch. 845, Sec. 2.   Effective January 1, 2015.)",
+            "-id": "B1QvZc3f77zHJNvb52GQXGHkrDbchMm7M"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 1. PROPERTY TAXATION "
+        },
+        "-id": "HJsTSnfQQGB1hTBhM7mMBkpprnMQXG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 2. OTHER TAXES "
+        },
+        "-id": "SyC6H2GQmfrkkxpHhGQXGryleTB2zXmM"
+      }
+    ]
+  }
+}

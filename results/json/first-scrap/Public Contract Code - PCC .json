@@ -1,0 +1,30 @@
+{
+  "stat:Level": {
+    "stat:Text": {
+      "stat:heading": "Public Contract Code - PCC ",
+      "-xmlns:stat": "https://casetext.com/stat"
+    },
+    "-id": "SJjfRV8-mXGrk3MCEUWm7zB16MA4L-Xmf",
+    "stat:Level": [
+      {
+        "stat:Text": {
+          "stat:heading": "PUBLIC CONTRACT CODE"
+        },
+        "-id": "ByOjGiM7mGr1YiMiMXQGB1qoMiGX7z",
+        "stat:Level": []
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 1. PURPOSE AND PRELIMINARY MATTERS "
+        },
+        "-id": "HkssMsfQQfB13jzoGXXfSkpoGoMXmz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 2. GENERAL PROVISIONS "
+        },
+        "-id": "SJCizozmQGHy1gjGifQXMByleofofmmG"
+      }
+    ]
+  }
+}

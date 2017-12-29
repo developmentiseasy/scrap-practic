@@ -1,1 +1,27 @@
-<stat:Level><stat:Text><stat:heading>Public Contract Code - PCC </stat:heading><-xmlns:stat>https://casetext.com/stat</-xmlns:stat></stat:Text><-id>SJjfRV8-mXGrk3MCEUWm7zB16MA4L-Xmf</-id><stat:Level><stat:Text><stat:heading>PUBLIC CONTRACT CODE</stat:heading></stat:Text><-id>ByOjGiM7mGr1YiMiMXQGB1qoMiGX7z</-id><stat:Level/><stat:Text><stat:heading>DIVISION 1. PURPOSE AND PRELIMINARY MATTERS </stat:heading></stat:Text><-id>HkssMsfQQfB13jzoGXXfSkpoGoMXmz</-id><stat:Text><stat:heading>DIVISION 2. GENERAL PROVISIONS </stat:heading></stat:Text><-id>SJCizozmQGHy1gjGifQXMByleofofmmG</-id></stat:Level></stat:Level>
+<?xml version="1.0" encoding="UTF-8"?>
+<stat:Document xmlns:stat="https://casetext.com/stat" id="98870cf7-36da-40a7-9e95-b59dc528a33a">
+    <stat:Title>California Code</stat:Title>
+    <stat:URL>https://leginfo.legislature.ca.gov/faces/codes.xhtml</stat:URL>
+    <stat:Version>0.1</stat:Version>
+    <stat:Currency>2017-07-07</stat:Currency>
+    <stat:Level id="SJjfRV8-mXGrk3MCEUWm7zB16MA4L-Xmf">
+        <stat:Text xmlns:stat="https://casetext.com/stat">
+            <stat:heading>Public Contract Code - PCC</stat:heading>
+        </stat:Text>
+        <stat:Level id="ByOjGiM7mGr1YiMiMXQGB1qoMiGX7z">
+            <stat:Text>
+                <stat:heading>PUBLIC CONTRACT CODE</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="HkssMsfQQfB13jzoGXXfSkpoGoMXmz">
+            <stat:Text>
+                <stat:heading>DIVISION 1. PURPOSE AND PRELIMINARY MATTERS</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="SJCizozmQGHy1gjGifQXMByleofofmmG">
+            <stat:Text>
+                <stat:heading>DIVISION 2. GENERAL PROVISIONS</stat:heading>
+            </stat:Text>
+        </stat:Level>
+    </stat:Level>
+</stat:Document>

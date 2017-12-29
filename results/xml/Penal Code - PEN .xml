@@ -3,4 +3,71 @@
     <stat:Title>California Code</stat:Title>
     <stat:URL>https://leginfo.legislature.ca.gov/faces/codes.xhtml</stat:URL>
     <stat:Version>0.1</stat:Version>
-    <stat:Currency>2017-07-07</stat:Currency><stat:Level><stat:Text><stat:heading>Penal Code - PEN </stat:heading><-xmlns:stat>https://casetext.com/stat</-xmlns:stat></stat:Text><-id>rkHM0V8WX7fSkUMCVIZm7GryPzRELb7Xf</-id><stat:Level><stat:Text><stat:heading>TITLE OF THE ACT</stat:heading></stat:Text><-id>Sk9equ5GXmGrkolcu5zQ7fSkngqdqzQmM</-id><stat:Level><stat:p/><stat:note>( Heading enacted 1872. )</stat:note><-id>rkgT5G7mzBygxTqMm7fHk-x6qM7Qf</-id><stat:header>1.</stat:header><stat:p>This Act shall be known as The Penal Code of California, and is divided into four parts, as follows:    I.—OF CRIMES AND PUNISHMENTS. II.—OF CRIMINAL PROCEDURE.III.—OF THE STATE PRISON AND COUNTY JAILS.IV.—OF PREVENTION OF CRIMES AND APPREHENSION OF CRIMINALS.  (Amended by Stats. 1985, Ch. 367, Sec. 1.)</stat:p><stat:note>(Amended by Stats. 1985, Ch. 367, Sec. 1.)</stat:note><-id>rkzx69zXXGHymgp5f7XfS14gpqMQmz</-id></stat:Level><stat:Text><stat:heading>THE PENAL CODE OF CALIFORNIA</stat:heading></stat:Text><-id>Hyax9_cMQXzHyCg9_qfmXzS1kZ9u9zX7z</-id><stat:Text><stat:heading>PRELIMINARY PROVISIONS</stat:heading></stat:Text><-id>ByebqdqGQmzSJZbcucz7Qzr1zbquqM7XG</-id><stat:Text><stat:heading>PART 1. OF CRIMES AND PUNISHMENTS </stat:heading></stat:Text><-id>Hy7WqOqGQQMSk4b5O9fQQMByH-cucGmXz</-id><stat:Text><stat:heading>PART 2. OF CRIMINAL PROCEDURE </stat:heading></stat:Text><-id>HJUb9u5M7mMHyPZ5u5zQXzH1_Z5dcMmQG</-id><stat:Text><stat:heading>PART 3. OF IMPRISONMENT AND THE DEATH PENALTY </stat:heading></stat:Text><-id>BytW5_cfX7GHJ9W5dcG77MHJiWcOcMQ7z</-id><stat:Text><stat:heading>PART 4. PREVENTION OF CRIMES AND APPREHENSION OF CRIMINALS </stat:heading></stat:Text><-id>HJnWcO5GX7GHyTb5d9z77fHJCb9OcfmQM</-id><stat:Text><stat:heading>PART 5. PEACE OFFICERS' MEMORIAL </stat:heading></stat:Text><-id>rJJz5u5Mm7GrJgGcuqM77zrJWMcOcf7QG</-id><stat:Text><stat:heading>PART 6. CONTROL OF DEADLY WEAPONS </stat:heading></stat:Text><-id>HyzGcO5f77fBkmfcO5f7mfSkEM5O9MQmG</-id></stat:Level></stat:Level>
+    <stat:Currency>2017-07-07</stat:Currency>
+    <?xml version="1.0" encoding="UTF-8" ?>
+    <stat:Level id="rkHM0V8WX7fSkUMCVIZm7GryPzRELb7Xf">
+        <stat:Text xmlns:stat="https://casetext.com/stat">
+            <stat:heading>Penal Code - PEN </stat:heading>
+        </stat:Text>
+        <stat:Level id="Sk9equ5GXmGrkolcu5zQ7fSkngqdqzQmM">
+            <stat:Text>
+                <stat:heading>TITLE OF THE ACT</stat:heading>
+            </stat:Text>
+            <stat:Level id="rkgT5G7mzBygxTqMm7fHk-x6qM7Qf">
+                <stat:note>( Heading enacted 1872. )</stat:note>
+            </stat:Level>
+            <stat:Level id="rkzx69zXXGHymgp5f7XfS14gpqMQmz">
+                <stat:header>1.</stat:header>
+                <stat:p>This Act shall be known as The Penal Code of California, and is divided into four parts, as follows:  </stat:p>
+                <stat:p>  I.—OF CRIMES AND PUNISHMENTS.</stat:p>
+                <stat:p> II.—OF CRIMINAL PROCEDURE.</stat:p>
+                <stat:p>III.—OF THE STATE PRISON AND COUNTY JAILS.</stat:p>
+                <stat:p>IV.—OF PREVENTION OF CRIMES AND APPREHENSION OF CRIMINALS.  </stat:p>
+                <stat:p>(Amended by Stats. 1985, Ch. 367, Sec. 1.)</stat:p>
+                <stat:note>(Amended by Stats. 1985, Ch. 367, Sec. 1.)</stat:note>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="Hyax9_cMQXzHyCg9_qfmXzS1kZ9u9zX7z">
+            <stat:Text>
+                <stat:heading>THE PENAL CODE OF CALIFORNIA</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="ByebqdqGQmzSJZbcucz7Qzr1zbquqM7XG">
+            <stat:Text>
+                <stat:heading>PRELIMINARY PROVISIONS</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="Hy7WqOqGQQMSk4b5O9fQQMByH-cucGmXz">
+            <stat:Text>
+                <stat:heading>PART 1. OF CRIMES AND PUNISHMENTS </stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="HJUb9u5M7mMHyPZ5u5zQXzH1_Z5dcMmQG">
+            <stat:Text>
+                <stat:heading>PART 2. OF CRIMINAL PROCEDURE </stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="BytW5_cfX7GHJ9W5dcG77MHJiWcOcMQ7z">
+            <stat:Text>
+                <stat:heading>PART 3. OF IMPRISONMENT AND THE DEATH PENALTY </stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="HJnWcO5GX7GHyTb5d9z77fHJCb9OcfmQM">
+            <stat:Text>
+                <stat:heading>PART 4. PREVENTION OF CRIMES AND APPREHENSION OF CRIMINALS </stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="rJJz5u5Mm7GrJgGcuqM77zrJWMcOcf7QG">
+            <stat:Text>
+                <stat:heading>PART 5. PEACE OFFICERS' MEMORIAL </stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="HyzGcO5f77fBkmfcO5f7mfSkEM5O9MQmG">
+            <stat:Text>
+                <stat:heading>PART 6. CONTROL OF DEADLY WEAPONS </stat:heading>
+            </stat:Text>
+        </stat:Level>
+    </stat:Level>
+
+
+</stat:Document>

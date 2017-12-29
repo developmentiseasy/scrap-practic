@@ -1,0 +1,2712 @@
+{
+  "stat:Level": {
+    "stat:Text": {
+      "stat:heading": "Harbors and Navigation Code - HNC ",
+      "-xmlns:stat": "https://casetext.com/stat"
+    },
+    "-id": "SJ8-RNIbXQMHyPZ0EI-QQfHkdZRV8bQXM",
+    "stat:Level": [
+      {
+        "stat:Text": {
+          "stat:heading": "GENERAL PROVISIONS"
+        },
+        "-id": "B1pxED_MQQGSyCgEPuGQmGBJ1ZND_zmmf",
+        "stat:Level": [
+          {
+            "stat:p": [],
+            "stat:note": "( General Provisions enacted by Stats. 1937, Ch. 368. )",
+            "-id": "HyKodfmXGHyltsdz77fSybtidMQ7z"
+          },
+          {
+            "stat:header": "1.",
+            "stat:p": [
+              "",
+              "This act shall be known as the Harbors and Navigation Code.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "SyMtjdf7QzHy7FiOGX7GrJNYiOMX7z"
+          },
+          {
+            "stat:header": "2.",
+            "stat:p": [
+              "",
+              "The provisions of this code in so far as they are substantially the same as existing statutory provisions relating to the same subject matter shall be construed as restatements and continuations, and not as new enactments.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "SJHtoOMXQzS18KodMXmzHkvYi_MXQG"
+          },
+          {
+            "stat:header": "3.",
+            "stat:p": [
+              "",
+              "All persons who, at the time this code goes into effect, hold office under any of the acts repealed by this code, which offices are continued by this code, continue to hold them according to their former tenure.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "rkdti_fX7fHytKjuMm7Mrk5Yi_z7XM"
+          },
+          {
+            "stat:header": "4.",
+            "stat:p": [
+              "",
+              "Any action or proceeding commenced before this code takes effect, and any right accrued, is not affected by this code, but all procedure taken shall conform to the provisions of this code as far as possible.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "BJjKjuGQ7zS13FiOG7QGB1ptsdGQ7z"
+          },
+          {
+            "stat:header": "5.",
+            "stat:p": [
+              "",
+              "Unless the provision or the context otherwise requires, these definitions, rules of construction and general provisions shall govern the construction of this code.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "ry0to_GQmMS1JxKiuGXmzHkgxFodfQQM"
+          },
+          {
+            "stat:header": "6.",
+            "stat:p": [
+              "",
+              "Division, part, chapter, article, and section headings do not in any manner affect the scope, meaning, or intent of the provisions of this code.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "BJZgYiOfm7MrJMxKiOG7QfH1XgYjdfQQz"
+          },
+          {
+            "stat:header": "7.",
+            "stat:p": [
+              "",
+              "Whenever a power is granted to, or a duty is imposed upon, a public officer, the power may be exercised or the duty may be performed by a deputy of the officer or by a person authorized, pursuant to law, by the officer, unless this code expressly provides otherwise.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "HkEltsdzXXfryBeKj_MmQMHkLgFsOfXXM"
+          },
+          {
+            "stat:header": "8.",
+            "stat:p": [
+              "",
+              "Writing includes any form of recorded message capable of comprehension by ordinary visual means. Whenever any notice, report, statement, or record is required or authorized by this code, it shall be made in writing in the English language unless it is expressly provided otherwise.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "rywgtsdzX7zSydxtsdfXQfByKgtjuf77z"
+          },
+          {
+            "stat:header": "9.",
+            "stat:p": [
+              "",
+              "Whenever reference is made to any portion of this code or of any other law of this state, such reference applies to all amendments and additions now or hereafter made.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "SJ5lFjdMX7MHysgtiuMQQzB13xKi_z77G"
+          },
+          {
+            "stat:header": "10.",
+            "stat:p": [
+              "",
+              "“Section” means a section of this code unless some other statute is specifically mentioned. Subdivision means a subdivision of the section in which that term occurs unless some other section is expressly mentioned.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "Bk6eKj_MXXMHyAgYsOzXmfHkJZYo_MQ7z"
+          },
+          {
+            "stat:header": "11.",
+            "stat:p": [
+              "",
+              "The present tense includes the past and future tenses; and the future, the present.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "ByebKjdz7XMBJZZKouzQmGS1zbFj_MQmM"
+          },
+          {
+            "stat:header": "12.",
+            "stat:p": [
+              "",
+              "The masculine gender includes the feminine and neuter.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "SkmZFouG7QzSyN-YidGXXGH1HWtouGXQG"
+          },
+          {
+            "stat:header": "12.2.",
+            "stat:p": [
+              "",
+              "“Spouse” includes “registered domestic partner,” as required by Section 297.5 of the Family Code.",
+              "",
+              "(Added by Stats. 2016, Ch. 50, Sec. 50.   Effective January 1, 2017.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2016, Ch. 50, Sec. 50.   Effective January 1, 2017.)",
+            "-id": "rkIWtsuzmmGH1vbYi_M7XzHyuWtiuMXXM"
+          },
+          {
+            "stat:header": "13.",
+            "stat:p": [
+              "",
+              "The singular number includes the plural, and the plural the singular.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "SkKZtoOfQmfH1qbYjOM7mzHyo-YodGXXz"
+          },
+          {
+            "stat:header": "14.",
+            "stat:p": [
+              "",
+              "“County” includes city and county.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "r13bYsdM7mfBkT-KodfQ7fHkRZYo_z7Xf"
+          },
+          {
+            "stat:header": "15.",
+            "stat:p": [
+              "",
+              "“City” includes city and county.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "S1kMKsOzQQzB1gGKi_M7XzBy-MKs_MQmz"
+          },
+          {
+            "stat:header": "16.",
+            "stat:p": [
+              "",
+              "“Shall” is mandatory and “may” is permissive.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "r1zMFjdfQXzHkQfYiufQQzH1NGFjuGX7z"
+          },
+          {
+            "stat:header": "17.",
+            "stat:p": [
+              "",
+              "“Oath” includes affirmation.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "r1HMYiuzXmzB18MtsufXQfSkDftsuMm7f"
+          },
+          {
+            "stat:header": "18.",
+            "stat:p": [
+              "",
+              "“Signature” or “subscription” includes mark when the signer or subscriber can not write, such signer’s or subscriber’s name being written near the mark by a witness who writes his own name near the signer’s or subscriber’s name; but a signature or subscription by mark can be acknowledged or can serve as a signature or subscription to a sworn statement only when two witnesses so sign their own names thereto.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "BkdfKiOf7XGH1YztjuGXXfrycfFouMmXG"
+          },
+          {
+            "stat:header": "19.",
+            "stat:p": [
+              "",
+              "“Person” means any person, firm, association, organization, partnership, limited liability company, business trust, corporation, or company.",
+              "",
+              "(Amended by Stats. 1994, Ch. 1010, Sec. 146.   Effective January 1, 1995.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1994, Ch. 1010, Sec. 146.   Effective January 1, 1995.)",
+            "-id": "ryiftsdMXmfrynfKiuMQ7zSJTMKodfXmG"
+          },
+          {
+            "stat:header": "20.",
+            "stat:p": [
+              "",
+              "“State” means the State of California, unless applied to the different parts of the United States. In the latter case, it includes the District of Columbia and the territories.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "HJCfYjOGmXfr117Ko_f7QfrklQtsOMm7M"
+          },
+          {
+            "stat:header": "21.",
+            "stat:p": [
+              "",
+              "“Vessel” includes ships of all kinds, steamboats, steamships, canal boats, barges, sailing vessels, and every structure adapted to be navigated from place to place for the transportation of merchandise or persons.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "H1-7toOG7mfr1zXKidGmQMH1XQFiufQXf"
+          },
+          {
+            "stat:header": "22.",
+            "stat:p": [
+              "",
+              "“Steam vessel” means any vessel which is propelled by machinery.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "HyEXKodzXQfHJS7KjdGmXMByLmtouz7XM"
+          },
+          {
+            "stat:header": "23.",
+            "stat:p": [
+              "",
+              "“Wharf” includes pier, quay, or landing.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "B1PXKs_zXXGS1_7KidzQQfB1tQFiOzQmG"
+          },
+          {
+            "stat:header": "24.",
+            "stat:p": [
+              "",
+              "“Goods” includes wares or merchandise.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "S157YjuGQmMSyjXKi_zmXGSkn7Fsuf7Qz"
+          },
+          {
+            "stat:header": "25.",
+            "stat:p": [
+              "",
+              "If any provision of this code, or the application thereof to any person or circumstance, is held invalid, the remainder of the code, or the application of such provision to other persons or circumstances, shall not be affected thereby.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 368.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 368.)",
+            "-id": "ryTmKjdMmmfrJC7KjdGXXGBky4ts_MQXf"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 1. DEPARTMENT OF BOATING AND WATERWAYS AND THE BOATING AND WATERWAYS COMMISSION "
+        },
+        "-id": "SyxbEwdz7mGS1bZ4PdM7XfBkG-4wuzQXM",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 1. DEPARTMENT OF BOATING AND WATERWAYS AND THE BOATING AND WATERWAYS COMMISSION 30-88"
+            },
+            "-id": "H1pmgVnr7XzHyAXxVnSmQGSJy4xV3Bmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Bkx4xVnrXXMB1WVxE3B7XfryfEeEhSXXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. General Provisions and Definitions 30-40"
+            },
+            "-id": "HyXNeV3SX7MBkNVlNnrm7fSySVgNnB7mM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1INg4nS77fryPExV3S7mzHkdNlN2HXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Department of Boating and Waterways 50-77.1"
+            },
+            "-id": "S1YVeEhSmXMry9VgN3BmXGB1o4eN2HXQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hk2Ve4nBmmGByaVlEhSmQzBJ0ElE2HQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Administration 50-50.8"
+            },
+            "-id": "HJJreNhrQQzByxrg4nH7Qfr1Zrx43SXXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1MSx43rXmGrJmrxN3r7QzS1EHeV3HmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. General Powers 60-64.7"
+            },
+            "-id": "S1BSgV3SQ7fByUBlN3HQXGHyvHgNhHmXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJdrgVhH7XfByKBxV2HXXMrkcrgE3SXXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2.5. Beach Erosion Control 65-67.4"
+            },
+            "-id": "SyoSgNnSmXGH1hBxVhHXXfS1pHx43rQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkRBlVhB77GSykUeVhBQ7MBygIl43HXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2.6. California Recreational Boating Trails 68-68.2"
+            },
+            "-id": "r1bUlVhSQQMr1zIxVnrX7fB1mLl43BQXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkE8g4nBQ7GSyB8lE2BQXfByILe4nHmQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2.8. California Public Beach Restoration Act 69.5-69.9"
+            },
+            "-id": "BJwIxE3H7mfBJO8gN3BmXzByYIgN3BXmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJ58eE2BXXfBysIgE3SmmGrJhIl43SQ7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Small Craft Harbors and Connecting Waterways 70-72.9"
+            },
+            "-id": "r168xEhHQXGHyRIlVhB77MSyyvg4nB7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1lwgEnSQXMS1WDgN3BQmfS1fwxE2BQQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Vessels and Vessel Operators 75"
+            },
+            "-id": "BJXDlEnSXXfr1VDxEnHQXGBkHDe43HmXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJIveN3HXmGSyvPeE2r7mfHkOPx4nrQmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 5. Recreational Marinas 76-77.1"
+            },
+            "-id": "SJYwxN2BQQMHkcvx4hHQmGSyjweNhHQ7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S13wlE3Bm7GSkTvl4nrX7GHy0DgN2HXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Boating and Waterways Commission 80-82.6"
+            },
+            "-id": "Hy1ue42BQQfSJl_xEnr77GBy-OeVnB7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJMul4nrQmGS1XOgNhHQQMH1NOxEnSXmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Harbors and Watercraft Revolving Fund 85-88"
+            },
+            "-id": "rJBueE3SXmMHyU_gE3HQXfHyDue4hHXmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1d_xE3S7mzryt_gNnBXmzBkcOlN2Bmmz"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 1.5. NAVIGABLE WATERS "
+        },
+        "-id": "rJ7-4D_MQQMHyNZ4DuzmXfBJB-VPOGQmf",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 1.5. NAVIGABLE WATERS 90-153"
+            },
+            "-id": "S1Kcx4hrXXfS1ccl43rmQfryicl4hS7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Bk2cxN3rm7GSkTqgE3rXQGHk0clVnSQXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Scope of Division 90"
+            },
+            "-id": "HJ1ixVnBX7fHyxixVnB7XfryZsxN3BmQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkzjlE2BQ7MrJQil43B77zS1EolNhrQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Definition and Description 100-107"
+            },
+            "-id": "r1rilN2HmXGByLilEnB77GH1volN3BXmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SyOoeN2HmmGBJKogNhrX7Mr1cigV2S7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Offenses 130-135"
+            },
+            "-id": "HyjsgEhr7QfBynjgE3rXXfrJ6seNhBmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJ0oxN3S77GBy1nxEnrQ7GrkghgEhH7QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Civil Offenses 151-153"
+            },
+            "-id": "ryZhlEnBXmMr1zhgE2BmXGBJ73xEhB7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJNneNhHmmzHyHheV2HQmMSJUhxNhrmmM"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 2. NAVIGATION "
+        },
+        "-id": "Hk8bEv_MmQMryv-Vv_M7mzSyu-4vdGX7z",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 2. NAVIGATION 240-310"
+            },
+            "-id": "rkFZ-EhBmXMS15ZbNhrQ7MrJsb-42HX7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r12WZ4nBX7MBJaZWE2BXmGrk0W-4nSQ7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Scope of Division 240"
+            },
+            "-id": "H1yMWEnBXQfBJezW4hHX7MHJ-Mb4hSmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkGGb4nB7QGrkmzb43Sm7fHJVGZEnrQ7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Penalties 250-268"
+            },
+            "-id": "HyBfWV2BX7zSyUMZV3r7XfH1PfbV2S7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJOMW4hrQmzSkKfWE3SXXGSycGW4nSQXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Losses 280-294"
+            },
+            "-id": "HyoGbVhHQmzByhzW43BmmGrk6zW43Bmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkRMWEnBQXfHyJX-E2SQmMHygX-VhrQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Navigation Rules 280-285"
+            },
+            "-id": "rkZ7-VnS7mGSJGQZV3B7QzrkQQ-VhrQXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ryVXWV3rX7MBkSX-N2S7QzSy8QW4hS7mM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Liability 290-294"
+            },
+            "-id": "rJw7-4nBQXMBy_QW4hBXQGSJYXb4hSmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ry5XbNhBQXfSJoXZE3BX7GH13mbV3Hm7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Offenses 300-310"
+            },
+            "-id": "HkaQW4hSXmGHyRXZ42HXQMr1J4W43BXQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1e4-4nHQXGBy-VZNnBmmGrkz4bVhHQQM"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 3. VESSELS "
+        },
+        "-id": "SytbEwdMmmMH1qZ4DOzmQMH1sWVvdz7Qf",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 3. VESSELS 399-786"
+            },
+            "-id": "HyZyl-42Sm7zByzJgZ4nHQmzSJ7JeZVnrmmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJE1eb42SX7fBkBkgW4nBXXGrkIyebE3BQ7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Vessels Generally 399-449.5"
+            },
+            "-id": "HJv1eWE2B77zBk_ke-NhSQmMSyY1xbE2SQXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r191gZEnBm7MB1s1eWV3BQXzByhklWNnB7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. General Provisions and Definitions 399-406"
+            },
+            "-id": "SJTJlbN2HXQMryR1xb4hrQXzHkJex-VhrX7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rylglZN3SQmzHJWleb42B7mzrkGlgZVnSQmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1.5. Vessel Repair 410-418"
+            },
+            "-id": "Bkmgg-NnHXXzrJVlgZ4hr7XzSkHex-42HQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ByUxgZN2Bm7MBkPxeZN3Bm7Mryugxb4hSXmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Liability, Generally 420-432"
+            },
+            "-id": "HkFgg-V2r77fByqle-E3B7XMHkillb4hS7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJhxl-E2HQmGrJpxlbEnB7QMHk0llW42H7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Liability of Licensed Pilots for San Pedro Bay 440-444"
+            },
+            "-id": "rJJWxZN2H7Xfr1eWeZVhH7QfSkWWx-E2rQmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkGZeWV2r7XfryXWl-V3BQXMB1V-gW42SX7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Vessel Traffic Service 445-449.5"
+            },
+            "-id": "SkBWxWVnBQ7GBkU-gb4hr7mGB1wWg-V3S7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "By_We-EhrQQGSJY-lWNnrmXGSyqWlWEhrmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Civil Actions and Liens 450-509"
+            },
+            "-id": "ryi-lbV2rX7MryhbxbV2S77MS1TbgZE2r7mf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkCbxWEhH7mGrJJzg-43H7mGBkgMlZE3B7Qz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Bottomry 450-462"
+            },
+            "-id": "Hk-flW43HmXzSkGGgZV3rmmGBJmzeZNhSmmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJEGxbNnr77GHyHzxZN3BXQzrJIfeZVhBmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Respondentia 470-474"
+            },
+            "-id": "HkvMlWN2BQ7zBydzlbN2SmQMHkKfgW4hrX7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hy5MlbNnr7QGHyjfebE2SXXMry2GgbN2BQXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Actions Against Vessels 490-497"
+            },
+            "-id": "SyaMxZ4nSXQfBkCfeWEhBmXMrk1Qgb4hHXXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ByeQlW4hBmQMrkZQlZNnr77MHkG7gZV3H7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Boaters Lien Law 500-509"
+            },
+            "-id": "SyXmg-42rQ7GHy4meb43HQmzSySmeWE3H7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkLXg-V3SQmfHkvQxWVhS7XzSkdXeWV2r7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Wrecks and Salvage 510-571"
+            },
+            "-id": "BkK7eZNnrQ7fry97g-VnSmQGH1imlb43B77G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJhQxZE3HQQzB1TQlWN3HmmMBkRmxZNnB77G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Wrecks and Wrecked Property 510-527"
+            },
+            "-id": "rJJExZNhSmQMS1eVl-42BQ7MBybNe-EnBmXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkMNx-42Sm7GrkmEebEhrXXMH14VgbEnHmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Salvage 530-534"
+            },
+            "-id": "Skr4g-VnBXmzSyLVgW42rm7fHyPNeZN2H77f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkOVg-N2HQ7MByY4g-N3HQ7zSy9NeZVhrmQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Marine Debris 550-552"
+            },
+            "-id": "BkiNeW43HXXzrknNg-43B7QfHka4g-VhHXmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJREl-N2SmQzHJySgbEhSXmzHJxrgbNnrmQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Offenses 570-571"
+            },
+            "-id": "Bk-HeZEhrmmzHyGreWVhSX7Mrymrlb43rm7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1NHeb4nrmXzHySSeWV3BX7zHkUSgZV3HX7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Service of Process 600-609"
+            },
+            "-id": "HkDSlWVhHXXfSydSxWNhSX7fSyYrx-4hBXQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Sk9Be-NnS77MSkoBlZV2H77GBk3rebV3SQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4.5. Marinas 630"
+            },
+            "-id": "BJaBgbN2Hm7zBkAHgbVhBQXzHJJIe-4hrQXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SygLlZ4hH7QzrJWLe-V3BmQGHkzLgbE2Bm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 5. Operation and Equipment of Vessels 650-774.4"
+            },
+            "-id": "SJm8lWV3BQQGS1NLg-V3SQ7zr1rIgZVnH77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJIUlWV2SQQzHJDLeW4hHQmfr1OLg-EnBQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Operation and Equipment 650-674"
+            },
+            "-id": "B1tLl-V2rXXzrkcIeWVnH7XfBJiIx-NnBQXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJhIx-VnrmXGBJTUe-E3B77zSyAUe-EhSmmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1.3. Quagga and Zebra Mussel Infestation Prevention Fee 675-677"
+            },
+            "-id": "BJJDeW43rX7GBklwx-EhS7XMHkbwl-4nBQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ryfve-E2SQmzS17vebNhBX7zBkNwlZEhHmXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1.4. Vessel Operators’ Education and Certification Cards 678-678.15"
+            },
+            "-id": "BkSDgW42HmmMrJ8vxbN2SmmGrJwDlbV3rXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1OPlZVhH7XzBktPxWEhrmmGSJ5PeZE3BmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1.5. Anthony Farr and Stacy Beckett Boating Safety Act of 2004 680-685"
+            },
+            "-id": "BkovxbNhSm7zrJhDeWVnSX7GrJTPxW4nBQXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkAPlbNhr7XfSy1ulZEhSQmfBylOxW4hH7XM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Yacht and Ship Brokers 700-740"
+            },
+            "-id": "Bkb_lZNhHmQMByGugWEhr7mzrJQdlW4nHXXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkNOl-Nnr7QMS1HOg-E2BmmMrJIOxW43SXmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2.5. Stored Vessels 754"
+            },
+            "-id": "r1Dux-42Hm7MHy_dlWNnSXXGrkFdl-42HmXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1qdlWV2Hm7MH1iugZEhSXQGryhOe-V3r7Xz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. For-Hire Vessel Operators’ Licenses 760-772"
+            },
+            "-id": "SJaueWE3S7XGSyCdxbN3B7XMr1JtxZ42S77G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkltlZNhH7QGrJbtl-NhHmXGH1ztebNhrQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Charter Boat Safety 773-774.4"
+            },
+            "-id": "Hk7tgWVhS7XzHJNtl-NnS77MS1HFgWV2rmmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJ8KxWV3r7XMSkPtl-VnHXXzryuFlbEnHQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 6. Vessel Sanitation 775-786"
+            },
+            "-id": "HyYKgbN3SmmGS15tg-4nSXmzHksYeZN3Bm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJhFe-Vnr77Mr1pKeb4nBmQMryRtlbNnrX7G"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 4. MASTERS, CREWS AND CARGOES "
+        },
+        "-id": "S1hZ4PuzXmfHy6Z4wOzX7MrJCZNvOzQXz",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 4. MASTERS, CREWS AND CARGOES 790-876"
+            },
+            "-id": "B1H0g42SmXfHyUCg43HmmfryD0eEhBQ7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkuRgE3Sm7GByFCxV3HXXfSy5ReV3H7XM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Scope of Division 790"
+            },
+            "-id": "SJiClVnrXXMH1nCxVnHmQfrkaRl4hrX7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "By0AeVhrmXzByJylx42BQXMHJeyexVhS77G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Ship Masters and Cargoes 800-821"
+            },
+            "-id": "ryWJxxNnHXmGryfkxxV2HQXzB1m1exEhrX7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "By41gg4nS7mfS1Syel4nH7XMBkIygxNnHXXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2.5. Ship’s Managers 830-834"
+            },
+            "-id": "B1D1glE3rmXfB1_ygl4hB7XMryFylxN2BmmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkcyeeE2SQQfr1sJeeN2HQmMHJ2Jeg4nHmmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Mates and Seamen 860-876"
+            },
+            "-id": "BJpJegVhBXQzBJ0kegEhHQmzSJyxgeVhHQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ryglleVnS7QMBJ-xeeN3SmQMHyMgglVhHQXf"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 5. PILOTS FOR MONTEREY BAY AND THE BAYS OF SAN FRANCISCO, SAN PABLO, AND SUISUN"
+        },
+        "-id": "rkyfVwuzQQGSygMVPuz7QfrJ-zNDdMmQz",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 5. PILOTS FOR MONTEREY BAY AND THE BAYS OF SAN FRANCISCO, SAN PABLO, AND SUISUN1100-1203"
+            },
+            "-id": "S1YIxlV2B7QfBy5UllV2BQ7GB1o8xgVhHm7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1h8llE3HXXfSypUlgEnSmXzryAUxlVhBmXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Pilots 1100-1141"
+            },
+            "-id": "rJkwle42rQ7GHklvxxEhSmQMBkbvlgE3SmXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkfDlg4nrXmzHJmDxlEnB7mzrJVDxlN3rQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Legislative Policy and Findings 1100-1102"
+            },
+            "-id": "HkSwxx4nr7QfrJ8Dex42BmmzSyPPelVnH7Xf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Bk_PlxNnSXXzH1KDxx4hB77fSkqvxl4hH7QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Application 1105-1107"
+            },
+            "-id": "BkoPxgE3B7Qzry3wlxEhH7QzByTwegE3BQXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkAweeVnSXXGrkyugl42BQQzB1xuggVhH77f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Definitions 1110-1117"
+            },
+            "-id": "SkbOlgN2HX7zSyfdll42HQmMHkXuexVnHm7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkNuegV3HQXMHkHulxV2rQ7MrkIOgg42B77M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Liability of Persons Using Pilot Services 1120-1122"
+            },
+            "-id": "Bkv_lxVnrm7GrkOulxNnSQXfBJt_gx4hHXXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJqOxlVnSXQMrJoOxxEhr7XfS12dleE2B77f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 5. Exclusive Rights of Pilotage 1125-1126"
+            },
+            "-id": "BkpOlxVnBmQGH1Cdlx4nrQQMSyyKexE3HXXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rylYglVnrXXfr1bKggEnSmmGBJfYxxNnB77f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 6. Exempt Vessels and Vessels Liable for Pilotage 1127-1128"
+            },
+            "-id": "rJmtelV3r7mfr1EKeeVhrmmGS1SKgg4hr77G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkUtlgEnBXmzryvYxlNhB7mzS1_tegE2H7mG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 7. Duties of Pilots 1130-1139"
+            },
+            "-id": "rytteeVnBQXGr1qFxlNhSXQMHkoYxg43BX7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r12FlxNnBXQfByatxlN3r7mfBJCtxx43BQ7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 8. State Certified Pilotage 1140-1146"
+            },
+            "-id": "rkk5gg43B77MS1ecgxN2BmQzHkW5xg42rQXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Skf5eg4hH7Xzrymqle4nHm7zBkVqxgN2H7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Board of Pilot Commissioners 1150-1159.2"
+            },
+            "-id": "SkHqlg4nHXmzHyU9leEhB7QMBJwcxgN3HmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ryu9xeV2SmmMHJY5llNhHQQMByq9elEnrQXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Pension Plan 1160-1168"
+            },
+            "-id": "Syj5lgNnr7mzS13cllEhH7mfB1T9xxVhS7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkR5leE3rmmMr1Jolx42BQ7MH1xiex43rmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Licensing of Pilots 1170-1184"
+            },
+            "-id": "BJbjllV3SQXGHJzjle43rQXzHy7sglEnH7Qf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkVolg4hrm7GryBolxN3HX7MHkUoxxEnrQQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Issuance of License 1170-1179"
+            },
+            "-id": "ryvseeVnrmQGSJdoxl43SXQzHyKolxE3S7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1ciexEhB77fBkoolgV2rQ7fBynjggVnSQ7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Suspension or Revocation of Licenses 1180-1184"
+            },
+            "-id": "r16sgxE2HXQGS10ixgN3B7XzrJknleEnHXQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hkg3lgV2r7XMrJb2xl42S7XMrkG3ggE2BmQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 5. Pilotage Rates 1190-1198"
+            },
+            "-id": "rkQ2lxNnSmXzSkN2lx4hrXQMS1BnelNnSmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H183xgN3Hm7MBkPneeNnBmmGHkO3gl42H7Xz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 6. Pilotage Rate Recommendations 1200-1203"
+            },
+            "-id": "rythexE3B7XzH1c3exV2rXmfSyjhegV3SQ7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJhhgx43HXQfrJa3egN2SXXzryA2leE3BQ7f"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 6. HARBORS AND PORTS "
+        },
+        "-id": "ByGGNv_zXQfHk7GEDOGmQGSk4fVPOf77M",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 6. HARBORS AND PORTS 1690-3980"
+            },
+            "-id": "SkKM-lNhSQQGSJ5MbeEnB7mGr1sfZlEnr7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJnfWeEnHX7fSkTGZlN3H7XGHkRGbeN3SQ7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "PART 1. PORT INFRASTRUCTURE FINANCING 1690-1719"
+            },
+            "-id": "ryJ7WgE3r7QMSJlmZgNhrQ7fSk-QWxNhHmQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJf7beE2BmXfrk77We42Hm7zH14mWeN3Hm7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Findings and Definitions 1690-1698"
+            },
+            "-id": "BJHX-gV2Bm7zr1L7-lNnHQXfH1DXWeV2S77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJumZgE3rQXMHJYXWlVnS77frJqmZeVhBmmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Legislative Findings 1690"
+            },
+            "-id": "SkiQWgV2SXQGrkhQZlEnrX7zSJTQWg4hHQ7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r10m-gVnrmQfrJ1E-g43B7mMBygNZgV3B7QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Definitions 1691-1699"
+            },
+            "-id": "BJ-EZl43BmXGr1f4WeEnHQXGrk7VblN2BmmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1NEblV2SmmfBJrNblNhSQmzHk8NZlN3BmXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Formation and Powers of an Authority 1700-1706"
+            },
+            "-id": "SJvEZeNhHQQGHy_Vbg43HmmGB1KEbl42SX7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1cVZeVhS7mGrki4bxNhSXmfSkhNWgN3Hm7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Seaport Infrastructure Financing Districts1710-1719"
+            },
+            "-id": "SJT4Zx4nHQQMBJCVWe4hH7mfrJ1HWx4hS7mf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1xBblN3SXmfByWrWeV2rX7MHJzBWgNnH7Qz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "PART 2. HARBORS AND PORTS MITIGATION PROJECTS 1720-1770"
+            },
+            "-id": "HJXr-x43r77GSkVSWlV3rm7MBkBBblN3Bm7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1LHbxEnH77GHkDSZlEhBmmzS1uHZlN2SmXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Port Facility Construction 1720-1730"
+            },
+            "-id": "ryYr-eE2BXmGSycS-gVnrX7MryoSbx4nrQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rknrbgNhHXmGSypHZgV3SQQGBy0HblNnSXmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Port Congestion Relief and Port Mitigation Relief 1740-1770"
+            },
+            "-id": "HyyLbgEhBQ7fSJg8WlEnHmmzSkZUbeV2rXmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkMIWlE2rmQzrJQI-l42BXmGHyVI-gEhr7mM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "PART 4. HARBOR DEVELOPMENT BOND LAW OF 1958 3900-3953"
+            },
+            "-id": "BJSIWgEnrXmMBy88-eNnrQQzrJDU-gN3HXXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJd8ZlE2rm7GHyFLbe4nBQ7GSy98WeEhS7mG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. General Provisions 3900-3928"
+            },
+            "-id": "BJsUZlNhHQXfSJ28ZlV3HX7GHypL-g4nBmQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Bk0IWlVhr7mMHyyvbx43BQQMrylvZgVhrmQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. San Francisco Harbor 3940-3942"
+            },
+            "-id": "SJZDbxEnSmXfrkGw-lEhBQmGrJmvZlV3rQXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkNwWgVhrXQGB1HvbeNnH7XGrk8Pbe4hSmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Small Craft Harbors 3950-3953"
+            },
+            "-id": "SJvvZlNnSmXzBkuv-gNhB77Mr1FvbgV3SmQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "By5PZl4nH77GrksDZxV3SQXfSJnD-eN2r7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "PART 6. Emergency Response and Evacuation 3980"
+            },
+            "-id": "rJ6wblE2r7mGr1RDWx4nrXXfBJJd-lN3SXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ryl_-xE3rQmMrkWOWeEhSXXfSkMubxN3SXQG"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 7. COUNTY PROVISIONS "
+        },
+        "-id": "SkrzNvufQQGHkIMEPdG7mfB1vMEw_GXmf",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 7. COUNTY PROVISIONS 4000-4160"
+            },
+            "-id": "BJi2-x4hHmmfBy3h-lE3B7QzHJa3bg4hSQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJ02-lN2rm7fBy16Ze43rQ7fBylpZxV2BXmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Private Wharves and Piers 4000-4017"
+            },
+            "-id": "rJ-pZxEnSmQzHJG6bxVhB77MSy7T-eN3SQXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkNa-l4nSX7fHyBaWeNhHQ7fSJI6blN3HmmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Harbor Improvement Bonds 4040-4140"
+            },
+            "-id": "S1DaWe43SXQMryOablN2HmXMB1tTZg43Hmmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1qT-gVhS77zBkjaWxEhSQXMBy3pZxEhrX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Harbor Commission 4040-4049"
+            },
+            "-id": "S1T6WxN2BQQMB1Cp-xNhrQQGS1kRZeV2HXQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJxRbgV2rX7MrybA-gV2rQQzHJGCZl43BQ7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Bond Election 4060-4068"
+            },
+            "-id": "Bk7A-lV3B7Qzr140-xE2SQQfr1SRblVhHmmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hy8RWgV3BQQGB1w0Wl43H7QGHk_0bxNnSXXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Improvement and Construction 4080-4086"
+            },
+            "-id": "B1KC-lN3SXQMSycCbeE2r7QzryiCbx4hrXXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ByhC-xV2HmmGBkpAZxNnHQmGr10R-gNhrQXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Funds 4100-4105"
+            },
+            "-id": "B1J1MeV2HXXMHJlJzeNnrmmMB1-1zgEhBmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HyfyfeV3Bm7fHJ7JfeV3BQmzHJ4yMgN3S77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 5. Control of Harbor 4120-4122"
+            },
+            "-id": "SkSJGlVhHXmzS1LyGxE2rmmMrkw1Mx43BQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkO1MeNhSQQMHkFJGgE2rmXGSyqJfgEhSXQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 6. County Harbor Improvement 4130-4140"
+            },
+            "-id": "ryiyMeE3B7mzHJ31GeVhrQmzSJp1MeVhHQXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkAyzgNhSQmMSyJezxV2r7QGB1gxzeE2BXQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. General Powers of Counties 4150-4160"
+            },
+            "-id": "ByWgzxVhSQ7MByzxMxEhSQXfry7gfgVnS7Xz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ByEeflV2r7mMB1BlMgVhH7QzBy8xGlVhBQ7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Towpaths 4150-4153"
+            },
+            "-id": "BkweGeE2Hm7GrJueGlVhHmQMBkYlGeVhSmQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1cgGx42BXQMBJilfxNnBX7GBk3xzeEhrQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Miscellaneous 4160"
+            },
+            "-id": "H16lMx43HXXGH1CgzlN2Hm7fB1JbMgNhBm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJgWGeV3B77fSJZWfeV2BmXzBJMWzgN2SXmM"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 8. HARBOR AND PORT DISTRICTS "
+        },
+        "-id": "S1dfVvOM7QfS1KzEv_MXmGHy5zNwdf7mf",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 8. HARBOR AND PORT DISTRICTS 5800-7340"
+            },
+            "-id": "ByBozbV3r77GHyLjGZE3B7mzryPofZ42SXmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkuszWNhrQ7GBkKjfWV3rm7fHJ5ozbVhr77f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "PART 2. HARBOR IMPROVEMENT DISTRICTS 5800-5956"
+            },
+            "-id": "HksoG-EnSQQMHk2izWE2SQXGrkasM-4nSX7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJ0oMbN2r77zHkJhGZ43SmQGr1ghM-VnH77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "General Provisions"
+            },
+            "-id": "B1bhMWN3HQQMH1zhz-N3rQXMrkX3GbVhrXQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJ42MbV3rm7zSkHhf-V3r7QGSyI2GW4nrQQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Formation 5820-5874"
+            },
+            "-id": "B1v3fbVnBQQGr1dnMWNhrm7MSyFnG-4hS77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hy53fZEnSm7GHyjnzW42rXmMH1n2GbE3B7mf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Petition and Hearing 5820-5825"
+            },
+            "-id": "Sk6nMZ4nHX7GS102MZEnSXmMHyJafWE2S7mG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJxTGZV2BmXfH1-afbN3rQQGryfpM-V2HmXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Hearing 5830-5841"
+            },
+            "-id": "BympM-EhSQQfS1VTz-N3BQ7zrJH6zWVhSQ7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1Upfb4nBmQfrJDTzb43SQ7GS1dTzWEnB77M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Election for Formation and Issuance of Bonds 5859-5874"
+            },
+            "-id": "H1FTG-Ehr7QMSyqTzbN3rXmfHksTMWN2H7Xz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B13azZVhS7XfSJaazb4nBQmfSkCaMbN3rQQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Bonds 5880-5893"
+            },
+            "-id": "HyJCM-EhrQQfr1x0fbE2SQ7zSkZ0GWV2BmQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1zAzW43BmQfS1X0z-EnHm7fHyV0M-43SXXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Issuance and Sale 5880-5884"
+            },
+            "-id": "S1SCMZN3BmQMSJ8RM-V2rQmzBkwRMZE3HXmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJdRfW43rmXfS1K0fW43HmQGH19CGZEhHXXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Payment of Bonds, Taxation 5890-5893"
+            },
+            "-id": "HkoRGWE3BXmzH12CG-NhHm7GBkTAGZV3BXXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1CRz-NhrXmGrkJy7ZE3SQmMryl17bV2B7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Management and Control 5900-5904"
+            },
+            "-id": "H1Z1QZ4hSmQfHJfJQbNnHm7fHJm1mb43rQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJV1mWNnSX7fHyBkQ-42HX7fS1Iy7b42Bmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3.5. Claims 5905"
+            },
+            "-id": "rkDkQb4nH77zS1OJQbNnHQmGH1KJXbV3B7mG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r15JXWV2rmXGBJskXWE3rXQMBJ31Q-NhSXmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Improvement of Other Harbor or Harbors Within the District 5910-5915"
+            },
+            "-id": "S1pyXbN2BXQzHyCJ7-4nHQ7zH1kgmbVhSQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJlgQ-4hrmmMSkbeXbV2BQmGrJzlQW43rX7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 5. Acquisition, Improvement or Maintenance of Lands for Public Beaches 5940-5945"
+            },
+            "-id": "B1mlXWE3BQ7zHJVgmWN3rXXMByBlQWNhB7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1LeQbE2rXQfSkDeX-4hB7XGB1dxmb4hrX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 6. Inland Parks and Recreation Areas 5950-5956"
+            },
+            "-id": "SyFlX-NhrmXzBk9xXZEhHQQMrkol7-NhS7Xz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJ3g7-42r7QfrJpeQZ43B7QzHkAgXW4hr7Qf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "PART 3. HARBOR DISTRICTS 6000-6110"
+            },
+            "-id": "rJ1-m-43SXQGBklZmZE2S77zBJbWmbEhBm7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1zW7W42SXmzr1XZm-4nrQ7GryV-QZ42rQXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "General Provisions"
+            },
+            "-id": "rJH-Q-EnB7XzHyL-XW43HQmfHJPZ7WE3r7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkdZ7-E3r7XfSkF-mZ4nrQmGB1cbQW42B7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Formation 6010-6045"
+            },
+            "-id": "HyjWXW4hH7XfBynWQZEnr7mzHJTZXbVhHX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkCW7bNhB7mfS11z7-V3H7XGS1lfXW43B77M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Petition 6010-6014"
+            },
+            "-id": "HyWGmb42SX7zH1fMXbVnrQXzHy7fX-V2SQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkNfXZEnB77GSyHMXWV2H7QGBy8zXbNnS77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Hearing 6020-6026"
+            },
+            "-id": "HkvMX-VhBQXfBydfXZEhH77zHJFMXb42BQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Sk9zX-4hHQXMrJoMQZN2SXQfryhzQ-VhHQXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Election for Formation and for Harbor Commissioners 6030-6045"
+            },
+            "-id": "BJaz7bE2BmQGBkAz7W42B7QGSkJX7-VhHQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Bke7QZ4nB7mGBkWm7WNnr7QfBJzQXWE2BmXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Harbor Commission 6050-6086"
+            },
+            "-id": "SyQXmZN3rQ7frkNm7bNhBXXGS1rXm-V3Hmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJLQX-Vhrm7zB1Pm7Z4hSmQzH1OXXbN3BXXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Election and Terms 6050-6056"
+            },
+            "-id": "BJYQm-E3SXXzBJcXXWEhBXQGHkoXQ-NnH7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkhQ7ZNhSXmGHJ677Z42H7mzrJAmQZ4nSQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Administrative Provisions 6060-6064"
+            },
+            "-id": "B1yEXW43rXQzryxVQb4nrQmzB1bVmZNnrQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HyG4m-E3rmXfSk7V7Z4hBmmfr1EVX-VhBXQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Powers 6070-6087"
+            },
+            "-id": "SJS47ZV3Sm7MBJLNXb42rQ7fS1P4Q-VnBmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ry_E7ZNnSmXfHkF4QbV2Hm7zB19EmZ4nr7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Taxation and Bonds 6090-6094"
+            },
+            "-id": "Byo4XW43rQXfrJnVmZE3rmXMrJaVX-NhHX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkCEm-EnSXQGrJ1r7W4hr77MBkxBX-VhrXQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3.5. Claims 6095"
+            },
+            "-id": "SkWHQZNhB77fHkfSQWE2rXQGrkXSmWEnrQ7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJEB7bNhS7QMBkSr7b4nrXmGrkLB7b4nSQ7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Revenue Bonds 6100-6106"
+            },
+            "-id": "BJDB7ZVhrQQzSkdrXZ42B7mGrytHXWEnrX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Sy5BQbNhS7mfHJoB7bN3H7XGHk3SmZEhr7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 5. Annexation 6110"
+            },
+            "-id": "SyTB7ZN3rXXMSyCHXZNhr7mMB1yUmWV2Sm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hkl8Xb4hr7QfS1-UmZEnBX7zB1fU7b4nSQXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "PART 4. PORT DISTRICTS 6200-6372"
+            },
+            "-id": "B1mUQZ4nS7Qzr1NUmZE3r7mzr1HL7-V3BQ7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rk8I7bVnB77MSyv87WE2SQQMHkOLXWN3r77f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "General Provisions"
+            },
+            "-id": "rJYUQZ43HQXGSJcLmWN3Sm7fHkiI7WNnH7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rknLXbEhBmmMB1aUX-V2SmXfrJRI7WNnB7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Formation 6210-6233"
+            },
+            "-id": "rkJvXbEnrmXMrkgwm-43Sm7GB1ZwQbE3HmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkGP7WN2rXmGrymw7ZN2HQQMS14PQZN2S7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Petition and Hearing 6210-6218"
+            },
+            "-id": "HyrPmbNhrXXzBJ8wm-EhHmXzrkDwmbN2rm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkODXWN3BQmGH1tv7WV3HXQfBJqwmbN2BQXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Election on Formation 6230-6233"
+            },
+            "-id": "HJsDmbVnrQXGHyhv7WE2BXmfrJTwQW4hB7Xf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkCDmWV2r7XGHJydm-V3BQXMBke_QWVhHXXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Board of Port Commissioners 6240-6276"
+            },
+            "-id": "SybOmWN2HmQzB1zuQ-VnrmmfBk7uXZEnrXQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HyNO7WV2rQXGB1S_Q-VhH7XfSkIOmZV2S7mM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Administrative Provisions 6240-6255"
+            },
+            "-id": "ByvuXW43HXXGB1duXZ4nSQmGr1KuQZ4nSX7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hy5O7WEnBX7GSksd7bVnBm7GSy2u7-42SXXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Jurisdiction and Powers of the Board 6270-6276"
+            },
+            "-id": "ryTuXb4hH7QfHyCOXbVhSmXfryytQZE2BQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1xFXZVnSQmzrk-K7bEhHQ7zH1zKmbN3BQmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. District Powers 6290-6311"
+            },
+            "-id": "BJ7YQWNnHQXMrJVFmZVhrXmMr1HFmZN3SX7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1LKm-4hB77MBJvYm-4nHXXfr1_K7ZEhBQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. General 6290-6311"
+            },
+            "-id": "ByYtQb43HmmfB15tQbVnB7mMB1jtXWV2BmmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S12KmZVnHQmGHkatQW42r7mfryCFX-E3BX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Bonds 6330-6355"
+            },
+            "-id": "rykqQb4hrXmMSyx5XZE2SQQMHk-97Z4hrmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkfcXWE2r77MryX5XWV2rQ7MHJVc7W43rmmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. District Bonds 6330-6331"
+            },
+            "-id": "BkS9m-NnHXmGBk85mW4hrm7zB1D5QWE2r77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkdcmWN2HmXGHkY5XZVhrm7GBJ997-EnS7QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Revenue Bonds 6340-6346"
+            },
+            "-id": "BkscQWE3rXmzHkhq7WN2HmXGBJa57ZEnrQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1C5X-EhrmQzS1kjm-4hHQ7MH1xj7Z4hBmmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2.5. Additional Stockton Port District Bonds 6350-6353"
+            },
+            "-id": "rJ-iQZVhSQmfS1Mo7bVnrXQGry7sXZVnBXQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HyNiX-E2r77GSkroQ-VnBXXGr1IjQbE2SX7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. County and Municipal Bonds 6355"
+            },
+            "-id": "BJDsXbEhH7mGS1_omWV2rmXfSkYjXZN2rmXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkqoXZVhS7mzrkiiX-V3HQmMHknoQbE2r7mG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 5. Finances and Taxation 6360-6372"
+            },
+            "-id": "rkpjQWNhSmXzr10jm-N3rmXfH1knXWEhSmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hyg3mW43H7mzHyZ3Q-EhrQXMryf2m-Vhr77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Levy, Assessment and Collection of Taxes 6360-6365"
+            },
+            "-id": "S17nQWNnSm7zSkEnQWE3BQ7MryHhQ-N3BXXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkI27ZN2BXXGB1w37Z43rmXMHkdnQZ4nH7XM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Claims and Demands 6370-6372"
+            },
+            "-id": "rJYn7ZV2HmmMSyq3mWEnBXXMSkj3m-43rQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "By2n7ZNnrmmfrJTnX-V2BXXfrkRh7ZE3H77M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "PART 6. RIVER PORT DISTRICTS 6800-6963"
+            },
+            "-id": "SJyTmW42H77GSyep7b4nrmXfr1bT7ZVnBX7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1Mp7WV2BXQGSkXaX-4hSmXGBk4p7Z43HQ7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "General Provisions"
+            },
+            "-id": "rkHpXZE2BmmzBJLTm-N2SmmGB1wpX-43BQXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1_aQZEnHX7fH1KTmb43HXmMHJ9aXW4nrm7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Formation 6810-6812"
+            },
+            "-id": "BkjpQZEnHQ7zSJ26XbEhr7mMSypTX-V2HmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJCpQW42SmmGr1JCXbEhH7XGrylCQWVhSXmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Petition and Hearing 6810-6812"
+            },
+            "-id": "Bk-Cm-4nH77zryGRX-EnBQXzryQ0m-4hH7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkEAXW43rmmMr1HAQWN3BQQfBy8RmbVhrX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Port Commission 6830-6869"
+            },
+            "-id": "r1vA7bE3HmXzBy_AXZEnrQ7MHJK0m-NnHmmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkcCmb42SXXfrysAXZN3S7mfrknAXWV2rQQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Administrative Provisions 6830-6844"
+            },
+            "-id": "ryaR7-V2rXmGHyA0Xb4nrmQMHkJ1Nb42SQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJxyVW43SmmGHkbkNb4nrmQfB1z14bV2Bm7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Jurisdiction and Powers of the Board 6860-6869"
+            },
+            "-id": "HkQy4ZNhHXXGHyNy4-E2rmmzHyHyEZ4nSQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkI14bNhSXmMryw1Nb4hr77MBJ_JNbEnBQQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. District Powers 6890-6910"
+            },
+            "-id": "r1YkEWNnBmXGBkckVbNnrmXfBJikE-N3S7Xz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rynyNZE3S7XzB16k4WNhH77Gry0JVZVnrXQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. General 6890-6910"
+            },
+            "-id": "rkyx4W4hB77Gr1exEWV3HQ7fBJbgNbN2SQQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkGe4W4nBXXMB17gEbN3HX7MHJ4xN-VnH7mM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Bonds 6930-6939.17"
+            },
+            "-id": "S1HlVZE3HXXMBy8gVWV3rX7fSJwlVWN2BQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJ_eVb4nBQ7zH1FgN-E2H7mzBJcgEW4nrmXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. District Bonds 6930-6931"
+            },
+            "-id": "HksgV-E3BXQfHJnlEZE2rmQzSJ6l4WNnSXXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ry0gEW4nSQXGryyWV-E2B7QGH1e-4W43HmXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. County and Municipal Bonds 6935"
+            },
+            "-id": "S1bbN-EhSX7MHJM-VWEhr7QMHyXZVbVhSm7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hk4W4b4hBmQMS1HWVbVnB7mzryLZNZNhBX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Revenue Bonds 6936-6939.3"
+            },
+            "-id": "rkw-VZE3BQQMrydWN-4nHXmzrJKb4Z4hSmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1cbEbNhS77zHJi-4Z43HQXGS1hZVb43H7mM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Additional Sacramento-Yolo Port District Bonds 6939.4-6939.17"
+            },
+            "-id": "rk6W4-V3S7mGHJRWNZVnSmXzrJJzV-EhrmQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1gz4WV2BXQGHJWzEZVnSmXGB1fMV-VhHmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 5. Finances and Taxation 6940-6963"
+            },
+            "-id": "BkXM4bEnrQQfrJNGEZEnrmmfrJBM4-4hr7Qz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJLGNW43BXmzryDMVW42HX7MS1uGNWE3HXXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Levy, Assessment and Collection of Taxes 6940-6944"
+            },
+            "-id": "rJtGE-4nSQQGS1qzV-NnrXXfS1oG4bVhB7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B13z4ZN3B7mzSyTGEbEhBXQGSJCz4ZVhH7mM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Claims and Demands 6960-6963"
+            },
+            "-id": "Bkkm4-VhrQXfr1e7E-43SmmfHkZQVZ43rmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SyGmNWN2r7XfHkQX4ZVnBmmfSJ4QEbVnBQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "PART 7. SMALL CRAFT HARBOR DISTRICTS 7000-7340"
+            },
+            "-id": "BkBQVW4nBXmGS1UXVWN2SX7GHJw74-NhHQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Skd74-EnHm7zHkFmV-E2HXmMS15m4-E3H7QG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. General Provisions 7000-7005"
+            },
+            "-id": "rJimVbVhBmXzB127NWEhrXmzSy6mVZVnS7Xf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJAXEZN3r7QfrykNEZE3HmmzrkgV4ZNhB7XM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Formation 7010-7037"
+            },
+            "-id": "By-EEWN2BmmGryfV4WV3SQXfr1mEEbV3S7mf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1ENVbV3rQmfHkSEVZVnrm7GSJU4N-4hSQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Petition 7010-7014"
+            },
+            "-id": "rkw4EbV2rmmfSydNEWEnBXXMHJKEV-VhrmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkcEEW42HQ7MSyiEV-43HXXGry2V4bN3Bm7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Hearing 7020-7025"
+            },
+            "-id": "Sk6N4bN3SmQfH1C44-Nnrm7MSk1rN-VhSXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkerEZNhSQ7zB1WSEb4nr7QzSkMHVW42H7mf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Election on Formation 7030-7037"
+            },
+            "-id": "ryXH4bV2r77fByNHEZNnH7QMBJSH4WEhrQXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJLr4-43BXXfrkDSN-V3H7XfrydHNZN3HQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Internal Organization 7040-7074"
+            },
+            "-id": "B1YSVWNhrmQfrkqrEW4hH7XzH1iHNZ43SmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJ2rNWEnHXmGHJpSEbVnHQmzB1RBNZ42rm7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Directors 7040-7048"
+            },
+            "-id": "B1kIEW42BXQzrJxUNZE3B77fS1Z8EbV3SXXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ByfLV-EhBmQzSJQUEb4nSmmGHJVLVWVhSQ7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. The Board 7050-7061"
+            },
+            "-id": "HyB84WE2rQmMH1LLEWNhS7mGHyDIN-V3SQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkuIVZE3Hm7zBkFU4ZV3HmXGB1qIN-VnSXmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Officers and Employees 7070-7074"
+            },
+            "-id": "SJs84W43HQmzS1nLNZV3SXXfHJp8VW4hHm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H10U4bN2rmmzBJJvEWE3Sm7fBkgv4-EhSQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Elections 7080-7121"
+            },
+            "-id": "B1WvE-VhS7XfHJGPEbNnH77fSkXDNZE3HQmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJED4WVnr7mGSJSP4ZN3S7mGryIPE-E2SXQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Elections Generally 7080-7090"
+            },
+            "-id": "S1vDVWE2SX7fBydwEWEnH77Gr1Kw4WE2H7Qz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1qvNZ4hSmmfSyoDEZN2rXQGr1nvVWNhBX7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Appointments in Lieu of Election 7100-7101"
+            },
+            "-id": "ByTPNWN3SQ7MSk0wVbV2S7mzSJk_NbNhBX7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkxO4-EhBmQzS1W_VWN2Hm7fByzO4-4nSm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Initiative; Referendum; Recall 7120-7121"
+            },
+            "-id": "HyX_V-E3rX7MrkVu4WN3rQXzBJrdVW42r77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S18_4WN2HXQzB1DdVWNhH7QfSJd_EbN3r7mG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 5. Powers 7140-7158"
+            },
+            "-id": "r1YdVWV3rXmfHyc_E-V2rmmfSyo_EbV2SmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hk3OVbN2rmmGHk6ONbEnBXXMH1AuNWV2SX7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 6. Financial Provisions 7170-7243"
+            },
+            "-id": "S1yYVWN2BXmGH1xt4b43SmmMrJ-YNbN3S77G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1MFNbE2SQXMrJQFVWVhHXXzrJNYVbEnSXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. General 7170-7176"
+            },
+            "-id": "SJrYEW4hSm7GHkUFNWNhH77GrkDY4bVhSQQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1_tN-4nBXmfH1YKEZ43rX7zSk5YNWE2SXmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Alternative—County Treasurer as Depositary 7190-7195"
+            },
+            "-id": "HJit4ZN3SXQMH13t4-4hBXQfr16K4bN3H77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ByAtVb4nHmXfSJ19VW4hSQQzBJx9NbEhBXQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Short Term Borrowing 7200-7202"
+            },
+            "-id": "ByWqVWEnB7mMSyf9E-N2rmmMByQc4ZNhHQmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1VcV-EhHXmzryrcN-Vnr77zByUc4b42HmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. General Obligation Bonds 7210-7227"
+            },
+            "-id": "HyD54-VnrQQzHyuq4-NhSmQGByY54Z43HQmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJ9c4-43r7XGB1o5NZV3rX7MryncNbN3rmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 5. Revenue Bonds 7240-7243"
+            },
+            "-id": "B1pcNb4nH7XGS1RcEWV3BQXfHy1jEW43HQQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hkxj4WVnB7mMr1biN-VhH7QMB1MjNW4hr7QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 7. Taxation 7260-7266"
+            },
+            "-id": "rkmoVWVhrX7zSJNsV-4nSQ7MSJSjEWN2SQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1UsN-N2B7mGr1wjV-NhHXmfrkujVbE2B7mG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 8. Changes in Organization 7280"
+            },
+            "-id": "rytsNZNhS7mGHJ9oE-N2HQXGryjjVb43BmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SyhsVWV3S7mGSJpoV-E2Hm7fBJRjN-43H77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Annexation 7280"
+            },
+            "-id": "ryJ3EZ4hSQ7zryg3N-V2HQQGHyb3NZVhHX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1f2Nb4nHXmGBJ73E-4nB7QMBk43NbVhB7mf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 9. Construction 7340"
+            },
+            "-id": "BJS24bEhr7XzH1InEZV2Hm7fryD3EZV2HQXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1uhV-NhBX7zS1YnEbVnBQQfSJq2EWV2HQ7z"
+          }
+        ]
+      }
+    ]
+  }
+}

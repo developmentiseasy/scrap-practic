@@ -1,0 +1,3971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stat:Document xmlns:stat="https://casetext.com/stat" id="98870cf7-36da-40a7-9e95-b59dc528a33a">
+    <stat:Title>California Code</stat:Title>
+    <stat:URL>https://leginfo.legislature.ca.gov/faces/codes.xhtml</stat:URL>
+    <stat:Version>0.1</stat:Version>
+    <stat:Currency>2017-07-07</stat:Currency>
+    <stat:Level id="BJTlCNUb7mzBJRgC4IbQXzBk1b04U-QmM">
+        <stat:Text xmlns:stat="https://casetext.com/stat">
+            <stat:heading>Fish and Game Code - FGC</stat:heading>
+        </stat:Text>
+        <stat:Level id="r1BMZrwMX7MS18f-BwMmQMHkvMWSPMXXG">
+            <stat:Text>
+                <stat:heading>General Provisions and Definitions</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="r1uzZHwz7QGSJKfZHwzXXMSJ9zWrwzmXG">
+            <stat:Text>
+                <stat:heading>DIVISION 0.5. GENERAL PROVISIONS AND DEFINITIONS</stat:heading>
+            </stat:Text>
+            <stat:Level id="S16QUJHHXQzH1CX8JBS7QGry1E8kHSXXz">
+                <stat:Text>
+                    <stat:heading>DIVISION 0.5. GENERAL PROVISIONS AND DEFINITIONS 1-99.5</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJxNLJSrX7zB1bE8kSrX7MH1f48JHBXmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJm481rB7XMHJNVIkrSXXGrJSVIySBX7z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. General Definitions 1-89.5</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ry8V8yHrQmMHJw4LkrSQ7GSJONUJSrmXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJYNL1rSXmGHJ54U1SBX7MH1sEUJSrQQG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Marine Life Definitions 90-99.5</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By24L1rBXQfS1pN81BSXQGHk0VLJBHXXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="SyozbSDM7QMrk2M-rwz77GH1pzZrPG77z">
+            <stat:Text>
+                <stat:heading>DIVISION 1. FISH AND GAME COMMISSION</stat:heading>
+            </stat:Text>
+            <stat:Level id="r1-UB1BBmQGrkzLSkBHXmGrJ78BJSr7XG">
+                <stat:Text>
+                    <stat:heading>DIVISION 1. FISH AND GAME COMMISSION 101-500</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1EUHySSXXzH1rUrySH7QMSJU8B1BHmmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJDUSkrrQ7GByuUSySSXQzBJYUB1BH77z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Organization 101-110</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJ5USJSrmmMSkjIByBrXmfrk2UrkBHmQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hyp8rySHmQfH1CIB1rSQQMHy1vByrSQ7f">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Regulation of Take and Possession Generally 200-275</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyevrJHrXQfBkZPHkHHQmMSyfDHkrSXmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkmDSJSSQQMBJNvBkBBQXfryHwH1Br7XM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Authority 200-219</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1LvryHBm7MSywPB1BBXQfBydvBkSS77f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryYwHkHHXXzry9PryBBXQMHyjPH1SH7mz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Procedure 250-275</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1nDHJrHQ7fH1TvH1BS7QGH1RvHySBXXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hkk_HySH7QMHyeuB1rHXQfrkWOr1rBmXz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Other Regulatory Powers 300-398</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJGOrkBrXmfSJQOBJHrQmGHJE_HkHHmQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkrOSySBmXzS1IuSySS77GBJDOHkHBm7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Generally 301-317</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sk_dBJSHQQzHkt_ByHS7XfS19urJrrmXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1oOryBSQ7fBynuSJHHXmGHk6uBJHS77G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Special Seasons 325-330</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyRuSkSSmQfS1yYBJSHXQzrylFrJHrQ7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkZFHyBr7QMSyGYH1rB7mfSymFSySHQmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2.1. Antelope and Elk 331-332</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJNYBySH7mGHkHYSyBS7XzrJUFH1rH7XM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJPtSkHSXmzS1utHJSSQQMB1KtH1BHXQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Migratory Birds 355-357</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B19tHJSSXQfBJoKH1rrQmMBJnFHkHHQ7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkaFSyrHQQGrk0YSyHr77fBkk5S1HSQ7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. California-Arizona Compact 375</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJecSyrSQXGBJb9BkBr7XGBkz9H1BHXmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryQ9H1SB7mGSJEcHkSBQmGHJScHkSBQXz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Reciprocal Agreements With Adjoining States 390-393</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkLqSyBHXmGr1DcHJBS77frydcBkBr7QM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkYqSJHrQmMSyc5SJHHmXfH1o9SyrH7Qz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 6. Falconry 395-398</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1h9SyHrmQzHk6cHkHHQmzr109SJSrQ7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B11sBJSrm7zHJxiH1rBm7zHkWsSkSH7Xf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3.5. Emergency Regulations 399</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyGor1BSmXGry7oHJrS77MSy4iHJBBmQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJSoBkSHQXMrkUjHySHXmMSyworkrBmQG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. Acceptance of Federal Acts 400-401</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy_jHkHSmQGB1tsBJBSX7fH19oBySBQXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJisSyrBXmfBk2jHkBrQ7MB1TiryBH7XM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 5. Management of Deer 450-460</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJCiBJSHQmGSy13r1rH7XzH1e3BJBHm7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy-hHJBBmmGSJM2rySBX7Mr1Xhr1BHQXz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 6. Damages from Poaching and Illegal Sales 500</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkVhBJBr77frkH3HyBrQQzH18hHyrSXXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="B10z-HwGXXfSkkXZBvzXmMH1l7-Bwfm7G">
+            <stat:Text>
+                <stat:heading>DIVISION 2. DEPARTMENT OF FISH AND WILDLIFE</stat:heading>
+            </stat:Text>
+            <stat:Level id="H1s5XrJBBQ7fBJncQHkSSmmGSyac7S1HH7QG">
+                <stat:Text>
+                    <stat:heading>DIVISION 2. DEPARTMENT OF FISH AND WILDLIFE 700-1940</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJRqXHJHBm7fSJyo7H1rB7mGBJgoQSJrSm7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByZsmryHrmXzBkzimBJrHmXGB1mjXSkrS77M">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Organization and General Functions 700-715</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1ViQS1SHQ7zSkBjXBJrBQ7zSkUo7BJBHmXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJwoQSkSBmQGSydi7SyHBXXzrkYiQSJHBQ7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Generally 700-715</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1qjQS1BS7mGS1ojXB1Sr7XzB12imrySBX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkTi7HyBHQQMByCj7BJBH7QzHk13XrkHH7XG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1.5. Wildlife Violator Compact 716-717.2</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJl2mrJrr77fBJbnQHJSHm7fSkfn7B1rHXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rymn7rkBBmQfByNhQSySrmXzHkHhQrJrSm7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 716-716.2</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryI3QB1BB7mMHywhQrkHHX7MB1_3XSkHr77G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJt3mSJBrQ7GrkcnXB1rHmQfH1o3mByrHQmM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Definitions 716.3</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S12hQSkHSX7MBkp2QByrH7QzByCnQr1rBX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyJa7BJrrmmGrygaQBJrSmQzBk-TQrySrQXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Issuing State Violation Procedures 716.4</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1Ga7rJSBQmGHyQaXS1rBQQfS1EamBkHBmQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1H6QB1rSX7fSJ8TXBJBBQmGSJD6QSkrBQQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Home State Procedures 716.5</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByuT7SkrrQ7zHJt6QBkHHmQGSJc6QrkrBQmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyjaXSkSSmQfrknT7SySHXQGB1aamHkBHXQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Reciprocal Recognition of Suspension 716.6</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyRT7HkHrXXfByJ07BkBHmQzHyeA7ByrS7Qz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1-RQSkSrQXfBJMCmByHH77frJmCmSyBrm7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 6. Applicability of Other Laws 716.7</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryE0mr1rB7mMHyBRQHyrSX7Gr1IRmryBHm7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkP0XBkBr7XfHJd0QS1BSmXGBkFRXSkSBXXz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 7. Compact Administrator Procedures 716.8</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJc0Qr1rSX7zr1jRmr1rHQQGrynRQr1HrmQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyTCQH1SHQXGB1A0mSkrHX7MryJJNr1HBQXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 8. Entry Into Compact and Withdrawal 716.9</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1e1NByrBXQGHybkESJBH7mMr1GyNrJrr77f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1XkESJrB7QGB1NyNrySSQmGBJrkEHyrHQmf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 9. Amendments to the Compact 717</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJIkVByHrXmfSyD1EBkSSQQGHy_k4HJrB7XG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkK1VrJBSQXfH19y4H1BB7XfB1oJNH1HH77M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 10. Construction and Severability 717.1-717.2</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By3k4HJBHQQGH1pJ4r1rSmmzBJCJNSkSSX7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkkxErkHHmXMrkxlNHyHS7QzrJ-eNSkrSQXf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Deputies, and Other Employees; County Wardens 850-882</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1MlNHkSSXXGSyQx4rkHrmXfSJExVSkHSX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkHxNH1BBQXGH1Ix4SyrrXXMrJwgEHJHHQmf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. State 850-860</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By_gEB1BHXXGrkYxVHkrBmmzS19lEHyHr7XM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1slErJHSQQGHJngVSkBS7mMSk6lNB1SBXXM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. County Fish and Game Wardens 875-882</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJCg4HkrHQQzH1JZVS1rSQQfBJxZVSJSrQmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJ--VByHSXQMryMWNHkrBmmfSy7bEH1rHXQz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Other Powers and Duties 1000-1227</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By4WVrJBr77zHyHZ4HySHX7zS18ZNS1Hrm7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryw-ESyHrXXzr1ObNHyHr7XzHkY-4SJSH7Xf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Generally 1000-1021</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJ9-NS1rSm7GSkoWVr1HBmXzB12W4BJHSQXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyTWNSJrBXQGSkCZ4rkSBmmGrkyM4SkSBX7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. General License Provisions 1050-1110</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rklz4r1BS7mMSkWMNS1SBQQMS1fzNBySrmQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rymz4BySSQmzHyNzVSkSSX7zryrM4HkBHQ7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. State Fish Hatcheries 1120-1126</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r18MEBJrSQ7zBkvMNByHBmmfBJOGES1rHQmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SktGNryBHXmGBkqG4SJHrm7zBJofErkrSmXz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. County Fish Hatcheries 1150</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hk2fVBkBBX7MS1azEHySB7XfB1RzVrJHB7Xz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyymNHyHHXmGS1eXEHkHH7QzBJW7ESkrB7QM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Private Nonprofit Hatcheries 1170-1175</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkzQEBJrH7XMBy7XNB1SHmXMSJN7NS1BrQ7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1HXESkrBmQMHkLm4SkBBmQzBkPm4SJBH7QG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 6. Cooperative Salmon and Steelhead Rearing Facilities 1200-1206
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rydQ4rkBS7mGByY7ESkHrQ7MS1cmVr1SBXmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1smVHyBHQQMB1nmEBkrBXQMry67EryrHX7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 6.5. Transgenic Species of Salmonids 1210</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hy0mVHyBSXQfrJ14Nr1Sr7QzB1lVNryHrQmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJZV4HyHBXXzSJzN4SJrrm7MrkXVNB1SBXXz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 7. Nonprofit Partnerships 1225-1227</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ry4ENHyrrXmMBkB4EByHBXQGrJLNEr1rBmQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1PNVrJSrmXzHyuNEBkHBXmzBJtE4BkHrXQG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. Wildlife Conservation Law of 1947 1300-1375</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkqVEByBHmQMBysEErJSSQmzSkhVErJBr7mG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJa4NSkrH7XMrJRV4HJSHXXMHyJS4BJSr77G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Generally 1300-1301</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rylSEHyrBmXfH1ZrVH1SrmmfHJGrNS1rHXmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1XS4HkSr7QGHJVrVHyBrmmMBJBrVBkBHXXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. The Wildlife Conservation Board 1320-1324</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJ8r4SyHH7mzSkvHErkHHXXfS1OHVBkBrQ7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1tB4HJSHQXzHk9HNHJHHQXMHJiBEByHHmXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Powers and Purposes 1345-1356</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJ3BNByBHXQfH1aB4SJBrmQMryArEr1rSmmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1yL4BJrHQQMS1gUEHkHSX7fSy-I4BJSBQ7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3.5. Oak Woodlands Conservation Act 1360-1372</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyML4SJSHXmGBkXI4rkrBQQGHyEINrySSQXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyrUNSJBSXXGHJU8EHkHBm7MHkD8NHkSrX7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Cooperation With United States 1375</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1dUNS1HrXXGBJtUNByrSQXGBJ9LErJSSm7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkiLVH1SBQQMB1nUEr1SBmmMrkpUVHySHQ7f">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4.1. California Riparian Habitat Conservation Program 1385-1391</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S10INSyBBQ7zryywVS1HHmmMHylPESJBHmQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1WD4rkSrmXfHkGDVHJHBm7fSkmwEBJrrX7G">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4.3. Inland Wetlands Conservation Program 1400-1431</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyVD4BkSBXmGSyrwVrkHSXXMB1IwEB1rBXmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJPvEr1HBXXzBJOvVHJHS7mfB1twVHySS7mM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Definitions 1400-1405</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyqPVr1BBXmfHJsw4HkHHXQGB12PNS1SrQQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SypPNBJBS77MS1RDNrkHBQXMrkyOVrySBmQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. The Inland Wetlands Conservation Program 1410-1422</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rylONByHSX7MHJZuEBJBB7mGH1f_VHySrX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyQOEHkSBX7zHJ4OEHkrBQmMHyH_4SJBS7Qf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Finances 1430-1431</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ8_4ryBBmXfH1wd4ByHHXmzBJuuVHyBBm7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkKdErkrB77zHJcdVHkSBQXGSJoO4r1SrX7z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 5. Fish and Game Management 1500-1591</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rynu4HJHrQ7MH1puEByHrQXMBkRu4HkrrXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bk1YVrkSr7XGHkeK4ryHHQQGH1-KNHkSSXXM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Generally 1500-1506</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkzF4S1HHm7MHJ7tESyBS77zHkNtVryrBX7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkrKNH1BrX7fBJItVH1HS77MHJwYNrySrQ7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Wildlife Management Areas and Game Farms 1525-1530</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ_YVSyBBQXzrkKtVHyrrmmGBy5Y4B1SSQQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkiKVBkBHmXMSJnF4HyHBXQMr1aY4HkHB7XG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Shared Habitat Alliance for Recreational Enhancement Program 1570-1574
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJCtESkBSXmGSJ1qNB1rBXmMBkx9VS1SrXmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1ZqES1SHXQGryf54rySBmQMBJ75NBJrHQmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3.5. Cooperative Hunting Areas 1575</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJ4cESyBBQXGBkSqNr1SHmmMHJU54Skrr7mM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rywc4SkrSXQMHkucNSyBBmXfSkFcEBySB77M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Ecological Reserves 1580-1587</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hy9cNrkHrmmzr1scVr1HHmmMHJh94HyHBmmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkpqVB1SHmQfBkC9EHJrSQmGByyoNryrHm7G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Classification of Marine Managed Areas with Harvest Restrictions
+                        1590-1591
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJlo4HkBB7mMHyZiVSJBB77GBJMiErJHHm7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rk7iNSyrHmQGSyEiNBySS7QzrJroNSJHBXXz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 6. Fish and Wildlife Protection and Conservation 1600-1617</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1Uo4BkrHm7GBJvsVS1SBQ7zHk_oVSySBXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1Yi4ryBHmXfBk5sESkrSQmMBksoVBJHS7XG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 6.5. Habitat Restoration and Enhancement Act 1650-1657</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJ3j4SyHrX7MBk6s4HyBHmQMByCjVBySHX7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1k3Vr1SrQmMHJx3ESkSSQQzHJWh4r1HHX7z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7. Conservation of Aquatic Resources 1700</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJM2EB1BrmXGBk7n4HJHrQXzr1N24rkBHmXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJShNHyrSmmfB1Ih4rJBHXQzrJDhVBySrQmG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7.2. Trout Management 1725-1730</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJu2EH1SS77zBkK3EByBrQmfS1q3EByBSmXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1i24SySBmXGSJnnVr1BSmmzBJp2NS1Hr7Xf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7.3. Black Bass Conservation and Management 1740-1743</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bk0hVHkHBmQzSyJ6NB1Brmmzrye64S1rS7QG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJZ6VSyBBXmzryG6NB1HHX7GryQTEB1rrXmf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7.4. Department-Managed Lands 1745-1745.2</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryN64SyBS77fBJHTVr1BHQXMSyL6NBkBHXmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJwpESySHmXMHJOpEByHBmmfHkFpNr1rSQ7G">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7.5. Native Species Conservation and Enhancement 1750-1772</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryq6NrJrr7mMBJi64BkSrQXzry3p4SySrmQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hkap4ByrrQmzr1CTVr1SS7XGr1yC4B1HrQXM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Short Title 1750</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hkg04BJrBQmGrJWC4ryHBXXMBkMRESyHSQQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJXR4SyBHXQMrk4RNHkrHQXMBJSCVBJSH77G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Findings and Declarations 1755-1756</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJUAVSkHrXmMBJwR4HJHrQ7GSJ_CErkHSm7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJt04BkrS7QzB150EHyBSQ7MSJiC4rJSHmmf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2.5. Bird Habitat Conservation 1758</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyhRVH1SrX7zHJpCESyBrXXGr1AANSJrr7Qf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJy1SSyBrQmfr1xkSH1BBXXfB1-krSJSHX7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Native Species Conservation and Enhancement Account 1760-1769
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkMkHBySrQ7GHJQJBByHBQXzSkVyrHkrHmXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByByHryrSmXzrkIySrySrQ7zHyvJrrJHSQmf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Endangered and Rare Fish, Wildlife, and Plant Species Conservation and
+                        Enhancement Account 1770-1772
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJukrSyrrXQzrJKyHHySrmXfBJ91rHySr7mz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJskSSySSXmzS1n1rr1rS7QGB1pJrBJSHmQf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7.8. Sacramento-San Joaquin Valley Wetlands Mitigation Bank Act of 1993
+                        1775-1796
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1RkBrJBBX7fSJ1lBSyHH7mGHJlxrSyBBQmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy-eSH1SHQXfr1MxrB1SrQQzBymlrr1HS77M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 1775-1779.5</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryNlrrkSSmmGSkSlrS1rSQXGrkUgBB1HHQmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJveBrkrB7mGBydgHrJHHQQMBkteSHJHrQQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Legislative Goals 1780-1781</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bk5xBSJBrX7MrJjxHSkrHXQfSynxSSJrSmmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1TgSBkSBQmzrJAlBB1rrX7zr1J-SByBB7QM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Wetlands Mitigation Banks 1784-1787</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1l-BSyHHmmMSkZZHB1BHmQMSkMWHryBBQXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BymZSBySrXXzByVWrSyBB7XGHJr-rSkHrX7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Wetlands 1790-1792.5</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sk8-rSyrHXmMBJPWSrkHB7mzHyu-rHyrHmmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1KWHB1rSXmMB1q-rS1SrmmfHkoZrr1SS7mz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Discharge into Wetlands 1793-1796</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hy3ZrryrSQXfrk6ZrHySBX7GByC-HHJSrmQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HykMSB1HHQmfryxfSSJHrmXfHk-GHS1HrXXz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7.9. Conservation Bank and Mitigation Bank Applications and Fees 1797-1799.1
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyGfHBkrB7XGB1XGBSkHHXQfHkEfrrJBBXXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1rGrHkrBXQMByUzrrJBHQXMS1PzSBJSSmXG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 8. Conservation of Wildlife Resources 1800-1802</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1OGSH1HH77zHJtMSSyrB7XfSy9GSr1BrmXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByizBHJSr7XfS1nzBSkHBQmGSkpzBByBHmQz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Definitions 1800</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ0frr1HHQmMry1mHHkSrmmfBke7SH1rB7mG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bk-mSSyrS7XfS1GQSSyBrmQGS177rrkrrQmM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Policy 1801-1802</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By4mBr1SBX7fBJSQHHkSHQQGSJL7SH1rrQmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJDXrHJBr7QfBJOXSSkBH77frkYXHSkBBm7M">
+                <stat:Text>
+                    <stat:heading>CHAPTER 9. Advance Mitigation And Regional Conservation Investment Strategies
+                        1850-1861
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1c7HryHH77MrysXrryHHm7fS12mrryBrQmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJ6XSHJrSQQzrkRXSSJSBXmGr1JNHH1HBm7z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 10. Native Plant Protection 1900-1913</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyxNSHJHrXQMrJW4HrkrBmQfr1GVSryHH77G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B17NHBJrS77zS1N4rrJrHQ7MB1BVHrJSrQQz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 11. California Desert Native Plants 1925-1926</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1IVSByBHQXzrkDNBrkBSm7GBJ_4rBySBm7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJFNrHkHH7XGrJq4SBJSHQ7GS1sVHr1HBmmz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 12. Significant Natural Areas 1930-1940</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H12VHr1SrmXGB16EHSySHXQGBk04SB1rB7XG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="rkb7WrPfXmMBkf7-rvGmmzrJmmWrvzX7z">
+            <stat:Text>
+                <stat:heading>DIVISION 3. FISH AND GAME GENERALLY</stat:heading>
+            </stat:Text>
+            <stat:Level id="SyilZHJSB77GHJ3ebSkHSXXGSypxWSJBS7QM">
+                <stat:Text>
+                    <stat:heading>DIVISION 3. FISH AND GAME GENERALLY 2000-2948</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hy0lbrySBmQGB1kb-ryHH7mMBJeWbryrHXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryZZZrJrrQQzHJzbbHJrrmmzry7ZbSJHSXmz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Taking and Possessing in General 2000-2022</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByN-ZSkHSmmMSJrZbBJHrQmfBk8-WHJSSQ7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyvZbr1SHXXMrku-WB1rr7XfBkFZbryHS77z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1.5. Endangered Species 2050-2100</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By9b-SkrH7XfH1sb-rkrHX7Mrk3WZryrHXmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkaWWSkrH7QGryC-bBJBr7mfSJ1GWr1BBQ7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 2050-2069</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hylfbr1HHQQfB1ZMbHyHHmXGSJGfWryrBQQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJ7z-r1Sr7XfHy4Gbr1rHm7zS1Bf-SJrH7QG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Listing of Endangered Species 2070-2079</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyUzbrySHmXfryDG-r1BHX7zB1uzWS1BS7mf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkYMZr1BrmmfBy5f-B1HHXQfrJszWByrSmQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Taking, Importation, Exportation, or Sale 2080-2085</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy2G-B1rB7QGB1aGWBkSBX7fSyRzWSJHHXQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkJQbHkHS7XGHyxQ-ByBHQmGB1Zm-BkBrQ7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3.5. Incidental Take Associated with Routine and Ongoing Activities
+                        2086-2089
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJGXZrkBHXQzr1Qm-Hyrr77fB1VmZryHSQQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1r7br1rrQXGSk87Zr1rrXmGrkPmZryHrQQz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3.7. California State Safe Harbor Agreement Program Act 2089.2-2089.26
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1dmZr1Hr7QzS1tXWSkSBm7MH19XWSJSrXQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByjXWHySSmmzrkhmWrkHB77MB1pmZS1rHXXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Funding 2098-2100</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy07brySSXXzSyyN-r1Srm7zHyxNbSyrB7QG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BybNWB1HSm7fS1GVZBJHBQXfrJmNbBJBBmXf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Importation, Transportation, and Sheltering of Restricted Live Wild Animals
+                        2116-2203
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy4VZBkBHQXGHkBE-rJrHX7GHk8NbBJrr77M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyDVbHkSSXQGSkO4ZBkSS7XfBytNWrkSH7Qf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Generally 2116-2128</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1qNWSkHSmQzSyoVWrJHSXQGBJhE-SJHrQQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B16N-SySSXXMSk0NbrkHBXmzH11rZHySrXQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Permits 2150-2157</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1eSWH1rH7QfSkZr-HySr77MHyzBbS1BSmXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkXHbS1rHmXGS1EHWSySHmQMB1rrWByHSQ7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Regulation and Enforcement 2185-2195</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkLHZH1HSmmfHyvSbSkrrm7frk_HbrySr7Qf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkYSZS1BSQQfr1qr-BJHBmXzrysr-rkBBmmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Mammals Used for Hire 2200-2203</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ2HWHJrB77MS1THbrkBS7XGBk0S-BySBQ7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkJ8WrJHBmQMrklIWBkBrQmzrJW8-BJHrQQf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Importation and Transportation of Live Plants and Animals 2225-2272
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJMLZHySHXQGr1mIbSkHrXmGSyEIWHJHBm7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkrIWrkHrQmMryI8bSJBB7QMBkDU-HyrSmXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Birds 2225</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1d8-BkHrQQzr1t8bS1HSmQGHJ58ZryrHmXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1oL-BJSr77MHkn8bHyrB77MSJpLZSyBHmXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Mammals 2250</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJCI-ryrSXmzrJ1P-rJrrQmGH1gwWBySrXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJWD-HkSSXQGByzPZSJrr7XMSJ7DWByHBQ7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Aquatic Plants and Animals 2270-2272</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJVP-rkHHX7zrkSwZHySSX7fryLwbBkSr77G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJDwWrJHrXXzHydwbHyrrXQzrktPZrJSrm7z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3.5. Aquatic Invasive Species 2300-2302</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJcwWr1rS7XGr1iwWSySrXQGBJ2wbrJSBmXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkTv-SJrSQmzB1CwWHyBB7mMBykO-SJSSX7M">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. Importation and Transportation of Dead Birds, Mammals, Fish, Reptiles, and
+                        Amphibia 2345-2401
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJld-B1rS77GHkWubHJHBm7GrkMOZBJHSX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1mdWBJBrmXzBkVubH1SB7XGHkBOZrkSS7mM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Dead Wild Birds, Mammals, Fish, Reptiles, and Amphibia 2345-2371
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1IObSJHBm7fS1PubByHHmQMH1uu-HkSSQQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rktObS1rHXmfByq_ZHJBBmXMHyiu-HJBBX7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Dead Domesticated Birds and Mammals 2400-2401</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1hOZS1BBmQGr16dZr1BBX7fHy0_WByHHX7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkyFbBkBrm7MrylYbH1HHXQGryWFZr1SrQQf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 5. Hunting and Fishing Guides 2535-2546</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkzKZrySSQmfrJXt-HkSSmXGS1NtZr1SS77M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BySYWr1HHm7fS1ItZS1BB77frkPtWryrH7XG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 6. Capture, Transport or Sale of Wild Rodents 2575-2576</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyOKbS1rBQXzSJYtWH1rHQXzBJctWS1HSmmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyoYWSyrHm7MrkntWHJHSXmGHkaF-BySr7mz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 6.5. Control of Illegally Taken Fish and Wildlife 2580-2589</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1CtZrkSH7mMBJyq-SkBH7mGHke5br1rrXXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByWqWrJSSQQGSyzcbSJBS7XMHkQ9WBkHr7Qz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7. Fish and Wildlife Habitat Enhancement Act of 1984 2600-2651</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyNqbSJBHQXGHyH9bSySHXXMBJ85-S1BHX7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryD5bBJSSm7zrJd9ZBkBB7mfrkF9WHkrHQXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 2600-2602</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1qqWr1SH77fB1iqbSJrHmmfHJ25bryBr7mM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1TqZS1rr77zBJ0qbHJSS7Xzr1kiZHkHS7Qz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Habitat Enhancement Program 2620-2627</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hyej-SJSrXmMH1ZibrJSBXQMHJMi-HJrS7QM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJmoWH1BSQXGHkEi-BkSHX7zrJHjbSySBXQz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Fiscal Provisions 2640-2651</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJUjWrkHrm7zBJwibBkrrQmzB1djbB1SB7Qz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJFiWBkrr7QfBJ5i-r1rHXmzBJojZH1rS7mM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7.5. Wildlife and Natural Areas Conservation Program 2700-2729</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyhjZByrHXmGB1ajZS1BSmmGSyRiZrySH7Qz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By12ZHkHHmQGBkxhZB1SB7XzBJb3bH1rBQmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 2700-2702</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkM2-BJSS7XGB1X2-HJBBm7MHJN3ZBkHSQmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyH2WB1HS7QzHyL3WByrrXmfHyD3-HkHS77f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Habitat Conservation Program 2720-2729</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1d2WryHrm7zrkFnWHJHSmmGHJ52WSJHrQmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJonbHkrSmXMHJ2nbB1BS7XGrka2ZHkHH7Xf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 8. Fisheries Restoration 2760-2765</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkA2-HyBBXXfr116WS1BBXQzHkgTZSkrSX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkW6br1HBXmzSkz6brySrmmfHyXpZrJrHm7G">
+                <stat:Text>
+                    <stat:heading>CHAPTER 9. California Wildlife Protection Act of 1990 2780-2799.6</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1E6ZBkSBXmGH1r6brkHBX7MSyLpWBJBHXXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1vabBJrSQmzSk_6WBJHHmXGHkKT-HJHBmXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 2780-2781</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkcTWryHH7mzrys6ZH1HHX7GBJ2aWHkHBQmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkaTbryrHX7fBJRpZByHB7mfSyk0brySrX7G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. California Wildlife Protection 2785-2799.6</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HygCbBJHr7QMBkbRWH1rBQ7MBkfAWSkrHQmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJ7CbHkBS77fBkECbrkBHQXzHJHAZSJBrQXM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 10. Natural Community Conservation Planning Act 2800-2835</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryIC-SJrBXQzB1D0-HkHHQmfB1dAbBkrH7mf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkYCWHJSHXQMr150brJHHmXfSJs0bHJHHXQG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 10.5. Marine Life Protection Act 2850-2863</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r12A-HyHS7mMrJa0brkBSXQGS1A0brkBrmmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bk1kGBkrSQmzrklyfrySrQmMHkb1zryHBXXf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 11. Habitat Maintenance Districts 2900-2901</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkGkfSySSX7zBJQyzS1SHQ7fSJ4yMH1SB7Xf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rySyzBJHBQmzHyLyGHJHrmmfryvkMB1rS7mG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 13. Salton Sea Restoration Act 2930-2945</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByuyfSkSHQ7fSJYJMSkBBmmzSyc1zByrBXQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyikfByrHQ7fHJ21fB1BHQmMB1TkGrkSBQ7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 2930-2933</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H10kfH1BBX7zry1ezHyHSQXGSkexGByBSX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1WlfrySrmXMSJflMS1HHmmfHyQeGS1HS7Xz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Salton Sea Restoration 2940-2945</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByExfSJHrmmGrkHgMryrr77fSyIgGrkBB77G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="rk4XZrPfmmfB1H7bBPGQmMH1IX-rwMQ7f">
+            <stat:Text>
+                <stat:heading>DIVISION 4. BIRDS AND MAMMALS</stat:heading>
+            </stat:Text>
+            <stat:Level id="B1-_lUJrrm7MrJGdxU1BBmQGr1m_gUJrBm7f">
+                <stat:Text>
+                    <stat:heading>DIVISION 4. BIRDS AND MAMMALS 3000-4904</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkEdl8kSBXmMr1H_lIkHH7XGrJUdlLySH7XG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hkw_l8kSS7QfHyu_xUyHSmXzr1KOgLyHSQ7G">
+                <stat:Text>
+                    <stat:heading>PART 1. PROVISIONS GENERALLY APPLICABLE TO BOTH 3000-3472.2</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rk9Oe81SSmQfr1ougUJBHmXGSJ2dx8ySH7XG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJauxIJrB7mzH1CugUJrrXQzB1ytxU1BSmQz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. General Provisions 3000-3087</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyxYg8yHS7mfH1btxIJHSX7MS1MYlIkrBQQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJmYe8kBS7QzHJVKlLyrHm7GSyHKeL1BHXXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Methods of Taking 3000-3012</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJUKxL1HrX7Gr1PYgIkHrmXGrJ_YeLySBmmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1tKlIJBrmmfSJ9KlLyHr77fHksFeUJBr7XG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Hunting Licenses 3031-3040</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r12tgIJrSmQzBJaYeL1rBm7zrJCYgUySSXQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkk9xL1Hr77zBkxceL1rr77MSkZcxI1Brm7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2.5. Hunter’s Safety 3049-3054</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkfceLyBSQQGrJQ9lUkHr77GByN9xIJBrXXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkSqeLyrBmQMHJL5l81BH7XzrkwcxUyBS77f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Special Colorado River Hunting Licenses 3060-3063</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkO5eIyBSmXGHkKqeL1rBXmGHJcql8yHBm7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1s9eUkBBmQGSk2ql81HB7mMH1T5lI1rHX7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Possession of Birds and Mammals After Season 3080-3087</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJ0cgLyBBQmGBJ1jxL1Hr77zH1eslLyrB77z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1Zsl8kBSX7fryzoeI1rBm7zrkXsl8kBBQXf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Commercial Activities 3200-3472.2</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hk4olLJHSmmGSkSoeIJrHXmMB1IseL1rSmmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bywig8yrHX7fSk_ig8kSrXXMS1KieLkBrX7G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Domesticated Game Breeding 3200-3219</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HycsxUyBr7QGHJjoe8yrr7XGBknigLJSBXXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJpigIJBBmmMHyRigIySBXmfBky2eLJSBX7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Commercial Hunting Clubs 3240.5-3246</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1lnxIkrH7XfSkWnl8kBBQQMSyf3gUkBBQXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyX3x8ySHQXzS1N2gUJSHQXGSkB3xIyHBmmf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Licensed Domesticated Game Bird Hunting Clubs 3270</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1U3xUJrSm7fH1vnxIJBHXQGS1_hlLJSHXmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJY2lI1rHXXzBJ52lUySHQQfS1o2eLyHHQXM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Licensed Domesticated Migratory Game Bird Shooting Areas 3300-3311
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ3ng81BHm7MHy6nlL1SSQQzrJA3e8ySBmXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyJTe81HrQQzr1e6gUyrr7mzrkZpeIkrBQmf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Enhancement and Management of Fish and Wildlife and their Habitat on
+                        Private Lands 3400-3408
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1G6x8JBHX7MB1Q6eUyBS7mMSyNpeL1SBX7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByHTxIkBBXXGHJUTxUyHrQ7MryPTlIyBH77f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 6. Management of Fish and Wildlife on Military Lands 3450-3453</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hku6lLJHSmmGByK6lL1HrX7MrJ56lIkHSQ7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Syo6xIyBB7XfHk3TgUkBrXmzB1T6l8yHrQXz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 7. The California Waterfowl Habitat Program 3460-3467</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkR6x8yrrXQfBy10xL1SBXmGBJgClU1SHQXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1WCxI1Br7XMSyGAeUkBH7QMBJQRl8JHHQmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 8. Management of Wildlife at Public Use Airports 3470-3472.2</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r14CgL1Hr7QMB1rCxLkrHQQMBJIReL1HBmXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1w0gLkBrQXfryORl8yBHm7zrktClLkBSX7M">
+                <stat:Text>
+                    <stat:heading>PART 2. BIRDS 3500-3864</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy5Rx81SS77zBJsCxUyrHXXfrJ2Cl8JHBQ7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJaRx81HrmmzB1CCx8ySBXQfBJk1-UJBr7Qz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. General Provisions 3500-3516</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkgJ-UkHSmQMSy-y-IyBBQXGS1G1bIJSBQ7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1Q1ZLyHrXXMryVJ-8yHB7XMryHybU1Sr7Qz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Particular Varieties 3660-3705</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1Uk-LkrH7mfB1DJZLkSSXmMSkOJb8krBX7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJK1WUkrHmmMSkqyW81BHXmzrJjJb8yHr7Xz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Pheasants 3660</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJh1bLkrB77GS1TkW8JSSm7fSJC1-IyBHX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkJgb81rS7QzrJxxbIJBSXmGHyWg-8krBXQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Other Species 3680-3686</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1MlZ8ySrQQfB17g-Lkrr7QGS14eZLyBr7QM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkSgZ8yBBXXfS1UxbIJrr7mGH1PebLkBr7XM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Migratory Birds 3700.1-3705</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkOl-8krSQ7fryFebI1rH77zBJ9lW8kBrQ7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryilW8JrHmmMrkhl-IyrHXmMHkalbUyBHmXz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Nongame Birds 3800-3806</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryClW8JrS77zBJy--LkBSXXGSJlZ-UJSrmQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkbZZLySrmQzSkzWZUkBrXQzBJXWWLySHXmM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. California Condor 3850-3857</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByE--Lyrr7XMHkr-bUJSSQmzSJUW-LyrBXXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyPWWIyBB7mzSJd-ZIJBHm7zH1FWZI1Hrm7z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 5. Avian Influenza Wildlife Surveillance Act 3860-3863</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy5bZU1SB7XzBJj--UkSSQ7GrynW-8yrBXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJa-WLJrBmmGByRWbUJSrXmGrykzWLJBrXXM">
+                <stat:Text>
+                    <stat:heading>PART 3. MAMMALS 3950-4904</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkxM-8JBH7QzBkbM-IkHHQ7GS1Gz-8yBHmmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJQM-IJSrX7MBkVMZU1HrmXfH1BMbUySr7mz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Game Mammals 3950-3961</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B18fbLkBrXmMByDzZIyBBQQzr1dG-LkBH7Xz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HytzW8ySr7XMBkcMZIyBH77fByszZ8yBrmXz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Fur-Bearing Mammals 4000-4043</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1hz-LySH7Xfr16MbL1rBQQfB1AGWIySSQmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByyQbUyrSXXfrylXW8krBX7GSkbQWLySrXXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Trapping Provisions 4000-4012</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkzmZ8kSrmXzB1X7ZIyBBXXGrJE7ZIJHBmmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJrm-U1BrX7zr1IXW81SBm7zrJPQZ8ySrm7G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Fur Dealer License 4030-4043</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By_m-UkBrQmGB1Ymb8JBrX7MrJcm-U1BSXXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1jm-LJSrm7zHknX-81HS77GB1aXZUkrH7mM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Nongame Mammals and Depredators 4150-4190</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H107-LyBSQmzrJyV-LJHH7mGHyx4bUyHHm7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJbE-IySSmQzrJGEZIJBrXXMBkQVZLkHBXmM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Nongame Mammals 4150-4155</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1EEWUkSSXQzHyS4WUkHBmQzHyLVbLkHSQ7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SywEWIJrS7QzByu4bL1HBmXzrytEb8krB7mG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Depredators 4180-4190</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkcVbUyHB7mzrJjVZUkSB7mfS1nV-U1rrX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HypNb8krrXQMH1RE-IkBSXXfS11r-8yrSQ7f">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. Deer 4301-4371</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rylS-LJBHmmfS1WHZ8JHrmmfr1fBZIkHrQ7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJmBW8JBHXmGSyEB-IySHm7fHyrBWUkBBQQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Taking Deer 4301-4304</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1IHZI1BSXXGr1wS-IJrHX7GH1OHb8yBrQmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BytHZIySS7XfrkqH-LkBS7Qzrksr-U1rS7Qf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. License Tags 4330-4341</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H13SbLJrSX7MHJprZLkHrX7zry0rbLySrX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S11L-8kBHm7zSJg8W8yBS77fSybLZIJrSQ7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Archery Deer Hunting 4370-4371</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkfI-8ySSXQfSyXLb8kBSQQzB1EI-8yHSXXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyS8ZL1SB7Xfr1ILbUyBSQ7zHJwU-81HBQQf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 5. Marine Mammals 4500-4502.5</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJOLWLkrHm7GSyKUZL1SrQQfSkqU-8ySHmmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryo8-LkSSmXGHy3UW8JBHQmGrk6L-8JBS77z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 6. Burros 4600</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ08bIJBHXXfS1yPbU1Br7XzHkevbLySHXmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJZvbUkHrQQGHkzD-IyrHQQGHyQPbIySSQmG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7. Wild Pigs 4650-4657</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryVDWLJrrQ7zS1SvbLJrBXmGHJUDZU1BHQmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rywDW81BBmXzSy_wZUJSHQQfr1FPWU1rH7mz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 8. Fully Protected Mammals 4700</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkcPZUJHB77MHyswZU1HBmmGS1nDWLyBBQXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1aPZLkBHmQfryCvZU1rHm7zSyJubIySBXQf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 9. Bear 4750-4763</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1xu-IkrB77MByWdZUkBHQXGH1fdW8JHrmXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByQOW8ySSmXGrJVdWIyrSXQfr1ruW8JrrmQz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 10. Mountain Lions 4800-4810</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJ8u-L1SBQ7fSyDdZUkSS77MrJu_W8kHrXmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1Kdb81SH7XGHk5dZ8krrXQMB1sO-8ySr77G">
+                <stat:Text>
+                    <stat:heading>CHAPTER 11. Bighorn Sheep 4900-4903</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1nOZU1Br7Xfr16d-IkHSQ7MS1ROWUJrSmmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="SJwXWSDGmmfrJd7Zrwzm7MrytQ-SPMXmG">
+            <stat:Text>
+                <stat:heading>DIVISION 5. PROTECTED REPTILES AND AMPHIBIANS</stat:heading>
+            </stat:Text>
+            <stat:Level id="HJjCrkSSm7fryhRrJrH7XMHkTAHkSHmQM">
+                <stat:Text>
+                    <stat:heading>DIVISION 5. PROTECTED REPTILES AND AMPHIBIANS 5000-5062</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJA0rkSSQmGHyyygrJSrmQfSJxkxHJrSQ7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkW1xS1BSmQfB1z1lHJHH7QGr1Q1xHkBBXQf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Turtles 5000-5002</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H14yeSkHrmXzSJH1gHkrrmmMSkIylHyBr7QM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkPJlSyrH77fHJ_1lB1HBQXGrkK1lS1BHX7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Desert Tortoises 5000-5002</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJ9JeHJHSQmfrysklSkBH77zS13keryHS7mG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkakeHyrHQXMHkCkeBJHHmQfrkJxeryrBmmf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Terrapin</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkxxxByrr7QMB1ZleSyBS7mMH1feerJSrm7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJmelHJSHQXGS1EexrJSB7mMHkSxxByBSQmM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Fully Protected Reptiles and Amphibians 5050</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1IeeB1SB7mGByPgxrJrr7XfHy_glS1BS7XM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1YgeB1Sr7mzSycgxBkSrQmGH1slxBJSHXmM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Commercial Use of Reptiles 5060-5062</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ry3exH1HrQ7fS1TegB1rr7XfHkClgHJBHXmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="SJ57-SwMmmMHkjXWHPM77GSk2mbrwz77M">
+            <stat:Text>
+                <stat:heading>DIVISION 6. FISH</stat:heading>
+            </stat:Text>
+            <stat:Level id="SkK37wJBrmQGB1qhmv1BSXmGSys37PkSrQXf">
+                <stat:Text>
+                    <stat:heading>DIVISION 6. FISH 5500-9101</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hy33mDyHB7XMSy6nQwyrBmXfH1RnQP1SSmQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJk67vyBHQXMHJeTQvkSHQmGSkbTmPySrXmM">
+                <stat:Text>
+                    <stat:heading>PART 1. GENERALLY 5500-6956</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1fpmD1SBQmGHJm6XvkHHQ7MBJ46Qv1BBQ7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByST7vJHHmQfSJIpQDJHH7mfrywp7DJrBm7M">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Miscellaneous 5500-5523</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJuTXDkSBmXzByFaQDkBHQXGSk9aQvyHBXXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyiTmD1HHXXzH12a7DkrSmmGry6amvkSBmQM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Pollution 5650-5803</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rk0pmPkrrmXfry10mPkSrQ7MSyeA7wkSrQXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkbCQDySB7QGH1MR7vkrSm7zSyXAQDJBB7XG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General 5650-5656</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyECmPkSr7QMByBAXwJHBmXzSJ8AmwyrBmmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1DRmPJSHmmGry_RmPyBHmmfBkKCXDyrBQQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Shellfish Area Contamination 5669-5675</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H19R7vyHrQ7fBJjC7PJSBXmfSknC7PyHB7Qf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkpRXw1rSXmfHJ0AXPJHrmmGS1yJNvJSBQQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2.5. Purification of Mollusks 5700-5702</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkx1Nv1SBXmzBy-yVPJHSQQMSJMk4DyBSQ7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1QyEDyBr7QMHkE1NDyrrXmfryHyND1rSQ7G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Trinity and Klamath River Fish and Game District 5800-5803</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1LyNv1Sr7mGSJDk4PySHmXGSJOkVvkrS7XM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1tJVv1BBXmfrkckNPJBSX7zr1ikVPyrBXQf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Dams, Conduits, and Screens 5900-6100</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJhJEDkSHQQzHJT1NPJBr7mMH10JNwkBB7Xz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJygNw1HHmQMrkle4PJrBX7fHkbx4wyBBQQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 5900-5904</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1ze4PySHm7MH17x4wkSrmXGB1NlEP1SrQXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByHxEv1SrQQzSyLgVvJHB7QGHJwlVwJHH7mG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Dams and Obstructions 5930-5948</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryOlEwkBrmQGS1tg4P1SBXQfS1qlVPyrH7Xz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1ilVDkSSX7zSJ3x4vyBBQ7MH1pxVDySHmmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Conduits and Screens: Diversions Over 250 Cubic Feet per Second 5980-5993
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1RlND1SS7XzHy1WVDJSSXQGBkl-VD1rBmXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJb-VD1HSQ7MryMbVD1BrmQGr1XW4D1HHQXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Conduits and Screens: Diversions Less Than 250 Cubic Feet per Second
+                        6020-6028
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryEbEvJHBQ7fSJSZNPyBBX7zBJL-EwkSrmQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1w-Vv1SBmXzBkubVDySS77zryKWEw1rBXXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Diversion of Water From Streams 6100</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy9ZNvkrrX7zr1iZVvyBrQ7fSJ2ZVD1HHXQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryaW4v1SSQ7MHkRZVDkrBX7GHJkfNv1rHQXz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. Infected or Diseased Fish 6300-6306</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkxzEwJrBXQGH1bM4wyrBmXMBkGfNDkHSmmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkXfVwkHH77zHkEGEvySHQ7GrJrM4w1rrQQM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 5. Fish Planting and Propagation 6400-6598</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bk8f4DkrHQ7zBkvf4wJHSX7MBJ_GND1rSXmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1tfEPkHHXQGrk9MNPyBrQXfSysMEwJSBXQz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 6400-6403</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkhMEwJBSmmzSyaf4PkBHQXzryCf4wySr7Qz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rk1X4vyBr77Gr1emEvJBHQ7MSyWQNDJBr7mf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Artificial Reefs 6420-6425</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJf7ED1SHX7GBk77EDkrHmQfHk4QEw1Sr7XG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkrQVwySHXXzr1LX4vJBHQXfSyP74wkSrmXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Grass Carp 6440-6460</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1_74vkHHmmMSkFXVw1rH7mGrJqmNvJBHXXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1jmEPkHS7mGH1nQ4DkHr7QGSJaQEPkSrQQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 8. Ocean Fishery Research 6590-6598</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1RQVPyHBX7GSky4EvJBr7XzSJgENw1SBXQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkbVNvyHrmmfByfEEDJSB77MBkXV4DJrBmmM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 5.5. California Marine Resources Legacy Act 6600-6621</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1V4Nw1rB7XzHyrVND1rBQQzBJU4NDySrQ7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkD4VDJBS7XfrkuNNwkSHQXMHJF4Vv1HrmXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 6600-6605</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy5EVv1HS7QfrkiENwkSBQmfSJnVEwkHrmmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkTNVPkSrmmMSkRNEvySS77MS1yr4wyBBXmM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Partial Removal of Offshore Oil Structures 6610-6621</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJgBEPJHSXXGBkZr4DyrBmmzBJzr4vkSB7Qz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJ7rEvJrBmmzHJVHNv1HrXXGSJSr4PJrBX7f">
+                <stat:Text>
+                    <stat:heading>CHAPTER 6. Kelp and Other Aquatic Plants 6650-6751</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkLS4PkrHm7zB1DSEv1rHmmGSkuB4vJSB7XG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkFSEDkSrQQMSk9SEDyBSQmGHJoHVP1HHQQG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 6650-6657</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HynrEvkBrQmGryaSEPyHrXXMBkASNDkHH77z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJJIEvyrrQmMrkeI4vJrBXmMBJ-IVDkSrmQG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Royalties 6680</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJGLVwkBS77zHJ7U4PkBBXmfry4LVPyBHX7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkBI4PJBrQQGS1IUEv1rrmXMHJDI4wyHrXXM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Exclusive Leases 6700-6711</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SydLVvJrBXmMSkKIVwySSX7MSJcI4wkBr7Qz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1oLVPyHH7mzBy2LEPySrm7fHkTL4Dyrr7XM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Noncommercial Use of Kelp 6750-6751</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ0LEvyrHX7Grk1P4wkBr7XfHyewVwJBrQXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJbvVPkBS7XMBkMwEDyrHQmzr1XPEPJBSQQM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7. Amphibia 6850-6896</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJEDVPJSBQXMB1SwNvkSSmQfryLP4DkSrXmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJDDEDJrSXmzSJ_PEPJSHmQfHktP4wJrSX7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Frogs 6850-6855</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJ9PEDkrSQXzr1svEPJrSm7MHy3vVDJrBQ7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByaPEPJrBQ7MryCDNDyrrQXMSJ1OVwkBrX7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Frog-Jumping Contests 6880-6885</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByxuVPkrrm7zrJ-O4DySHm7zSkfO4DJSHXQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyQuEPJSB7mzSkE_EDySHmXMSJHOEPyHSXQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Commercial Use of Amphibians Except Frogs 6895-6896</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByUd4wyrrmmGSywd4vJBrQXfB1udNvySrQXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1F_4PySr77MS19OEP1rBmQfBkiOEv1BH7mz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 8. Salmon, Steelhead Trout, and Anadromous Fisheries Program Act 6900-6930
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sk3OVw1Sr7mGBypONwkHBQQfHk0d4wJHSX7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkyYVPJrSQXMB1gK4DJHBQQMByZtEPkrrX7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Citation and Legislative Findings 6900-6903.5</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryzFVwyBS7mGrkmY4D1HS7QfHy4F4wkHrXmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SySFNDJrBQ7GSJLt4D1BSQ7fBywKVwkHrQXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Definitions 6910-6912</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkuFEw1SrmmMr1tFNvJBHQ7frk5FVwySSXQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkiKEvJrrQ7fH13K4vJrBQQfH1aYEPJrr7mz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Salmon, Steelhead Trout, and Anadromous Fisheries Program 6920-6924
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ0YEvJrr7XfrJ15EP1BS7XMHklcNvyrBQXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hkb5NDJSS77GHyMcNwySH7mGHJmqNwyrB77z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Effect of Reduced Water Flows 6930</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1454vyrS7XGS1B5VD1rrmQfSkI9NDJHH7Xz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkP9NDyHBQXGr1d5EvJBrQXfHyFcVDkHrQmz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 9. Coho Salmon Habitat Enhancement Leading to Preservation 6950-6956
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1q9EPkHSmmMBys5EvkHSQ7frknqEPJrHXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1pqEvJBr7QzS10qNDyBS77GSJJiVD1SHQXG">
+                <stat:Text>
+                    <stat:heading>PART 1.7. CONSERVATION AND MANAGEMENT OF MARINE LIVING RESOURCES 7050-7090
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1xoNPJrH7mMSkWiNwkBBm7MBJfjEP1rBXmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyXsEwyHrmQzH1ViVDJBBQXMrkSo4w1BSQ7G">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. General Policies 7050-7051</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r18iVwyBSXmMrkDo4P1BHXmMHJuoEDySBQmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkKiNw1BSQQGHy5sNv1Sr7QMS1oiNv1rr7mf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Marine Fisheries Generally 7055-7059</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1noVPkBBXmfSJpoEwkrBQXGBJAjNw1SSQmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1ynVwkSHmQMHylnVD1BrmmGBkb3NwJSHXXz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Fisheries Science 7060-7062</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkMn4PJrSQXzBk72EwJHHmQMSkVn4P1HBX7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJHnNvJBSX7GH1U2NvkSBm7zS1v24PJBSQmz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. Commission and Department 7065-7066</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkO3Nw1Hrm7fryF2NP1BH7XzHJ5nEvkSS7XM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJo3EPkHHmQMHJh2EPkBBmmMByThVwyrS7QG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 5. Fishery Management Plans—General Policies 7070-7074</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyC3NDySBmXMBJyTVDkHSX7fBkeTNDJHr7mM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJW64wyHr7QGSyGT4DJHH7XfrkmpVvySHmXz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 6. Fishery Management Plan Preparation, Approval, and Regulations 7075-7078
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkV6EP1BHm7Gr1HaVD1BBXXMHkUa4wyrrmmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJDTNwyBSQXfHJ_p4PJrr77zBJFTVvJBSQmM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7. Contents of Fishery Management Plans 7080-7088</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sk9pNw1HBQXGBJiTEDkSSXQzHk26Vw1SSXmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1TT4P1HHm7MS1ApVvkHH7mGBy1RNw1rr7XM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 8. Emerging Fisheries 7090</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rye0Nw1BH7XGS1W04DySH7mMSyM0NwJHr7XM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1QA4DkBH7mGSkVAVwJSHm7zB1HA4wJSrQ7z">
+                <stat:Text>
+                    <stat:heading>PART 2. SPORT FISHING 7100-7400</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByICVwkHBXmzHyvRNDkSrXmfryu0Vv1rS7mG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJtANPyBr7XMrk90NDkrS77MBJoANDJHB7mM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Generally 7100-7232</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ20VPkSH7QGS160EP1Br7mGSkCANwkBSXQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJJyHwJHSQ7zryxyrPJHHXmfHybkrP1rBmmG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Application of Part 7100</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJGyrPyBrQQMrkm1BPJrrQ7Mry4krD1rHmXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByHJrP1SBXmzSkLySP1rHX7GH1D1rvJrSX7G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1.5. Sport Fishing Regulations 7110-7115</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bkd1HPkSS7XGrytJSwkBSmXzrkckHwyHrmQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1okSwkSS77zS12kBPkSB7mzr1TyrwJrSXXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. General Provisions 7120-7123</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1AyHvkSSm7frkJerDyHS7mGHklgHD1SrmQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By-erD1HBXmMrJzxHvkHHmQfSJXlBDJHBQ7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Sport Fishing Licenses 7145-7155</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJNgrPkrH7QGB1HeBwJHHmmfrk8eHP1HBXXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1PervyrBXXGHkdxBwJSHXmfSJKxrDJBrQQz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Reciprocal Sport Fishing Licenses 7180.1-7186.1</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rk5xrvkSHQXzBJigSwkBrXmfBkhlSwyHBX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJ6xHD1rrQXfrJCgSDySSXmGSy1brDyBBXQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Processing and Preserving of Fish Taken Under Sport Fishing License
+                        7230-7232
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJebSwkSrQXzr1ZZBDkHBXmfSJfWSP1rBQQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyQ-BPJBBmQMBkNbSDkHSmXzSkr-BPkHrX7G">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Particular Varieties of Fish 7256-7400</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1IZSwkBrQ7zr1wZHwkSH77fH1_ZBw1HB77G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1YZBw1SSQXGHJqWBwJSrXmMrJoZBvkrrQmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Spiny Lobster 7256</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r12bSDJrSm7fSk6ZrDyrSX7MBJ0-BvkHSmQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HykGrw1HSQXMS1gzrwJSrXXGH1WfBwkHrQmf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1.3. Native California Trout 7260-7261</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryGMBPJSHm7zBJQGSDkBH7XzSkVMSv1rH7Qz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1HGSPJSr77zBkUzBvyrH7XzBkPzrP1BSX7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1.5. Pismo Clams 7290</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Byufrv1BH7mfH1tGSwJrSQmfrkqGSwJSrQ7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJjfSwkrBQ7fr1hfHD1SrXXMBypfrDyrS7Xz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Clams Generally, Mollusks, and Crustaceans 7332</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJRGrDkrrXQzr1ymrwJBHQ7zSklQHPJBHXmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ry-QBv1rSQ7GBkfXrwkSBm7fryQQHwJBrQQG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Giant Seabass 7350</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H14mrvyBBmmMHJBQrD1SSQQfH1U7BwkSB7XM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkP7SwkrSmXzr1dQBPyrrmmzS1YQBPkSS7Qz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Bay-Delta Sport Fishing 7361-7364</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJqQSDkBSQQzHysQrvJrH7mfH12mrv1SBX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByT7SvkSrXQfH1CQBPJBrXmzS1JVrDJHSm7G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Sturgeon 7370</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJlEHwJSHmXfSJ-NrvyrSXmMSyMNrDJSr7XG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1mVHPJBrmmGB1VNBwkBrXXfHJrVSvJBrmmM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 6. Steelhead Trout 7380-7382</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sk8NrwyHBXQfryDErPkSS7mfS1_NSvyBS7QM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rytNSD1SS7QfSy5ESwkSBmmfrJoVSwkBHQQG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 7. Recreational Abalone Advisory Committee 7400</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B13VSD1BrQmfrkpNrPkHHmmGH1CEHDJBB7XM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By1SSvySr7mGrJxrBvyrHm7Gr1WSBwJSrXXz">
+                <stat:Text>
+                    <stat:heading>PART 3. COMMERCIAL FISHING 7600-9101</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkfSrPJBHmmMr1QrrwyrSXXMSkVHSvkSrXmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rySSrvJSBm7GBJ8HSwyrB7XGr1PHSvyHB7Qz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Generally 7600-8126</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1_HSD1SSm7MS1FHSv1BrmXzBJ5rHwJHHQXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJjBrwyHSXQGrynSHPySBmQfHyarHPyHHQ7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Application of Part 7600-7601</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1RrBwkBSQmGSyyIBDJBB7mMHJlUHvJHBmQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1WUSP1rSm7zH1G8Sv1HBXmGSy7LHvJrHQQG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1.3. Commercial Fisheries Capacity Reduction Program 7630</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJ4LSPJBrX7GrJSUrwyrHQmfS18USDJBrXXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJP8HvJHSQXfSkuIHDkBSQ7zBkY8BPkrrQXM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1.5. Federal Regulation 7650-7655</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S198SwkBHQ7fHki8BvyBBmXzSy3LHP1HHXmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJaUSDJHHQXzHyALrvkHH7QfB11DrPJBH7mG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1.6. Salmon Management 7660-7662</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkgPSw1BBmXfSkZvHPyBBQmfHkzPSw1SBm7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyQvBPkrHmQMHJ4PrPyHrmmfrkHwHv1SSQXz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1.7. Vessel, Hull, and Machinery Loss Pooling 7690</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By8PrwJSSmXzryPDBDyrS7mzrkOwrDyBrQmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryFPHw1SHmQfrJ9DHD1rSQ7GH1iwSvyrBXmf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. General Provisions 7700-7712</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S13PHD1BrQXfSyaDHvkBHX7zrkRvSwJBSQQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJkdrD1rBmXGB1lOSw1rSXXMBJZ_HPJrHmQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Commercial Fishing Licenses 7850-7858</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyzOHD1BBmXzr1mdBDySrmmGHkVdBPkSr77z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1HdSP1SS7XfByIOBv1rS77GrJD_HP1rrX7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3.5. Commercial Salmon Trollers Enhancement and Restoration Program
+                        7860-7863
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkO_Bv1rS7QfB1tuSDJSrX7GH19uSwkHH7Qf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Byi_rvyHSQmGH13_BwyrS7QzS1TuSPkHSX7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Vessel Registration 7880-7892</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJCdHvJHHQ7MSyytHPkBH7XzBygYBwyBrQQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkZYHwkSrQQzrJzFHPySHX7fSJmFrDJBBXXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Commercial Passenger Fishing Boat Licenses 7920-7925</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1EFrwJHBmXfSJHKSPJSHX7GBJLFSvyBBQXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyvtBD1HrmQzrJdtSvJHBm7GHktFHvJHHQmM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 6. Commercial Fishing Reports 8010-8026</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJqYHD1BrmQzSysFBPkrrQ7MBJntrvkBBQQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H16FSDJSBmQfSkCYHPyrH77fB1J9rvyHSQXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 7. Commercial Fish Business Licenses 8030-8039</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByxcHv1rS7mMrJWqSwyrHXmfS1z5HPJSSXmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJm9Bw1SBm7zSkEqBPySSX7GHyS9Hv1SHQXz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 7.5. Landing Fees 8040-8070</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1U9BPkHS7QMBkPcBD1SBmXzBk_cSDJrSmmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJY9HPySSmmGHk5qBPyBHXmfH1o5HDyBB7Qf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 8. Reduction Permits 8075-8080</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hy3qrDJBHQmfSkT5SDkSB7XGHJRqSw1rHX7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJJjSPJrr7mzS1gsBPJSBQQGHy-iBvkBB7XM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 9. Limited Entry Fisheries 8100-8104</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkGiSPkBHXmMrkmjSD1BBXXGSJNiBvyHrXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJBjrPkBHXQGSJIiBPyHBXmGr1PsSPkSrQ7G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 10. Far Offshore Fishing 8110-8114</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkdjrvkrHXXfSkFiSDJrrXQGB1qsSPyHH7mf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryijHwkrHXXMBJ2sHwyHHXXzrJ6iSvkBSQmG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 11. High Seas Interception of Salmon 8120-8123</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJAsBDySrQXGrJJ3BP1BSXmzHkx2HDJrr77G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJZnSPJSrQ7GByM2HwJSrQXfSym2BD1Sr7Qz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 12. Commercial Fisheries Capacity Reduction Program 8125-8126</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkVhHDJBS77frJH2HDJrBmQzB18nSDkHHmQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyP3HP1HHQXfSkO3rvkBSQmMBkYhBDJSB77G">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Particular Varieties of Fish 8140-8599.4</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S193Hw1SBQQfSko2BPJBBQQGBk32SwkrrXXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hya3SvJHr7QfrkA3BPyBBm7MrJJ6BDkrHXXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Season 8140</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BygpHP1BBmmGrkZ6rwkHH7XMrkMTrvySHX7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkmTSPJrHXmMr1NTHDkBBXQzryBaSDJHSQ7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Sardines 8150.5-8154</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1UpHD1HrXmGHJDaSw1rB7mzH1dprD1BSQXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Syt6Sw1Hr7XMB1q6HwySHmXGryo6Sv1rB7Xf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Anchovies 8180-8190</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1nTBvkrB7QzHkTarvyBB7XzSkA6Hv1HHm7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rk1RHPkSB7QfB1l0BP1BH7QGHybABw1BS7Xz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Salmon 8210.2-8226</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryzRSwySSXXfHJ7ABD1HB77zHkNCBDJHS7mM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJrRHPJBB7QGHyLArwJSHm7fHyPRBwyHBmQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4.5. Commercial Salmon Vessel Permits 8230-8248</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJ_ArwJBr7mMr1tCHDkSBXXGry9ArPySS7Xz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Syj0BvySBmmGHk2ASwkHHX7GS1TAHPyrHm7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Lobster 8250-8259</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sk00BDJSSX7zSJ1yLD1BSmQzHklJ8w1rSXXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJZJLD1HHXXfrJGyID1HSQXfSJ7JUwyrBQXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 6. Crab 8275-8284</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryEJ8DJSHm7fr1rJ8vJrSmQGr1LJLPkBSmQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1wkUwkrrX7MHkOkUPkSHm7Gr1KkUDkSS7mM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 7. Abalones</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bk9J8w1SrQmMrJiJUDkSr7QGSJ3yIvJBBQXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sk6JIP1rSXXGrkAkIDySHXXzBykxUwyrrmQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 8. Clams and Other Mollusks 8340-8346</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByelIDJHS7XfHkblUwkrr77fB1MxLDySH7mM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1QxLDJSBXQfHJEe8vyBS7XMH1SgUP1BrQ7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 9. Salt-water and Anadromous Fish Generally 8370-8403</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJLxUvyBS77GHJDgLPkHrQQzrJ_gLD1SHQmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1te8wJrSXQzSyqxIP1BBXmGrJigUwkSr7QM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 9.1. Sea Cucumbers 8405-8405.4</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hk2xIvJBBQmzrJ6lLP1HBmXfSkCg8wyHBXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1yWLvyBHmQfSygbIvJrSQ7zHk--UPyrBQQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 9.5. Pacific Mackerel 8411-8412</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkGbUvJHrQmzS17Z8DJSBmQfH1Eb8vyBBXXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkSbUwkSSXQGHJ8Z8PkHSmQMH1DWUD1HrmQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 9.7. Market Squid 8420-8429.7</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sk_bIP1SHm7zrkFb8v1BS7mfrJ5bIwyBS77M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BksbLDyHS7XzrJnW8PyBS7Xzr1pW8PkSHmQM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 10. Fresh-water Fish Generally 8430-8437.1</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyR-LP1SBmXMSy1fIvJSBmQzBkezIw1HHmQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hkbf8w1SS7QMSyzzLPkSS7XMB1Qz8PJrrmQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 11. Fresh-water Fish for Bait 8460-8475</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1NzUw1rBmmGHyHM8vJHSXmGBkIzIDkBS7QG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkPM8D1rrm7zSkdfIw1rBX7zSJFfLPkrBmQz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 12. Crayfish 8490-8492</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkcfIDySSQQGrkjMIDkSHQQfSynMUPkSrmmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJ6MUwJSHQXzS1Af8vyHSmXMSykQUPySSXmM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 13. Halibut Trawl Grounds 8494-8497</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rklQ8PySSmmGSyWmIvJHHX7zHJM7LPJrr7mM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJm7LPyHHXQzByNXLD1HSXmfHJBm8DJSSQmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 14. Tidal Invertebrates 8500</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1LQLPJBHXmMSkP7IPkSHQXzByd78PySrXmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJtmUwkHr7QzB19QLP1SrmXGB1iXIvJrSm7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 14.5. Krill 8510</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r127IPkrrmXzSy6mLwkrBQ7GryRXUwyBBm7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Skk4Iw1BHQQMH1xVUw1HSmQGry-4IwySr7Qz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 15. Herring 8550-8559</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hyz48PkBrm7MSJQELDyBBQ7zH1N48vkBH7mG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJrN8D1SHQQMryL48PkrH7QzSkDNUwkSBX7M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 16. Drift Gill Net Shark and Swordfish Fishery 8561-8582</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJ_48vkSHX7zr1FELPkrB77fHJ5ELPkBrmXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SksNLDkHHmmMBk2V8PyBBmmzHyTNIDySrX7G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 17. Nearshore Fisheries Management Act 8585-8589.7</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="By0VIvJHSXQfSy1B8vkBHQmGHkxSUD1BB7QG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rk-r8wkHBQQfrkGSUPkHHXmMryQBLv1BSQmG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 18. Prawns and Shrimp 8590-8595</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkES8vJHBQmGr1SHLwJHSm7zS1UBLv1rBm7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJvB8PySrQmMSydHLvySSQ7fSJFSUDkrBQmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 19. Marine Aquaria Pets 8596-8598.6</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rycrLw1HS77Gr1oBIDkBSmmGH12SLPyBB7mM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkTSLvyBrXmfHyRrLw1rBXmGrJJ8Lw1HBXmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 20. White Sharks and Basking Sharks 8599-8599.4</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJeULwJrS7mGHJ-UUwJSSQQfryGLLw1rBXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyQLLPkSSQQfS1VI8PyrHQXGBJSUIwJBBQmM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Nets 8601-8890</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hy8LUPkHB7XfrkvULDkrS77MrJOIUvkHr7Qf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryKLIPyrH77zrJq8Lv1SrXQzByj8LwyHH7mM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Generally 8601-8609</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJh8LvkHHX7zSJa8IPkrHmmfSyA8UwyrH77M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkyvIvyrBQ7zHylD8DkBBm7GrybDIwJSBXXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1.4. Marine Resources Protection Act of 1990 8610.1-8610.16</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJzwUPyBBmQMrkQvUDyBB77MBy4vIDJHrXmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1HwUPJSSX7fB1UwLvJSBQQzH1Dv8vkBrm7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1.5. Development of Alternative Fishing Gear 8614-8615</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJuDIwkrrm7Gr1tvIwkSHQmMSk5PLPyBSQmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1jPIDyHHXXzBJ2PLvJrr7QMBypvUwJrHQQG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Nets for Particular Varieties of Fish 8623-8626</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJCDIvySB77fSy1_Iv1Br7XMryxOLwJrrQXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1WuIDJSBXXGr1z_IvkHHQXfSymO8PkrBQ7G">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Seizure 8630-8635</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJEdIDkHHXQGSJS_8D1SHXmGBJIdUw1HSQXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJvOIvJBHmmfBy_OIwkBrmXGHytdUPkrBm7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Nets Generally in Particular Districts 8660-8670</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rk5d8vyBBmXfBksu8vyrH7XzSyn_UD1SBmQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryT_LP1HBm7zr1C_8Pyrr7mzHJkKUPyrrmQz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Gill and Trammel Nets 8680-8700</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyeY8vySBmQGBJbKUPkBHQQGHkzKUv1BrXQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkQKLwJHr7QzS14YID1BSmmzSyBFIwyrH7Qz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 6. Trammel Nets 8720-8725</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkLFIvkHHmmzr1PYUwyBHmXzSyOFUDyrrXQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJttLvyrHXQMSk5KIvJrrQXfHkiF8PJHSXmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 7. Round Haul Nets 8750-8757</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJhK8DyBr77zHy6tIPJrS7mzHJAK8PyHrQQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ19LPJrH7mfByxq8vySrX7zHyWqLDJrrXQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 8. Bait Nets 8780-8780.1</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1fq8wyrSmQMByX98w1HBmXzSyV5Uw1rrmmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJr5Uw1BH7XfSJ89UDkrHmQfryvcIPJHrXmM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 9. Beach Nets 8800-8807</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJ_9Lv1SHmXMSyF98PySS7XfHyq9Lv1rBQ7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkocLwySHXmGHJ29LvyrSmmfSk69LPyHrQXG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 10. Trawl Nets 8830-8843</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1CqUDJSB77MH1JiIv1HS7mMrkeoUvkBrmQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy-jIvJrBQmfSkziLDkrHmXMBkQi8P1rrmXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 11. Dip Nets 8870</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkVj8wyBBX7fSkHsIvyBrQ7zBJLsIv1BHmXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryDjLPySr7QfS1uiUvkrHmXzB1KjIPJrrXQf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 12. Other Nets 8890</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy9sID1BrXmfryojLvkrB7mMS13iUwySr7mz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ6jIDkSSQQMBJ0iLDkrS7mMSkJnLvyrHmXG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. Other Means of Taking 9000-9055</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJghID1rBmmfrJW28D1rS7Qzryf3LPkBBQmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJmnLvkHSXXGH142UD1rHQQzHJrnIwkSHX7z">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Traps 9000-9024</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJIhLwkrSmQGSJDhIvJBSQQMBk_28vkrSXmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJKhIv1BHmmfry53LvkrB7XzH1snIPJHB7XM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Fishing Lines 9025.1-9029.5</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S12nIDJHBmXMry628vyBSXQGSy0nIv1HSX7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ1TLPyHr77MBkgpID1rB7QMByZTIwkSBXmG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Other Appliances 9050-9055</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hyz6UwkBrmXGBymTIwJHSXXzrJNaUwkHHXmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyBp8DkSH7QGSkLpIv1rr7mfByPa8D1SSQ7G">
+                <stat:Text>
+                    <stat:heading>CHAPTER 5. Fuel Conservation Assistance Program 9100-9101</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJd6IP1HrXQGSkFTLwyrrm7MB15TIvkSrmQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="B1pXbrwzXXzSkAQWHDGQ7GSJkNZBwGQXG">
+            <stat:Text>
+                <stat:heading>DIVISION 6.5. STURGEON EGG PROCESSORS</stat:heading>
+            </stat:Text>
+            <stat:Level id="ByLIIHmXzr1lLU8rQmzSJZUI8HQ7M">
+                <stat:note>( Division 6.5 added by Stats. 1985, Ch. 1403, Sec. 10. )</stat:note>
+            </stat:Level>
+            <stat:Level id="Syz88LHXmGryX8L8SmXGry4UIUBQ7f">
+                <stat:header>10000.</stat:header>
+                <stat:p></stat:p>
+                <stat:p>(a) Every person engaged in the business of canning, curing, preserving, packing, or otherwise
+                    processing, or dealing at wholesale in, the eggs of sturgeon for human consumption shall obtain a
+                    sturgeon egg processing license from the department for that purpose. The license required by this
+                    division is in addition to any other license, permit, or other authorization required by this code
+                    or by any other provision of law.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(b) Possession of a sturgeon egg processing license issued pursuant to this division authorizes
+                    the licensee to can, cure, preserve, pack, or otherwise process, or deal at wholesale in, the eggs
+                    of sturgeon if, and only if, the eggs are lawfully taken or lawfully possessed pursuant to Section
+                    7230 or 8371.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:p>
+                <stat:p></stat:p>
+                <stat:note>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:note>
+            </stat:Level>
+            <stat:Level id="ByBLULHQQfSyUL8IrQXMSkPULUSX7G">
+                <stat:header>10001.</stat:header>
+                <stat:p></stat:p>
+                <stat:p>A sturgeon egg processing license shall be issued and delivered upon application and the payment
+                    of a base fee of one hundred dollars ($100), as adjusted under Section 713, to the department. The
+                    license shall be valid for a period of 12 months from the date of issuance.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:p>
+                <stat:p></stat:p>
+                <stat:note>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:note>
+            </stat:Level>
+            <stat:Level id="B1OLLUBXmfBJYU8Urmmfryc88LBQmM">
+                <stat:header>10002.</stat:header>
+                <stat:p></stat:p>
+                <stat:p>Every person licensed pursuant to this division shall make a true and legible record of each
+                    transaction involving the eggs of sturgeon. This documentation shall show all of the following:
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(a) The weight of the eggs received.</stat:p>
+                <stat:p></stat:p>
+                <stat:p>(b) The name and address of the person from whom the eggs were received, and, if different, the
+                    name and address of the person who artificially propagated the sturgeon from which the eggs were
+                    obtained or the name and address of the person from whom the sturgeon were received from which the
+                    eggs were obtained.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(c) The date of receipt.</stat:p>
+                <stat:p></stat:p>
+                <stat:p>(d) If imported into this state, the place where the sturgeon were taken.</stat:p>
+                <stat:p></stat:p>
+                <stat:p>(e) Whether the eggs are to be processed by the recipient or sold by him or her to another for
+                    processing, and, if the eggs are to be sold for processing by another, the name and address of that
+                    person.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(f) Such other information as the department may require and specify on the form.</stat:p>
+                <stat:p></stat:p>
+                <stat:p>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:p>
+                <stat:p></stat:p>
+                <stat:note>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:note>
+            </stat:Level>
+            <stat:Level id="r1jUUIrQmMHk2LILBQQMBypULUBmXf">
+                <stat:header>10003.</stat:header>
+                <stat:p></stat:p>
+                <stat:p>The documentation required by Section 10002 shall be kept by the person or business holding the
+                    sturgeon egg processing license for a period of two years from the date of receipt of eggs and shall
+                    be available for inspection during normal business hours by the department.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:p>
+                <stat:p></stat:p>
+                <stat:note>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:note>
+            </stat:Level>
+            <stat:Level id="SyALLIH77zHkJgIUIrQ7zrJeg8UUBQ7f">
+                <stat:header>10004.</stat:header>
+                <stat:p></stat:p>
+                <stat:p>Any information received or requested by the department shall be confidential, and the records
+                    shall not be public records, except that the information contained in the records may be compiled
+                    and published as summaries in a manner that will not disclose the individual record or business of
+                    any person.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:p>
+                <stat:p></stat:p>
+                <stat:note>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:note>
+            </stat:Level>
+            <stat:Level id="rk-l8UIrmXzHyfe8LLrQ7fry7gI8IrQmf">
+                <stat:header>10005.</stat:header>
+                <stat:p></stat:p>
+                <stat:p>(a) Any person convicted of a violation of this division or a violation of any other provision
+                    of this code or any regulation adopted pursuant thereto relating to sturgeon shall be prohibited
+                    from engaging in the business of canning, curing, preserving, packing, or otherwise processing, or
+                    dealing at wholesale or retail in the eggs of sturgeon in this state for one year from the date of
+                    the conviction.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(b) Any person convicted of a second or subsequent violation of this division or a violation of
+                    any other provision of this code or any regulation adopted pursuant thereto relating to sturgeon
+                    within five years of another offense resulting in a conviction of a violation of any of those
+                    provisions is prohibited from engaging in any activity for which a sturgeon egg processing license
+                    is required for five years from the date of the last conviction.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(c) The commission shall revoke any license issued pursuant to this division to the person who
+                    is prohibited from engaging in that business under this section. No sturgeon egg processing license
+                    revoked pursuant to this section shall be issued, reissued, or reinstated during the period of
+                    prohibition prescribed in this section.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(d) It is unlawful for any person to obtain, or attempt to obtain, a sturgeon egg processing
+                    license pursuant to this division during the period of prohibition prescribed in this section.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:p>
+                <stat:p></stat:p>
+                <stat:note>(Added by Stats. 1985, Ch. 1403, Sec. 10.)</stat:note>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="Hke4bSDGQmMSybV-BwzXXzH1zVZBwGm7M">
+            <stat:Text>
+                <stat:heading>DIVISION 7. REFUGES</stat:heading>
+            </stat:Text>
+            <stat:Level id="SkyrwJSBQ7zr1lHvkrHmXzrJZBw1Hrm7f">
+                <stat:Text>
+                    <stat:heading>DIVISION 7. REFUGES 10500-10932</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJfBv1SHm7MByQHPkrBX7MryVBD1BHmmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJrrv1HSQ7zHJ8BvyBHXQMSkwrwyBr77G">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Refuges and Other Protected Areas 10500-10741</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJdSvJrH77MB1Frw1SB77MBk5BP1SHmmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SksSvJrr7QMrk3rv1rH77fHJTrvyHBQXz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. General Provisions 10500-10514</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByRHwkBS7Qzr1J8wJrSmmMrkxLD1HHXQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1b8vkHrXXGBJzUvJHHmmfSyXLPkSrmmG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Special Provisions for Given Areas 10650-10667</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJVIvyHrXmMrkHUDkHB7mfHJUUwJrrQXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1vLPySB7QfB1O8DJSr7mMBkYUDJHBmXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Federal Bird Reservations 10680-10685</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B15IwyHSXmGHkiIvkHSX7MSJ2Lwkrrm7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1aUDkBHXmfSJC8vJrS7QfHy1PvySr77M">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Clam Refuges 10711</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1lPvkHHmmfr1WvD1HrXXGr1zwv1rS7mM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJXvvJSBX7MHJVPP1rSmQzrySPPJrSQXf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Wilderness Areas 10740-10741</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkLPPkBBQQMr1PwPJBSmXGrJdPwyHB7Xf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BytvPySSQXzHJcPD1HrmmGHJoPPkHH77z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Specific Refuge Boundaries 10770-10932</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1nvDyrrm7GSyTPPyrH7QzSJ0PDyBHm7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJJ_DJSHm7MSkldwyHrXmzSkW_vJHHQQG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 1. Fish and Game Refuges 10770-10771</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkGuw1BBX7GHkmOP1rSX7fSyN_vkSH7Xz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkS_P1HB7XMS18_wkrrXXMS1w_PyrBXmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 2. Fish Refuges 10801</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkudwkHBQ7fSyFuwkSHQmfHy9OwkHHm7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkiOvJHBXXfSJ2dDyBSX7zSJTdwyrB7QG">
+                <stat:Text>
+                    <stat:heading>ARTICLE 3. Game Refuges 10820-10844</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1C_w1Sr77MrJkKD1SHXQMByxKDkHHXXM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJWtD1HBXmfHkGKwJHHmXzBkQKvyBB7XM">
+                <stat:Text>
+                    <stat:heading>ARTICLE 4. Waterfowl Refuges 10860-10861</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyNtDyBH77MSyHYvyrrXmGS1LKwJBBQmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1DFwJSSQmzHyuYD1rB77GBJKKw1BSXmz">
+                <stat:Text>
+                    <stat:heading>ARTICLE 5. Quail Refuges 10880-10881</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ry9YPkrBQ7zBkjFwkHHm7fry2YPyrHQQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sy6FD1BH77fHy0FPyHr77zr1yqvJHrQ7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 6. Marine Life Refuge 10900-10913</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1g5vyBSXXfS1b9DkrrX7zr1McP1rBQmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkQ9PyrHQ7fBJ45wyHS7XGSJBqwySH7Xf">
+                <stat:Text>
+                    <stat:heading>ARTICLE 7. Junior Fishing Reserve 10925</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1IqD1rHQ7GryP5wJrHmmGHJOcDkBrXXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJF9vyHrmQfSk9cw1BB77MSJsqPkHSX7f">
+                <stat:Text>
+                    <stat:heading>ARTICLE 8. Burro Sanctuary 10930-10932</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Byh5DJBS7QGH16qD1SSmmGBkRcw1BBXQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="ryXNbHvGQXzry44bBwfm7MH1H4bBvG7QG">
+            <stat:Text>
+                <stat:heading>DIVISION 8. DISTRICTS</stat:heading>
+            </stat:Text>
+            <stat:Level id="SJiHrHJrr77zHJ2BBrkHr7mfrkTBrS1BBmmz">
+                <stat:Text>
+                    <stat:heading>DIVISION 8. DISTRICTS 11000-11039</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJ0rrH1SSQ7zr1k8BBJHH7QfHklISHkSSmXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByWLSBkrrQQfH1fLHBySBXXzByXUSrJrHmXG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Boundaries 11000-11039</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Sk48Sr1SSQmzByrIHryrSQXfB1ILBSkrrm7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="B1INWBwfm7zByD4ZBwzmQzSku4WSvG7mM">
+            <stat:Text>
+                <stat:heading>DIVISION 9. FINES AND PENALTIES</stat:heading>
+            </stat:Text>
+            <stat:Level id="SkDJlDkBHQ7zHyOygwkrB77GSJFyewyrHX7z">
+                <stat:Text>
+                    <stat:heading>DIVISION 9. FINES AND PENALTIES 12000-12300</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H15kgvkrrmXMBkiygP1SBQQzB1nJeDJHrmXG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hk6klwJSrQ7MH1R1gPJBBX7MSkyxgwkrHXmf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. General Provisions 12000-12029</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyexlD1rB7XzS1WxlDJBSmXMBJfelw1HBmXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJQllP1rSXXzH1ElevyBr7QMryBelD1rBQXM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Forfeitures, Revocation, and Seizures 12150-12166</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkIegD1BrXmfSyvegvJrH7mfHyugxwySH7mG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1KeeP1rSX7zry5xxP1SrXmGS1oggP1HS7XG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. California Indians 12300</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJ3eeDJSSmQzHJaxgvJrHXXMByAlxvyBHXmz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="SJKVWrwz7QfBy5E-BPGQQMBJoV-HDzXmG">
+            <stat:Text>
+                <stat:heading>DIVISION 10. REVENUE</stat:heading>
+            </stat:Text>
+            <stat:Level id="HJwnwkSHmQMH1u2v1SBQmzSyK2PkHB77G">
+                <stat:Text>
+                    <stat:heading>DIVISION 10. REVENUE 13000-13203</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r153D1SrXQzHks3wySHQ7zHkn2wkSHmXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJ6hPJSSQmGHJRnvkHHmmGB1JpDJrB77z">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. State 13000-13014</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJeTPyBBQQzBJbTw1HBXmzByMaDkrBmmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BkXpP1SrmXzrJNpwkrHX7frkBpw1rSXXf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. County 13100-13104</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryI6D1HrQmfHkPTvJSBmXfH1_TPySrmmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJFTwyrBXXfH15TD1HHXQMrysTv1rSQQM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Accounting 13200-13205</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1hpPkrBmQGH16pvkSBQQzS1A6v1HrQ7M">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="r12E-BPGXmMHy64ZHDGX7MBJA4bBwzQmG">
+            <stat:Text>
+                <stat:heading>DIVISION 10.5. EXPENDITURES</stat:heading>
+            </stat:Text>
+            <stat:Level id="S1WtUSm7GrJgbKUSXQfBJWWFIBQXG">
+                <stat:note>( Division 10.5 added by Stats. 1995, Ch. 720, Sec. 11. )</stat:note>
+            </stat:Level>
+            <stat:Level id="r1fWK8r7QzHk7ZFUrXXfrJEbtIHmQG">
+                <stat:header>13220.</stat:header>
+                <stat:p></stat:p>
+                <stat:p>Except as provided in Section 13230, the money in the Fish and Game Preservation Fund,
+                    commencing with the 2005–06 fiscal year, is available for expenditure, upon appropriation by the
+                    Legislature, for all of the following purposes:
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(a) To the department for payment of refunds of sums determined by it to have been erroneously
+                    deposited in the fund, including, but not limited to, money received or collected in payment of
+                    fees, licenses, permits, taxes, fines, forfeitures, or services.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>
+                    (b) To the department for expenditure in accordance with law for the payment of all necessary
+                    expenses incurred in carrying out this code and any other laws for
+                    the protection and preservation of birds, mammals, reptiles, amphibians, and fish.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(c) To the commission for expenditure in accordance with law for the payment of the compensation
+                    and expenses of the commissioners and employees of the commission.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(Amended by Stats. 2015, Ch. 154, Sec. 115. Effective January 1, 2016.)</stat:p>
+                <stat:p></stat:p>
+                <stat:note>(Amended by Stats. 2015, Ch. 154, Sec. 115. Effective January 1, 2016.)</stat:note>
+            </stat:Level>
+            <stat:Level id="BkHbFUrmmzSk8Wt8BQQMB1v-YLr7mG">
+                <stat:header>13230.</stat:header>
+                <stat:p></stat:p>
+                <stat:p>(a) Funds deposited in the Oil Pollution Administration Subaccount created pursuant to
+                    subdivision (a) of Section 13010 shall, upon appropriation by the Legislature, only be expended by
+                    the director, his or her deputy, or designee, for the costs of administering the pollution response,
+                    abatement, and habitat restoration activities not otherwise authorized by the
+                    Lempert-Keene-Seastrand Oil Spill Prevention and Response Act.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(b) Notwithstanding Section 13340 of the Government Code, funds deposited in the Oil Pollution
+                    Response and Restoration Subaccount created pursuant to subdivision (b) of Section 13010 are
+                    continuously appropriated to the department for expenditure by the director, his or her deputy, or
+                    designee, without regard to fiscal years for response and restoration activity related to oil spills
+                    not otherwise authorized by the Lempert-Keene-Seastrand Oil Spill Prevention and Response Act.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(c) Funds deposited in the Hazardous Materials Administration Subaccount created pursuant to
+                    subdivision (c) of Section 13010 shall, upon appropriation by the Legislature, only be expended by
+                    the director, his or her deputy, or designee, for the reasonable cost of administering the hazardous
+                    materials response and restoration activities of the department.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(1) These activities shall include the cross training and staffing of existing department and
+                    interagency personnel necessary to achieve efficiency in the use of existing funds and resources in
+                    response to hazardous materials and restoration activities of the department.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(2) The department may appoint and contract with technical experts to assist in the response and
+                    remediation of toxic material discharges.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(d) Notwithstanding Section 13340 of the Government Code, funds deposited in the Hazardous
+                    Materials Response and Restoration Subaccount are continuously appropriated to the director, his or
+                    her deputy, or designee, for expenditure without regard to fiscal years for the response and
+                    abatement of hazardous materials that are spilled or discharged on the lands and in the waters of
+                    the state, and for the protection, preservation, and restoration of fish and wildlife impacted by
+                    discharges of hazardous materials into the environment of the state. No funds appropriated from this
+                    subaccount shall be expended to establish personnel positions nor shall any personnel positions be
+                    created with contract funds from this subaccount.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(Added by Stats. 1995, Ch. 720, Sec. 11. Effective January 1, 1996.)</stat:p>
+                <stat:p></stat:p>
+                <stat:note>(Added by Stats. 1995, Ch. 720, Sec. 11. Effective January 1, 1996.)</stat:note>
+            </stat:Level>
+            <stat:Level id="ryuWKUS77fr1YZKLB7mMrkqWYIrQ7M">
+                <stat:header>13231.</stat:header>
+                <stat:p></stat:p>
+                <stat:p>Consistent with Section 13203, the department shall maintain a cost accounting system that
+                    accounts for the costs of each activity or program engaged in pursuant to Section 13230 using funds
+                    from the subaccounts listed in that section.
+                </stat:p>
+                <stat:p></stat:p>
+                <stat:p>(Added by Stats. 1996, Ch. 251, Sec. 1. Effective January 1, 1997.)</stat:p>
+                <stat:p></stat:p>
+                <stat:note>(Added by Stats. 1996, Ch. 251, Sec. 1. Effective January 1, 1997.)</stat:note>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="BJySZrvG7mMrylHWHDGXmGBkbB-HvzXmz">
+            <stat:Text>
+                <stat:heading>DIVISION 11. PACIFIC MARINE FISHERIES COMPACT</stat:heading>
+            </stat:Text>
+            <stat:Level id="S1-8LJHSX7fHyfILkrS77zHkXUL1BH7Xz">
+                <stat:Text>
+                    <stat:heading>DIVISION 11. PACIFIC MARINE FISHERIES COMPACT 14000-14105</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hk4I8JSHXQMS1rLLJHBmXfrkI8UyBSX7G">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryv8UJrHX7fr1_IIyrBQ7zH1FIIyrr7QM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. The Compact 14000-14002</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkqIIkBSX7fSJsL81SBQ7fB13LLySHQQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SJp8LyHH77GSy0ILySB7QzB1JDLySSmXf">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. The Commission 14100-14105</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1gw81rB7mMSy-vLJBrmQzHJfvLJSS7QM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="S1MBbBvfQ7MHk7BZrPzXQMBkVSbSDzXQf">
+            <stat:Text>
+                <stat:heading>DIVISION 12. AQUACULTURE</stat:heading>
+            </stat:Text>
+            <stat:Level id="Sk-dgD1HBQ7GryMdewJrHXmMH1mOxwyBS7mf">
+                <stat:Text>
+                    <stat:heading>DIVISION 12. AQUACULTURE 15000-15703</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="r1Vugw1SB7mMBJSuxw1HHmmfSkUuxDyBSXXf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Hyw_evyBSQ7zHkddlw1rr7XfB1t_gwkHrXXz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. General Provisions 15000-15008</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJ5dgvySBQXMSJjuxvJHr7mfByhdeDkrr7QG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bkpdev1Sr7QGH10ulDyHHXmGSyktgPJBS7XM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. Aquaculture Development Section 15100-15105</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HygFlvkBS7QMS1WtgvySSQQMHkfFxDJSBmQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rJXFgvyrr77MBy4tew1BSQQGSyHteP1SrQ7M">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Stocking Aquatic Organisms 15200-15202</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1LKlPJBBX7GSJwFlPySrXQfBk_FgvyBBQ7f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkFKlDkBB77zSJcKxvkrBQmMBysKxvJrBQmM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. Brood Stock Acquisition 15300-15301</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BknFxDJrHQ7GH16FevkBrX7zH1CFlPyHHXQG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rk1clwJrrmXMH1gqxDkBr7QzBy-5ewkSH7mG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 5. Leasing of State Water Bottoms 15400-15415</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyG9gDJrHmmGS17qlPkHHm7MSkNqxD1rH77f">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HyH5lPkSHmXGByIclPkBHQmzB1vclPkSB7mz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 6. Disease Control 15500-15516</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ryu9ev1HS77MrJt9evJBBXQfBy55xDJrHQQM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HkoqlwkHBmXfrJ3cevJSr7XfSy6clP1SrmmM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 7. Importation of Aquatic Plants and Animals 15600-15605</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="rkRcxw1rBmQGHyysgPkrHXmfrJgsxvJBSXXz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyZsxPJHrmXGrkGslwyHHQmfHJXieDkSBXmG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 8. Aquaculture Development Committee 15700-15703</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ry4sgwySrXQzr1BogvyBBmXMrJUigD1rH7mG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="r1HBZrwMQ7zHk8BbBPG7QMSkPrWrvG7mM">
+            <stat:Text>
+                <stat:heading>DIVISION 13. STATE-TRIBAL AGREEMENTS GOVERNING INDIAN FISHING</stat:heading>
+            </stat:Text>
+            <stat:Level id="r1Tfxv1HSm7fBkAzew1BH77fB1kmgPJBS7Qf">
+                <stat:Text>
+                    <stat:heading>DIVISION 13. STATE-TRIBAL AGREEMENTS GOVERNING INDIAN FISHING 16000-16011
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1gmgvySHQ7fH1WXlwyBSQmMSkGmePkHHm7z">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="Bkm7lv1Hr7QfBkE7gDyHBmmfBySXlwkBSQmz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Legislative Findings 16000</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1U7gD1rrmmMS1wQxv1HB7QzH1OmlDJBrXmG">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1KmePJrBXXMHJcmgPkBHXXMH1i7gwkSHXmM">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. General Provisions 16001-16005</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B12mlPyrHX7GS1p7lDyrHmXzrkC7ew1rHXQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="H1JElw1rrQQMBJxVePJBBQmGrkWNeD1SSmQz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Negotiation and Approval of Agreement 16006-16009</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJfVxvkSSXXzSkX4xwJrSQQMryNVgvySBmQf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyHVxvkSrm7fr1IVxDyrSXXfH1wVeP1rS7Xz">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. Enforceability of an Agreement or Compact 16010-16011</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SyuNlD1SB77fHyYNlw1BHmXfBJqNlwkHS7Qz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+        <stat:Level id="HJdB-HwzmXfr1tH-SPGQ7zSJcSWSwGmQz">
+            <stat:Text>
+                <stat:heading>DIVISION 13.5. STATE-TRIBAL AGREEMENTS GOVERNING INDIAN FISHING ON THE KLAMATH RIVER
+                </stat:heading>
+            </stat:Text>
+            <stat:Level id="Hk6eIyrSQQfH10lIJBSmmMByybL1BB77z">
+                <stat:Text>
+                    <stat:heading>DIVISION 13.5. STATE-TRIBAL AGREEMENTS GOVERNING INDIAN FISHING ON THE KLAMATH RIVER
+                        16500-16541
+                    </stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="S1gWLySrQmfHybW81rHX7MHkM-U1SBQQz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJQ-8JBB7XzByNWU1rHQQMHyrZU1rB7mG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 1. Legislative Findings 16500</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1Ib8JBBm7MBJPbU1BHX7MH1u-LyBr7Xz">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="B1tZL1Brm7zHk5WIyrHQmGSyoZLyrS77M">
+                <stat:Text>
+                    <stat:heading>CHAPTER 2. General Provisions and Definitions 16510-16520</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HJn-I1SrXXGB1aZ8yrr7Xfr10-U1HHXmM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="HykGUyHBQQfSJlzU1HBm7Mry-GIkSBX7f">
+                <stat:Text>
+                    <stat:heading>CHAPTER 3. Negotiation and Approval of Agreement 16530-16532</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="ByGGLySB77fr1QG8kHBm7MSy4fI1BrXmf">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="SkBGUyrHQ7fHkUfIJSBQXMSyPzIySSmXG">
+                <stat:Text>
+                    <stat:heading>CHAPTER 4. Enforceability of an Agreement or Compact 16540-16541</stat:heading>
+                </stat:Text>
+            </stat:Level>
+            <stat:Level id="BJdMLyrr77GH1FfUkBBXXGHyqzUkHH7XM">
+                <stat:Text>
+                    <stat:heading></stat:heading>
+                </stat:Text>
+            </stat:Level>
+        </stat:Level>
+    </stat:Level>
+</stat:Document>

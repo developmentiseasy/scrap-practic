@@ -1,1 +1,82 @@
-<stat:Level><stat:Text><stat:heading>Probate Code - PROB </stat:heading><-xmlns:stat>https://casetext.com/stat</-xmlns:stat></stat:Text><-id>B1_G04IZ7QzHJYzRVU-7XfSJcfCN8bmmf</-id><stat:Level><stat:Text><stat:heading>PROBATE CODE</stat:heading></stat:Text><-id>r1YZRyoMQQMrk9WCJizXXMSJiZ0kjG7mz</-id><stat:Level/><stat:Text><stat:heading>DIVISION 1. PRELIMINARY PROVISIONS AND DEFINITIONS </stat:heading></stat:Text><-id>BJ2WCyjMXQGHJpbR1iGQQfSyAWAyoG7Qz</-id><stat:Text><stat:heading>DIVISION 2. GENERAL PROVISIONS </stat:heading></stat:Text><-id>Sykz0yiM7XMH1xMRkjG77zH1-MR1jG7mG</-id><stat:Text><stat:heading>DIVISION 3. GENERAL PROVISIONS OF A PROCEDURAL NATURE </stat:heading></stat:Text><-id>HJGGRyoM7mMSymz0Jjf7mMrJEGRkjMQ7M</-id><stat:Text><stat:heading>DIVISION 4. GUARDIANSHIP, CONSERVATORSHIP, AND OTHER PROTECTIVE PROCEEDINGS </stat:heading></stat:Text><-id>rJrGC1szXmMHJIM0kjfm7frkPzA1ozmXz</-id><stat:Text><stat:heading>DIVISION 4.5. POWERS OF ATTORNEY </stat:heading></stat:Text><-id>BydGA1sMXmzBJFMAksGQXfSk5f01ozmQf</-id><stat:Text><stat:heading>DIVISION 4.7. HEALTH CARE DECISIONS </stat:heading></stat:Text><-id>SJsf0koGXXMBJ3MAyofQmzSyazCJofX7f</-id><stat:Text><stat:heading>DIVISION 5. NONPROBATE TRANSFERS </stat:heading></stat:Text><-id>SJRz0JszXmMrk170yszQ7MS1lQAyszQQf</-id><stat:Text><stat:heading>DIVISION 6. WILLS AND INTESTATE SUCCESSION </stat:heading></stat:Text><-id>BkWQRJjfm7fSkfmAyiMQ7fSyQQRJizmmf</-id><stat:Text><stat:heading>DIVISION 7. ADMINISTRATION OF ESTATES OF DECEDENTS </stat:heading></stat:Text><-id>rJ4XRkiG7QfHkB7RJiMXQMHJ8QCkiMXQM</-id><stat:Text><stat:heading>DIVISION 8. DISPOSITION OF ESTATE WITHOUT ADMINISTRATION </stat:heading></stat:Text><-id>r1wmAkjM7QzS1_X01izQ7GBkFQRJjzX7G</-id><stat:Text><stat:heading>DIVISION 9. TRUST LAW </stat:heading></stat:Text><-id>Skc7RJjzQQMSJjXA1ofmQzHy37R1jG77M</-id><stat:Text><stat:heading>DIVISION 10. PRORATION OF TAXES </stat:heading></stat:Text><-id>rkaQCyiG7mMr10QRksMmmfS1kNAJjMmXG</-id><stat:Text><stat:heading>DIVISION 11. CONSTRUCTION OF WILLS, TRUSTS, AND OTHER INSTRUMENTS </stat:heading></stat:Text><-id>SkgNR1ofm7fBkWNAJiG77MHyG4Rkof77f</-id></stat:Level></stat:Level>
+<?xml version="1.0" encoding="UTF-8"?>
+<stat:Document xmlns:stat="https://casetext.com/stat" id="98870cf7-36da-40a7-9e95-b59dc528a33a">
+    <stat:Title>California Code</stat:Title>
+    <stat:URL>https://leginfo.legislature.ca.gov/faces/codes.xhtml</stat:URL>
+    <stat:Version>0.1</stat:Version>
+    <stat:Currency>2017-07-07</stat:Currency>
+    <stat:Level id="B1_G04IZ7QzHJYzRVU-7XfSJcfCN8bmmf">
+        <stat:Text xmlns:stat="https://casetext.com/stat">
+            <stat:heading>Probate Code - PROB</stat:heading>
+        </stat:Text>
+        <stat:Level id="r1YZRyoMQQMrk9WCJizXXMSJiZ0kjG7mz">
+            <stat:Text>
+                <stat:heading>PROBATE CODE</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="BJ2WCyjMXQGHJpbR1iGQQfSyAWAyoG7Qz">
+            <stat:Text>
+                <stat:heading>DIVISION 1. PRELIMINARY PROVISIONS AND DEFINITIONS</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="Sykz0yiM7XMH1xMRkjG77zH1-MR1jG7mG">
+            <stat:Text>
+                <stat:heading>DIVISION 2. GENERAL PROVISIONS</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="HJGGRyoM7mMSymz0Jjf7mMrJEGRkjMQ7M">
+            <stat:Text>
+                <stat:heading>DIVISION 3. GENERAL PROVISIONS OF A PROCEDURAL NATURE</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="rJrGC1szXmMHJIM0kjfm7frkPzA1ozmXz">
+            <stat:Text>
+                <stat:heading>DIVISION 4. GUARDIANSHIP, CONSERVATORSHIP, AND OTHER PROTECTIVE PROCEEDINGS</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="BydGA1sMXmzBJFMAksGQXfSk5f01ozmQf">
+            <stat:Text>
+                <stat:heading>DIVISION 4.5. POWERS OF ATTORNEY</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="SJsf0koGXXMBJ3MAyofQmzSyazCJofX7f">
+            <stat:Text>
+                <stat:heading>DIVISION 4.7. HEALTH CARE DECISIONS</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="SJRz0JszXmMrk170yszQ7MS1lQAyszQQf">
+            <stat:Text>
+                <stat:heading>DIVISION 5. NONPROBATE TRANSFERS</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="BkWQRJjfm7fSkfmAyiMQ7fSyQQRJizmmf">
+            <stat:Text>
+                <stat:heading>DIVISION 6. WILLS AND INTESTATE SUCCESSION</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="rJ4XRkiG7QfHkB7RJiMXQMHJ8QCkiMXQM">
+            <stat:Text>
+                <stat:heading>DIVISION 7. ADMINISTRATION OF ESTATES OF DECEDENTS</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="r1wmAkjM7QzS1_X01izQ7GBkFQRJjzX7G">
+            <stat:Text>
+                <stat:heading>DIVISION 8. DISPOSITION OF ESTATE WITHOUT ADMINISTRATION</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="Skc7RJjzQQMSJjXA1ofmQzHy37R1jG77M">
+            <stat:Text>
+                <stat:heading>DIVISION 9. TRUST LAW</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="rkaQCyiG7mMr10QRksMmmfS1kNAJjMmXG">
+            <stat:Text>
+                <stat:heading>DIVISION 10. PRORATION OF TAXES</stat:heading>
+            </stat:Text>
+        </stat:Level>
+        <stat:Level id="SkgNR1ofm7fBkWNAJiG77MHyG4Rkof77f">
+            <stat:Text>
+                <stat:heading>DIVISION 11. CONSTRUCTION OF WILLS, TRUSTS, AND OTHER INSTRUMENTS</stat:heading>
+            </stat:Text>
+        </stat:Level>
+    </stat:Level>
+</stat:Document>

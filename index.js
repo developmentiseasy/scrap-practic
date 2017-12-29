@@ -52,17 +52,17 @@ const selectors = [
   // }
 
 
-  // {
-  //   selector: '#codestocheader > div.displaycodeleftmargin > div > div',
-  //   res_body: {
-  //     'stat:Level': {
-  //       '-id': shortid.generate(),
-  //       'stat:Text': {
-  //         'stat:heading':'a | replace',
-  //       },
-  //     },
-  //   },
-  // },
+  {
+    selector: '#codestocheader > div.displaycodeleftmargin[style*="20px"] > div > div',
+    res_body: {
+      'stat:Level': {
+        '-id': shortid.generate(),
+        'stat:Text': {
+          'stat:heading':'a | replace',
+        },
+      },
+    },
+  },
 
   // {
   //   selector: '#codestreeForm2 > div.codes_toc_list',

@@ -1,0 +1,2017 @@
+{
+  "stat:Level": {
+    "stat:Text": {
+      "stat:heading": "Evidence Code - EVID",
+      "-xmlns:stat": "https://casetext.com/stat"
+    },
+    "-id": "rkVg0NIbX7zS1He0EUb7mGr1Ux0VIZmQz",
+    "stat:Level": [
+      {
+        "stat:Text": {
+          "stat:heading": "EVIDENCE CODE"
+        },
+        "-id": "B1QbWHIfX7MSy4ZWr8M77MSyHWWSUzmXG",
+        "stat:Level": []
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 1. PRELIMINARY PROVISIONS AND CONSTRUCTION "
+        },
+        "-id": "rkLZbHIMQ7zH1PW-BLz77zHJub-BIfm7f",
+        "stat:Level": [
+          {
+            "stat:p": [],
+            "stat:note": "( Division 1 enacted by Stats. 1965, Ch. 299. )",
+            "-id": "H1eWpNQXzS1gg-p4QQGBkWxWpNQXG"
+          },
+          {
+            "stat:header": "1.",
+            "stat:p": [
+              "",
+              "This code shall be known as the Evidence Code.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "B1MxW64mQfByme-6NQQGrkVl-aVXmG"
+          },
+          {
+            "stat:header": "2.",
+            "stat:p": [
+              "",
+              "The rule of the common law, that statutes in derogation thereof are to be strictly construed, has no application to this code. This code establishes the law of this state respecting the subject to which it relates, and its provisions are to be liberally construed with a view to effecting its objects and promoting justice.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "ryrlZ6NQXfr1IgbTEQXzrkvgWpEQmG"
+          },
+          {
+            "stat:header": "3.",
+            "stat:p": [
+              "",
+              "If any provision or clause of this code or application thereof to any person or circumstances is held invalid, such invalidity shall not affect other provisions or applications of the code which can be given effect without the invalid provision or application, and to this end the provisions of this code are declared to be severable.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BJ_eWTEQmfHkKeb6NXQfB1cgbpV7mM"
+          },
+          {
+            "stat:header": "4.",
+            "stat:p": [
+              "",
+              "Unless the provision or context otherwise requires, these preliminary provisions and rules of construction shall govern the construction of this code.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "HkslWpE7QMSkhxZTVQ7zB16eWpE7XM"
+          },
+          {
+            "stat:header": "5.",
+            "stat:p": [
+              "",
+              "Division, chapter, article, and section headings do not in any manner affect the scope, meaning, or intent of the provisions of this code.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "SyRxW6EX7fBykel-TNmmfSkgggZ6VQXz"
+          },
+          {
+            "stat:header": "6.",
+            "stat:p": [
+              "",
+              "Whenever any reference is made to any portion of this code or of any other statute, such reference shall apply to all amendments and additions heretofore or hereafter made.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BkbxeZ6EQXGSyMglWpEm7fBkQxeWaV77M"
+          },
+          {
+            "stat:header": "7.",
+            "stat:p": [
+              "",
+              "Unless otherwise expressly stated:",
+              "",
+              "(a) “Division” means a division of this code.",
+              "",
+              "(b) “Chapter” means a chapter of the division in which that term occurs.",
+              "",
+              "(c) “Article” means an article of the chapter in which that term occurs.",
+              "",
+              "(d) “Section” means a section of this code.",
+              "",
+              "(e) “Subdivision” means a subdivision of the\n\t\t\t\tsection in which that term occurs.",
+              "",
+              "(f) “Paragraph” means a paragraph of the subdivision in which that term occurs.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BJEelWaNmXGrJBglbT47QGH1Igl-TV7Xf"
+          },
+          {
+            "stat:header": "8.",
+            "stat:p": [
+              "",
+              "The present tense includes the past and future tenses; and the future, the present.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "rJwxe-aVXmzryuee-TN7XfBJteeWpEm7M"
+          },
+          {
+            "stat:header": "9.",
+            "stat:p": [
+              "",
+              "The masculine gender includes the feminine and neuter.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "rJ9ggb64XXzS1sggbpVXQzSJngeWaNm7M"
+          },
+          {
+            "stat:header": "10.",
+            "stat:p": [
+              "",
+              "The singular number includes the plural; and the plural, the singular.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "B16egWpEmXfSy0ll-aVmQzrkkWlZ6NmQG"
+          },
+          {
+            "stat:header": "11.",
+            "stat:p": [
+              "",
+              "“Shall” is mandatory and “may” is permissive.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BJxbx-aEXmzrkb-eWpNQmMSJGbxWa4XmM"
+          },
+          {
+            "stat:header": "12.",
+            "stat:p": [
+              "",
+              "(a) This code shall become operative on January 1, 1967, and shall govern proceedings in actions brought on or after that date and, except as provided in subdivision (b), further proceedings in actions pending on that date.",
+              "",
+              "(b) Subject to subdivision (c), a trial commenced before January 1, 1967, shall not be governed by this code. For the purpose of this subdivision:",
+              "",
+              "(1) A trial is commenced when the first witness is sworn or the first exhibit is admitted into evidence and is\n\t\t\t\tterminated when the issue upon which such evidence is received is submitted to the trier of fact. A new trial, or a separate trial of a different issue, commenced on or after January 1, 1967, shall be governed by this code.",
+              "",
+              "(2) If an appeal is taken from a ruling made at a trial commenced before January 1, 1967, the appellate court shall apply the law applicable at the time of the commencement of the trial.",
+              "",
+              "(c) The provisions of Division 8 (commencing with Section 900) relating to privileges shall govern any claim of privilege made after December 31, 1966.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "H17-g-64XXMBkVbgWpN7XGH1H-xWaNmQz"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 2. WORDS AND PHRASES DEFINED "
+        },
+        "-id": "ByYWZBLM7XGrk5-ZrLfQQfS1obbBUM7Qf",
+        "stat:Level": [
+          {
+            "stat:p": [],
+            "stat:note": "( Division 2 enacted by Stats. 1965, Ch. 299. )",
+            "-id": "rJQ76N77MB1xXQp4X7GS1-QQTV77f"
+          },
+          {
+            "stat:header": "100.",
+            "stat:p": [
+              "",
+              "Unless the provision or context otherwise requires, these definitions govern the construction of this code.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BJGQ7pN77MH1X7mTEmQMrJVmQT47XM"
+          },
+          {
+            "stat:header": "105.",
+            "stat:p": [
+              "",
+              "“Action” includes a civil action and a criminal action.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "HySmm6VQQGByUX76VmXGSyDQm6NmXf"
+          },
+          {
+            "stat:header": "110.",
+            "stat:p": [
+              "",
+              "“Burden of producing evidence” means the obligation of a party to introduce evidence sufficient to avoid a ruling against him on the issue.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BJ_7Q6VQQfSkF7Qp4QmfrJ57QaNQXG"
+          },
+          {
+            "stat:header": "115.",
+            "stat:p": [
+              "",
+              "“Burden of proof” means the obligation of a party to establish by evidence a requisite degree of belief concerning a fact in the mind of the trier of fact or the court. The burden of proof may require a party to raise a reasonable doubt concerning the existence or nonexistence of a fact or that he establish the existence or nonexistence of a fact by a preponderance of the evidence, by clear and convincing proof, or by proof beyond a reasonable doubt.",
+              "",
+              "Except as otherwise provided by law, the burden of proof requires proof by a preponderance of the evidence.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "r1oXQa4mQfSk3mXpVQQMSyTXXTE7QG"
+          },
+          {
+            "stat:header": "120.",
+            "stat:p": [
+              "",
+              "“Civil action” includes civil proceedings.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "rkCQQ647QzSJkxQXp4XQzBkeeQQ647Qf"
+          },
+          {
+            "stat:header": "125.",
+            "stat:p": [
+              "",
+              "“Conduct” includes all active and passive behavior, both verbal and nonverbal.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "rkWgQmaNXXfSkMxX7a4QQMrk7gQXpN7mf"
+          },
+          {
+            "stat:header": "130.",
+            "stat:p": [
+              "",
+              "“Criminal action” includes criminal proceedings.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "SJ4eQQTVmQfrJHx7XpE7mMB1IlQ7aNmmG"
+          },
+          {
+            "stat:header": "135.",
+            "stat:p": [
+              "",
+              "“Declarant” is a person who makes a statement.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "HyDeXmpEQmGBy_g7maVQQGSJFeQ76NQ7f"
+          },
+          {
+            "stat:header": "140.",
+            "stat:p": [
+              "",
+              "“Evidence” means testimony, writings, material objects, or other things presented to the senses that are offered to prove the existence or nonexistence of a fact.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "H19gQmTEXmfr1oxmX6NmXzH12xmmpV7mz"
+          },
+          {
+            "stat:header": "145.",
+            "stat:p": [
+              "",
+              "“The hearing” means the hearing at which a question under this code arises, and not some earlier or later hearing.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "rk6e776N7Qzr10eXQpEQXMByyZXmpEQXG"
+          },
+          {
+            "stat:header": "150.",
+            "stat:p": [
+              "",
+              "“Hearsay evidence” is defined in Section 1200.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "Hkg-77TN7QfH1bWXmp4m7zHJz-QXaV7mG"
+          },
+          {
+            "stat:header": "160.",
+            "stat:p": [
+              "",
+              "“Law” includes constitutional, statutory, and decisional law.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "Sk7-mXp47mMrJEWQQTEmQzBkBZQXT4mmM"
+          },
+          {
+            "stat:header": "165.",
+            "stat:p": [
+              "",
+              "“Oath” includes affirmation or declaration under penalty of perjury.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "H1IW7m6E77frkvZ7XpN7mMrJOWX7aVXQz"
+          },
+          {
+            "stat:header": "170.",
+            "stat:p": [
+              "",
+              "“Perceive” means to acquire knowledge through one’s senses.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "HJFbm7aE7QMHkc-QQaEX7GBJo-m7pEQmz"
+          },
+          {
+            "stat:header": "175.",
+            "stat:p": [
+              "",
+              "“Person” includes a natural person, firm, association, organization, partnership, business trust, corporation, limited liability company, or public entity.",
+              "",
+              "(Amended by Stats. 1994, Ch. 1010, Sec. 103.   Effective January 1, 1995.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1994, Ch. 1010, Sec. 103.   Effective January 1, 1995.)",
+            "-id": "B1nZXQpVQmfrkT-77pVmXGBJAbXXTVXXf"
+          },
+          {
+            "stat:header": "177.",
+            "stat:p": [
+              "",
+              "“Dependent person” means any person who has a physical or mental impairment that substantially restricts his or her ability to carry out normal activities or to protect his or her rights, including, but not limited to, persons who have physical or developmental disabilities or whose physical or mental abilities have significantly diminished because of age.  “Dependent person” includes any person who is admitted as an inpatient to a 24-hour health facility, as defined in Sections 1250, 1250.2, and 1250.3 of the Health and Safety Code.",
+              "",
+              "(Added by Stats. 2004, Ch. 823, Sec. 2.   Effective January 1, 2005.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2004, Ch. 823, Sec. 2.   Effective January 1, 2005.)",
+            "-id": "S1kG7XTEX7GHkgGXX6VmXGSk-MQm6V77M"
+          },
+          {
+            "stat:header": "180.",
+            "stat:p": [
+              "",
+              "“Personal property” includes money, goods, chattels, things in action, and evidences of debt.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "SJzG77TEm7fHJmGmXT4X7GSJ4zXmaVXXz"
+          },
+          {
+            "stat:header": "185.",
+            "stat:p": [
+              "",
+              "“Property” includes both real and personal property.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "ryHf7XT4XmMBy8zmXpNm7zHkDzm76V7mM"
+          },
+          {
+            "stat:header": "190.",
+            "stat:p": [
+              "",
+              "“Proof” is the establishment by evidence of a requisite degree of belief concerning a fact in the mind of the trier of fact or the court.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "HkdzQ76VX7zHyKfQQpVXXGS1qz77TEQQz"
+          },
+          {
+            "stat:header": "195.",
+            "stat:p": [
+              "",
+              "“Public employee” means an officer, agent, or employee of a public entity.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "rJjGQ7TNmXMHy2MQmp4X7zB16fX7647Xf"
+          },
+          {
+            "stat:header": "200.",
+            "stat:p": [
+              "",
+              "“Public entity” includes a nation, state, county, city and county, city, district, public authority, public agency, or any other political subdivision or public corporation, whether foreign or domestic.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "B1RG7mpEQ7fr1y7m764m7fBJlQ7XTN7XM"
+          },
+          {
+            "stat:header": "205.",
+            "stat:p": [
+              "",
+              "“Real property” includes lands, tenements, and hereditaments.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "H1WQX7aNXQMryGX7QTV77zSkXXm76V7mz"
+          },
+          {
+            "stat:header": "210.",
+            "stat:p": [
+              "",
+              "“Relevant evidence” means evidence, including evidence relevant to the credibility of a witness or hearsay declarant, having any tendency in reason to prove or disprove any disputed fact that is of consequence to the determination of the action.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BJEQ7QT4mmfHkrXQX64XmzB1UmXmpN7QM"
+          },
+          {
+            "stat:header": "215.",
+            "stat:p": [
+              "",
+              "“Spouse” includes “registered domestic partner,” as required by Section 297.5 of the Family Code.",
+              "",
+              "(Added by Stats. 2016, Ch. 50, Sec. 32.   (SB 1005)   Effective January 1, 2017.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2016, Ch. 50, Sec. 32.   (SB 1005)   Effective January 1, 2017.)",
+            "-id": "HkDQ77pNQmGSkuXmmTVm7Gr1KX7QaNQQG"
+          },
+          {
+            "stat:header": "220.",
+            "stat:p": [
+              "",
+              "“State” means the State of California, unless applied to the different parts of the United States. In the latter case, it includes any state, district, commonwealth, territory, or insular possession of the United States.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "r1cQmX6E7XzryimXmpE7Xfrkn7m7T47mz"
+          },
+          {
+            "stat:header": "225.",
+            "stat:p": [
+              "",
+              "“Statement” means (a) oral or written verbal expression or (b) nonverbal conduct of a person intended by him as a substitute for oral or written verbal expression.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "r1pQQX6V77zHkRm77aEmXGB114Qmp4Q7M"
+          },
+          {
+            "stat:header": "230.",
+            "stat:p": [
+              "",
+              "“Statute” includes a treaty and a constitutional provision.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BJl4mQTEQQfSJbEQQTNm7GH1GVXmaEmmM"
+          },
+          {
+            "stat:header": "235.",
+            "stat:p": [
+              "",
+              "“Trier of fact” includes (a) the jury and (b) the court when the court is trying an issue of fact other than one relating to the admissibility of evidence.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BkmVm7pEm7GrJNN7QpNmmGS1H47m6NX7M"
+          },
+          {
+            "stat:header": "240.",
+            "stat:p": [
+              "",
+              "(a) Except as otherwise provided in subdivision (b), “unavailable as a witness” means that the declarant is any of the following:",
+              "",
+              "(1) Exempted or precluded on the ground of privilege from testifying concerning the matter to which his or her statement is relevant.",
+              "",
+              "(2) Disqualified from testifying to the matter.",
+              "",
+              "(3) Dead or unable to attend or to testify at the hearing because of then-existing physical or mental illness or infirmity.",
+              "",
+              "(4) Absent from the hearing and the court is unable to compel\n\t\t\t\t  his or her attendance by its process.",
+              "",
+              "(5) Absent from the hearing and the proponent of his or her statement has exercised reasonable diligence but has been unable to procure his or her attendance by the court’s process.",
+              "",
+              "(6) Persistent in refusing to testify concerning the subject matter of the declarant’s statement despite having been found in contempt for refusal to testify.",
+              "",
+              "(b) A declarant is not unavailable as a witness if the exemption, preclusion, disqualification, death, inability, or absence of the declarant was brought about by the procurement or wrongdoing of the proponent of his or her statement for the purpose of preventing the declarant from attending or testifying.",
+              "",
+              "(c) Expert testimony that establishes that physical or mental trauma\n\t\t\t\t  resulting from an alleged crime has caused harm to a witness of sufficient severity that the witness is physically unable to testify or is unable to testify without suffering substantial trauma may constitute a sufficient showing of unavailability pursuant to paragraph (3) of subdivision (a). As used in this section, the term “expert” means a physician and surgeon, including a psychiatrist, or any person described by subdivision (b), (c), or (e) of Section 1010.",
+              "",
+              "The introduction of evidence to establish the unavailability of a witness under this subdivision shall not be deemed procurement of unavailability, in absence of proof to the contrary.",
+              "",
+              "(Amended by Stats. 2010, Ch. 537, Sec. 1.   (AB 1723)   Effective January 1, 2011.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 2010, Ch. 537, Sec. 1.   (AB 1723)   Effective January 1, 2011.)",
+            "-id": "SJLN7Qa4X7GrkDEX7aNmQGHJOEmmaEmQM"
+          },
+          {
+            "stat:header": "250.",
+            "stat:p": [
+              "",
+              "“Writing” means handwriting, typewriting, printing, photostating, photographing, photocopying, transmitting by electronic mail or facsimile, and every other means of recording upon any tangible thing, any form of communication or representation, including letters, words, pictures, sounds, or symbols, or combinations thereof, and any record thereby created, regardless of the manner in which the record has been stored.",
+              "",
+              "(Amended by Stats. 2002, Ch. 945, Sec. 1.   Effective January 1, 2003.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 2002, Ch. 945, Sec. 1.   Effective January 1, 2003.)",
+            "-id": "BJKEXmaEQQfrk9NQ76VQ7fBko47Q6VXmz"
+          },
+          {
+            "stat:header": "255.",
+            "stat:p": [
+              "",
+              "“Original” means the writing itself or any counterpart intended to have the same effect by a person executing or issuing it. An “original” of a photograph includes the negative or any print therefrom. If data are stored in a computer or similar device, any printout or other output readable by sight, shown to reflect the data accurately, is an “original.”",
+              "",
+              "(Added by Stats. 1977, Ch. 708.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1977, Ch. 708.)",
+            "-id": "rJ3NmQaVXQzSJp4mQTV77GHkREXm64Qmz"
+          },
+          {
+            "stat:header": "260.",
+            "stat:p": [
+              "",
+              "A “duplicate” is a counterpart produced by the same impression as the original, or from the same matrix, or by means of photography, including enlargements and miniatures, or by mechanical or electronic rerecording, or by chemical reproduction, or by other equivalent technique which accurately reproduces the original.",
+              "",
+              "(Added by Stats. 1977, Ch. 708.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1977, Ch. 708.)",
+            "-id": "ryJrQXTEQQfr1xr7X6VXQzByZr77p4mXz"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 3. GENERAL PROVISIONS "
+        },
+        "-id": "rJ3ZWH8zQXMBk6bZB8fmQfr1RWZrUzXXM",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 3. GENERAL PROVISIONS 300-413"
+            },
+            "-id": "HyPn_i2NQQGBkuh_j3E7QMH1Knuih4QXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1c2uonVQXGSyonusnNQXzSy2ndinNQQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Applicability of Code 300"
+            },
+            "-id": "HyTndj34X7MHJA2_ohEQQfHy1aui2E7QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Byg6Oi3EXXfHkZadinEmXfryfa_jn4XXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Province of Court and Jury 310-312"
+            },
+            "-id": "H1QpuinEmXGSkNpdonEXmfB1Bp_j3VmXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SyLTOi2V7QGBkP6_j24XmzHJO6dj247QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Order of Proof 320"
+            },
+            "-id": "B1K6Oj2EQmzrk56_ihEQ7Mr1iTOonEmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJ2p_s2NmQGHypauj3NXXMr1A6_sh4X7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Admitting and Excluding Evidence 350-406"
+            },
+            "-id": "S11Aus2NQQGBkeRdi3VX7zrJWA_i347QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkGAdihVQ7zrJ7Auoh477GSy4AOjhVX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. General Provisions 350-356"
+            },
+            "-id": "ryB0us3NmXzSyL0OjhN7QzH1vRuohEm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ry_0Oon4XQzH1FCOj3NXQfB1cRui2EmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Preliminary Determinations on Admissibility of Evidence 400-406"
+            },
+            "-id": "ByiC_ohV7XMrynAdjnE7XGBkaROsnVXQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HyAC_ohVXQMr1kygdonEQmMrkxkxdo2V7QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 5. Weight of Evidence Generally 410-413"
+            },
+            "-id": "ry-1gushNX7frkGJe_in4mmzBJmyg_s3NQQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJV1lOo24XXzSJB1guj3NX7MBJU1ldoh4mXM"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 4. JUDICIAL NOTICE "
+        },
+        "-id": "HyyMWH8zX7GS1efbHIGQQfrJ-MZBIGQmz",
+        "stat:Level": [
+          {
+            "stat:p": [],
+            "stat:note": "( Division 4 enacted by Stats. 1965, Ch. 299. )",
+            "-id": "B1wqaEXQfH1gv5TEm7fSy-vq6NXXM"
+          },
+          {
+            "stat:header": "450.",
+            "stat:p": [
+              "",
+              "Judicial notice may not be taken of any matter unless authorized or required by law.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "ryMvcp4mQfHkQD5aVmQGBkVvq64XmG"
+          },
+          {
+            "stat:header": "451.",
+            "stat:p": [
+              "",
+              "Judicial notice shall be taken of the following:",
+              "",
+              "(a) The decisional, constitutional, and public statutory law of this state and of the United States and the provisions of any charter described in Section 3, 4, or 5 of Article XI of the California Constitution.",
+              "",
+              "(b) Any matter made a subject of judicial notice by Section 11343.6, 11344.6, or 18576 of the Government Code or by Section 1507 of Title 44 of the United States Code.",
+              "",
+              "(c) Rules of professional conduct for members of the bar adopted pursuant to Section 6076 of the Business and Professions Code and rules of practice and procedure for the courts of this state adopted by the Judicial Council.",
+              "",
+              "(d) Rules of pleading, practice, and procedure prescribed by the United States Supreme Court, such as the Rules of the United States Supreme Court, the Federal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, the Admiralty Rules, the Rules of the Court of Claims, the Rules of the Customs Court, and the General Orders and Forms in Bankruptcy.",
+              "",
+              "(e) The true signification of all English words and phrases and of all legal expressions.",
+              "",
+              "(f) Facts and propositions of generalized knowledge that are so universally known that they cannot reasonably be the subject of dispute.",
+              "",
+              "(Amended by Stats. 1986, Ch. 248, Sec. 43.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1986, Ch. 248, Sec. 43.)",
+            "-id": "rJSP5TNX7MHkIvq6V7mMSyww96V7Xf"
+          },
+          {
+            "stat:header": "452.",
+            "stat:p": [
+              "",
+              "Judicial notice may be taken of the following matters to the extent that they are not embraced within Section 451:",
+              "",
+              "(a) The decisional, constitutional, and statutory law of any state of the United States and the resolutions and private acts of the Congress of the United States and of the Legislature of this state.",
+              "",
+              "(b) Regulations and legislative enactments issued by or under the authority of the United States or any public entity in the United States.",
+              "",
+              "(c) Official acts of the legislative, executive, and judicial departments of the United States and of any state of the United States.",
+              "",
+              "(d) Records of (1) any court of this state or (2) any court of record of the United States or of any state of the United States.",
+              "",
+              "(e) Rules of court of (1) any court of this state or (2) any court of record of the United States or of any state of the United States.",
+              "",
+              "(f) The law of an organization of nations and of foreign nations and public entities in foreign nations.",
+              "",
+              "(g) Facts and propositions that are of such common knowledge within the territorial jurisdiction of the court that they cannot reasonably be the subject of dispute.",
+              "",
+              "(h) Facts and propositions that are not reasonably subject to dispute and are capable of immediate and accurate determination by resort to sources of reasonably indisputable accuracy.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BkODqTNQQzB1tD9pE7mGB1qDcpNQQG"
+          },
+          {
+            "stat:header": "452.5.",
+            "stat:p": [
+              "",
+              "(a) The official acts and records specified in subdivisions (c) and (d) of Section 452 include any computer-generated official court records, as specified by the Judicial Council, that relate to criminal convictions, when the record is certified by a clerk of the superior court pursuant to Section 69844.5 of the Government Code at the time of computer entry.",
+              "",
+              "(b) (1) An official record of conviction certified in accordance with subdivision (a) of Section 1530, or an electronically digitized copy thereof, is admissible under Section 1280 to\n\t\t\t\t\t\tprove the commission, attempted commission, or solicitation of a criminal offense, prior conviction, service of a prison term, or other act, condition, or event recorded by the record.",
+              "",
+              "(2) For purposes of this subdivision, “electronically digitized copy” means a copy that is made by scanning, photographing, or otherwise exactly reproducing a document, is stored or maintained in a digitized format, and meets either of the following requirements:",
+              "",
+              "(A) The copy bears an electronic signature or watermark unique\n\t\t\t\t\t\tto the entity responsible for certifying the document.",
+              "",
+              "(B) The document that is copied is an official record of conviction, certified in accordance with subdivision (a) of Section 1530, that is transmitted by the clerk of the superior court in a manner showing that the copy was prepared and transmitted by that clerk of the superior court. A seal, signature, or other indicia of the court shall constitute adequate showing.",
+              "",
+              "(Amended by Stats. 2016, Ch. 126, Sec. 1.   (AB 1867)   Effective January 1, 2017.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 2016, Ch. 126, Sec. 1.   (AB 1867)   Effective January 1, 2017.)",
+            "-id": "S1iPqaEmmGSJhP5aEmQGB1av96NXXf"
+          },
+          {
+            "stat:header": "453.",
+            "stat:p": [
+              "",
+              "The trial court shall take judicial notice of any matter specified in Section 452 if a party requests it and:",
+              "",
+              "(a) Gives each adverse party sufficient notice of the request, through the pleadings or otherwise, to enable such adverse party to prepare to meet the request; and",
+              "",
+              "(b) Furnishes the court with sufficient information to enable it to take judicial notice of the matter.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "SJ0D5pVQmzByJlv56VXmfS1gevcpVXXz"
+          },
+          {
+            "stat:header": "454.",
+            "stat:p": [
+              "",
+              "(a) In determining the propriety of taking judicial notice of a matter, or the tenor thereof:",
+              "",
+              "(1) Any source of pertinent information, including the advice of persons learned in the subject matter, may be consulted or used, whether or not furnished by a party.",
+              "",
+              "(2) Exclusionary rules of evidence do not apply except for Section 352 and the rules of privilege.",
+              "",
+              "(b) Where the subject of judicial notice is the law of an organization of nations, a foreign nation, or a public entity in a foreign nation and the court resorts to the advice of persons learned in the subject matter, such advice, if not received in open court, shall be in writing.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "H1Wgvq6VQ7MH1fxD9a4QmfS1mlwqaN7XM"
+          },
+          {
+            "stat:header": "455.",
+            "stat:p": [
+              "",
+              "With respect to any matter specified in Section 452 or in subdivision (f) of Section 451 that is of substantial consequence to the determination of the action:",
+              "",
+              "(a) If the trial court has been requested to take or has taken or proposes to take judicial notice of such matter, the court shall afford each party reasonable opportunity, before the jury is instructed or before the cause is submitted for decision by the court, to present to the court information relevant to (1) the propriety of taking judicial notice of the matter and (2) the tenor of the matter to be noticed.",
+              "",
+              "(b) If the trial court resorts to any source of information not received in open court, including the advice of persons learned in the subject matter, such information and its source shall be made a part of the record in the action and the court shall afford each party reasonable opportunity to meet such information before judicial notice of the matter may be taken.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "H14eDqT4mXMBkrew56VmXzHkUlDcpNQ7G"
+          },
+          {
+            "stat:header": "456.",
+            "stat:p": [
+              "",
+              "If the trial court denies a request to take judicial notice of any matter, the court shall at the earliest practicable time so advise the parties and indicate for the record that it has denied the request.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "HkwlPcT47XzH1ugvcaEmmfS1YlwqTNmmM"
+          },
+          {
+            "stat:header": "457.",
+            "stat:p": [
+              "",
+              "If a matter judicially noticed is a matter which would otherwise have been for determination by the jury, the trial court may, and upon request shall, instruct the jury to accept as a fact the matter so noticed.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BJ5evcaVmmfHkoew9647mGBJngP9pVQXf"
+          },
+          {
+            "stat:header": "458.",
+            "stat:p": [
+              "",
+              "The failure or refusal of the trial court to take judicial notice of a matter, or to instruct the jury with respect to the matter, does not preclude the trial court in subsequent proceedings in the action from taking judicial notice of the matter in accordance with the procedure specified in this division.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "Bypew9TNQ7zSy0lPq6477MHJ1WPc6E77z"
+          },
+          {
+            "stat:header": "459.",
+            "stat:p": [
+              "",
+              "(a) The reviewing court shall take judicial notice of (1) each matter properly noticed by the trial court and (2) each matter that the trial court was required to notice under Section 451 or 453.  The reviewing court may take judicial notice of any matter specified in Section 452.  The reviewing court may take judicial notice of a matter in a tenor different from that noticed by the trial court.",
+              "",
+              "(b) In determining the propriety of taking judicial notice of a matter, or the tenor thereof, the reviewing court has the same power as the trial court under Section 454.",
+              "",
+              "(c) When taking judicial notice under this section of a matter specified in Section 452 or in subdivision (f) of Section 451 that is of substantial consequence to the determination of the action, the reviewing court shall comply with the provisions of subdivision (a) of Section 455 if the matter was not theretofore judicially noticed in the action.",
+              "",
+              "(d) In determining the propriety of taking judicial notice of a matter specified in Section 452 or in subdivision (f) of Section 451 that is of substantial consequence to the determination of the action, or the tenor thereof, if the reviewing court resorts to any source of information not received in open court or not included in the record of the action, including the advice of persons learned in the subject matter, the reviewing court shall afford each party reasonable opportunity to meet such information before judicial notice of the matter may be taken.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "BkgbDcpEmmMHk--w9T4Q7fHJM-w5TV7XM"
+          },
+          {
+            "stat:header": "460.",
+            "stat:p": [
+              "",
+              "Where the advice of persons learned in the subject matter is required in order to enable the court to take judicial notice of a matter, the court on its own motion or on motion of any party may appoint one or more such persons to provide such advice. If the court determines to appoint such a person, he shall be appointed and compensated in the manner provided in Article 2 (commencing with Section 730) of Chapter 3 of Division 6.",
+              "",
+              "(Enacted by Stats. 1965, Ch. 299.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1965, Ch. 299.)",
+            "-id": "Bymbv5pEmQzrJ4WwcpVmQfBkH-v9pVmQz"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 5. BURDEN OF PROOF; BURDEN OF PRODUCING EVIDENCE; PRESUMPTIONS AND INFERENCES "
+        },
+        "-id": "ryzG-S8GXmfr17MWS8GXQGSJVf-BLM7mz",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 5. BURDEN OF PROOF; BURDEN OF PRODUCING EVIDENCE; PRESUMPTIONS AND INFERENCES 500-670"
+            },
+            "-id": "SJQmg_i3N7QzSkNQlOjnN7mMHkSXldihV7mG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1ImlOjnNQQGr1D7eds2N77GS1_mlOj3E7mM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Burden of Proof 500-524"
+            },
+            "-id": "ByYmedj2NQmGSy5QgOo3EXXfSJoQgOj2V7Xz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJnXx_o2E7QMHJTmx_jnVXXzBy0mlOs3NQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. General 500-502"
+            },
+            "-id": "SJJVlOi2NQ7MHke4l_jhVQQGr1bEedonV77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ByGVe_o34mXMB1mElOo3VQmzrJ44lOo2NX7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Burden of Proof on Specific Issues 520-524"
+            },
+            "-id": "BkHVgds34mXzB1IVxuon4m7MrkvNg_ohEQXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rk_EgdsnV7QGBJK4gOinE7QGHk9Veds2VmXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Burden of Producing Evidence 550"
+            },
+            "-id": "Hki4eOs2VmmfS1nVedohVmmMryTVeOo2NXXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Bk04xuo2V77MHJJHl_jnNQmzB1xHedshVmmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Presumptions and Inferences 600-670"
+            },
+            "-id": "BJWre_j2VX7Gr1zBxOonE7QMBkmBl_o2N7Xz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJ4SldshE7QzB1HHxujhNm7Gry8Bx_inVQmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. General 600-607"
+            },
+            "-id": "BJvHe_o3EQQMSJuSgds3N77fS1trgOih4XQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B1qBedi2477fryorldihN7mfH13HeuihNQQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Conclusive Presumptions 620-624"
+            },
+            "-id": "Hk6Sxds3EmmfHyCBl_inEmXfrkJIxOohNQ7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJxUeOj2E7QzBkbIlOs3NQQMH1MUlds2477M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Presumptions Affecting the Burden of Producing Evidence 630-647"
+            },
+            "-id": "ByQ8eOj3NmQGS14IxOo2NmQGS1HLe_ih4QQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rkLUeds2VX7zSJvUx_sh4QXfByOIg_ihNXXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Presumptions Affecting the Burden of Proof 660-670"
+            },
+            "-id": "rJtUeus2NQQzB19LldshEm7frJoUxujhE7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rknUgOs3VQmzB16Ixuo2Vm7MH1C8gOj2V7Qz"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 6. WITNESSES "
+        },
+        "-id": "BkrMZrIG7XGSJ8z-S8MXQfBJPGbB8zQXM",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 6. WITNESSES 700-795"
+            },
+            "-id": "r174_ihNQQfBk4E_snEXQzS1HEusnN7Qf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJ8Eus34QQMSkPE_o2V7mzBkuVushNXXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Competency 700-704"
+            },
+            "-id": "HyY4uo2Nm7Grk9N_o2VXXfSysVdjhNm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Bk2Nui2E7QGHka4di3Nmmfr1REdjn4mXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Oath and Confrontation 710-712"
+            },
+            "-id": "rkJBdi3EXXzSkerdohNQXzS1Zrujh4X7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HyGrOihV7QMr17HOjnNXQzrJVH_s3EmXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Expert Witnesses 720-733"
+            },
+            "-id": "S1Srdj34XQMr18H_jhE77fSyPBui34XQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkOBdo2N7QzS1KSui34Xmfr1qr_ohVm7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Expert Witnesses Generally 720-723"
+            },
+            "-id": "Bkjr_s34XQfSk3r_onEXmzBJ6rOj2E77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HyRrdo3EQmfByJ8din4X7zHyx8Oi2V7mG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Appointment of Expert Witness by Court 730-733"
+            },
+            "-id": "ryWL_snEX7MBkfLdsnV7QfHJQ8uihEmXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HyVUdj247QMr1BL_jhN77zry8IuihVQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Interpreters and Translators 750-757"
+            },
+            "-id": "B1DLushEmmzH1dUus3VQQGBkKUuoh4Q7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJcU_j2VQQzHJoUdinEX7MH12Iui2NXQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 5. Method and Scope of Examination 760-778"
+            },
+            "-id": "BJp8us3EmXMSJAIds24mQfHkkv_i3EXmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1xw_jh4mXMSkbPOs3VXQfrkzvds3EX7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Definitions 760-764"
+            },
+            "-id": "ByQPdj3EmXzBy4vOo34mmMrJSPui3Em7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJ8POshEmXfrkvD_i3NQmzB1_Dui3VmQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Examination of Witnesses 765-778"
+            },
+            "-id": "SkFPus24QmMSkcDOs2VXQzSysvOjnVXQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJhwOs3N77fr16vuihNQmGHJCw_snNQXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 6. Credibility of Witnesses 780-791"
+            },
+            "-id": "SkJ__o3V7mMHkgduo2NXQMS1b_dohNXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1fOdshVXmGB1mdOs3NXQGrJE_Oo3NmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Credibility Generally 780-783"
+            },
+            "-id": "HyH__snVXmfBkI_ds2VXXGrJvudsnVmmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJuOdin4XmMH1t_Oo2Nm7frk5uds347QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Attacking or Supporting Credibility 785-791"
+            },
+            "-id": "ByiO_onE7QGrk3udj3NQXGHkpd_jhNX7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkCO_onE77Grk1tdo2N7mGSylKusnE7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 7. Hypnosis of Witnesses 795"
+            },
+            "-id": "SJWF_i24X7GrkzKdj3N7mzSJ7F_i2N7XM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkEYdihV7QzHJHKui24m7GH1LFOs3EXmG"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 7. OPINION TESTIMONY AND SCIENTIFIC EVIDENCE "
+        },
+        "-id": "S1uMbr8GXmzHyKfZHIMQXfHJcMbHLGmXM",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 7. OPINION TESTIMONY AND SCIENTIFIC EVIDENCE 800-870"
+            },
+            "-id": "SJttxuon4QQfHJ9tx_i24mmfrkstxuihE7XG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hy3tedo3EmXGHkptl_snEm7zBy0Yeuo2NmXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Expert and Other Opinion Testimony 800-870"
+            },
+            "-id": "HkJ5x_i2VmmzHJe9xdj3VXmfByWqlOj2NQXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1zqgOjhNmmfBymcluo3EmmzSkN5eOohE7mM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Expert and Other Opinion Testimony Generally 800-805"
+            },
+            "-id": "S1rcl_shN7QGrkIcldshVQXfBJwqeushNXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJO9e_o3E7mGryYqxuj3EXQMBk99gujhVXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Evidence of Market Value of Property 810-824"
+            },
+            "-id": "BysqgOsh4Q7GHyhcgdin477zrJp5eus3E7mf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ryRclOin4XXzH1Jjl_s247XzHyeigOs3EX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Opinion Testimony on Particular Subjects 870"
+            },
+            "-id": "rkWseOonVmQfS1fixOjnEmmGHk7jxuinEQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1Vjgdi2V7XzrkBjldj2VmXfHJLsg_inV7QG"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 8. PRIVILEGES "
+        },
+        "-id": "HyjzZrLfXmzrJhMWrUzXmMHyTGZBIfmQz",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 8. PRIVILEGES 900-1070"
+            },
+            "-id": "SyTUFo2E77GSJAIti2N77MSyyPFj3Nm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJlwYi2NXXGSy-wti3V7QzHyGDKonNX7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Definitions 900-905"
+            },
+            "-id": "HJXPYjh4XmGrk4Pti2VQ7MHyrPYshE77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "B18DFo3N7mMS1PvFjhEQXzBJ_vFsnNQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Applicability of Division 910"
+            },
+            "-id": "SkYvFj247XMBy5wYsnVQ7GryiwYi3NQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S12DtonVXmGB1aPFo2NmXGS1CwKjhNX7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. General Provisions Relating to Privileges 911-920"
+            },
+            "-id": "H1yOKs347XfSyx_tihVXmzHk-OKs3EXXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1zuYi347XGB1mdYshEmQfry4_YohEm7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 4. Particular Privileges 930-1063"
+            },
+            "-id": "rJr_tj3V7XfH18_KihV7QMBJPuYo3Em7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1uOFih47XGSJYuKshV7QMBJ5dFj2EmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Privilege of Defendant in Criminal Case 930"
+            },
+            "-id": "BkiOtjnNmmGryhOYsnN7mMrypdti3VQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJAuYj3EQ7MBykFYi24mQfHyeFKo24Q7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Privilege Against Self-Incrimination 940"
+            },
+            "-id": "HyZtFjn4mXGHyGFYjnEmmzry7YFsnE7Xz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hy4YFj2EmXfSkrFKoh4Q7GHJLFKjnNXXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Lawyer-Client Privilege 950-962"
+            },
+            "-id": "HyPttohV7mfrk_YtihEQQMHyKtto2V7mG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkqKKi3EX7GHJiYts2N77zHJ2tFih47mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3.5. Lawyer Referral Service-Client Privilege 965-968"
+            },
+            "-id": "BkTYKshEXQGBk0FKs3E7XMHyy5YonNQQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Syg9Ys2E77MrJb5Fon4m7fByG9Fin4Q7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Privilege Not to Testify Against Spouse 970-973"
+            },
+            "-id": "HJ7cKj24X7zBy4qYs2NmQfByHqKo2EmmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkIqYohEQXfHyD5Fo3EmQfHJO9ts3E7Qz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 5. Privilege for Confidential Marital Communications 980-987"
+            },
+            "-id": "rkY5ti3NXQGrJqqKjnEX7Grys5Fi34Qmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ry29Yj2NmXfHy65Fs3NX7GrJC5FsnEm7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 6. Physician-Patient Privilege 990-1007"
+            },
+            "-id": "S1kjKihVXQfSJxsKjh4mQzSybjKshEQQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkfiYon4X7MSJ7sYo3E7mzHJNsKj34mXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 7. Psychotherapist-Patient Privilege 1010-1027"
+            },
+            "-id": "BkBsFj3NQQfSk8sFshN7QMHkvjKj24XQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1OsFo247QMHJtsYon477MB1cots247mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 8. Clergy Penitent Privileges 1030-1034"
+            },
+            "-id": "HkjiFihV7QMr1hoFsnEmQGHyTjti2VQQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkRjKshV7QGryk3Ko3VXXzBye3tj2VmmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 8.5. Sexual Assault Counselor-Victim Privilege 1035-1036.2"
+            },
+            "-id": "H1Zntoh4m7MSkG2FjhEQmMSJX2Fin4mXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ry43Yih4m7MByS2Ko34XmMSk83Yj34X7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 8.7. Domestic Violence Counselor-Victim Privilege 1037-1037.8"
+            },
+            "-id": "B1w2Fi3Nm7GB1uhFo3EXXGrJt3Fi2EQ7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Syc2Fi2EX7zSJjhFj24mmfB1nhKi3NQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 8.8. Human Trafficking Caseworker-Victim Privilege 1038-1038.2"
+            },
+            "-id": "HkT2ti2N7mzHJCnKjhVQmfH116tsh4XmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SklpYonNXQzS1W6Fs3E7QfHkM6Fo2EX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 9. Official Information and Identity of Informer 1040-1047"
+            },
+            "-id": "rympKs2E7XGSJETti3EQ7fByHpFjhV7mf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HyIaYs2NX7MBJv6Yin4mXMB1_atohNQmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 10. Political Vote 1050"
+            },
+            "-id": "H1Y6KjnNQXMB19pti2EQQfH1iTKsnVXmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJ36FonEXmzrJTTKo34QQMSkApFo3VQXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 11. Trade Secret 1060-1063"
+            },
+            "-id": "ryyAYihNXQMSyxCtshE77GB1WRFi3E7mz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SyzAYon47mMB1QAFsnEQ7zHJN0Yin47Qf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 5. Immunity of Newsman From Citation for Contempt 1070"
+            },
+            "-id": "H1B0Fs2EXQGSkURton47mGr1PRYin47Xz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJu0Ko2VQ7zSJFAYj3V7XGSyqRtshN7Qf"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 9. EVIDENCE AFFECTED OR EXCLUDED BY EXTRINSIC POLICIES "
+        },
+        "-id": "HJ0fbBUf7Xfr1kmbH8MQmzrJgX-rLzXQM",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 9. EVIDENCE AFFECTED OR EXCLUDED BY EXTRINSIC POLICIES 1100-1160"
+            },
+            "-id": "B1Jg-tsnVQ7zHJglWYi3E7QzSJbxZKi3N7mf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "S1MgWYs3EmXzSymgWYjh4m7GH14eZFo347Qz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Evidence of Character, Habit, or Custom 1100-1109"
+            },
+            "-id": "H1Hg-ts3VQmMS1UxWtoh47QGSyDgbtinE7XM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJde-YinNm7zS1KxWtj2EQQGrk9l-Yi3EX7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Mediation 1115-1128"
+            },
+            "-id": "ryjlbKsnNX7GBy2gZFj247XzByTxWtsnNmmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJCe-FohNmXGB1JW-Ks3N7XGSygZbKs3VXmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Other Evidence Affected or Excluded by Extrinsic Policies 1150-1161"
+            },
+            "-id": "ByW-WYoh4XmzHyz-ZFinNXmzHkmZWtjn4X7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkN-WtihNm7GryHZ-FohVXQzHkIbbti2E7mz"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 10. HEARSAY EVIDENCE "
+        },
+        "-id": "r1-7bHUMXmMrkfX-rIfQmGH17mWrUfXQG",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 10. HEARSAY EVIDENCE 1200-1390"
+            },
+            "-id": "rJKIxtj2NQXfSk5LgYshEXmMrkjIlYjhNm7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HynIgto2NQmMSkTIeYsh4QmfSkALgYohN7Xf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. General Provisions 1200-1205"
+            },
+            "-id": "r1kvetsnNXmzSyewxtsnVXXGBkbDxYohV77M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HkGvgYsnVQXMrkmDgYj3VX7fBkVPgFinVQ7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Exceptions to the Hearsay Rule 1220-1390"
+            },
+            "-id": "SkrDltinEQ7frkIwetjnNQQzHkPPxYonNXQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJuDxYs2NQXfSJFvltshNQmMHJcvetih4mmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Confessions and Admissions 1220-1228.1"
+            },
+            "-id": "r1iPltjnV77zSJ3Dxtj3VQ7MSkpPlKj2VXXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJCPgYonVX7Gry1_eYin47mfrkl_gton4mXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Declarations Against Interest 1230"
+            },
+            "-id": "BJWdgts2N7QMH1GOeYo3EmmfS1QOlFonEXmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Hy4dgKi3VmmzB1rdxtsn4XXzSJIdxYo3N77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2.5. Sworn Statements Regarding Gang-Related Crimes 1231-1231.4"
+            },
+            "-id": "r1DulYj3VQ7MSkOueKo2EQXGS1YdeFs2NQQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJqdeYjhNm7MBkougYo2EQXMrk2dgtsnNXmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Prior Statements of Witnesses 1235-1238"
+            },
+            "-id": "S1a_gti2EQXzByCdlKo2NXXfSJ1YgFjhEQXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1xFxFihVX7MH1bteFo3NXQzHyGtgtinEX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Spontaneous, Contemporaneous, and Dying Declarations 1240-1242"
+            },
+            "-id": "SyXteYin4QXGHyNKeFo24X7fHkSFlYinVXQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1UFgFs3NmQGSkPFxtj3N77fHJOKeFs2VXXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 5. Statements of Mental or Physical State 1250-1253"
+            },
+            "-id": "SkFKeFon47mGHyqYgts3NXQGrysFlFjnNmXz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJ2FgKi2NQQzSkpKltjnVXQfSyCKlKsn4QQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 6. Statements Relating to Wills and to Claims Against Estates 1260-1261"
+            },
+            "-id": "Sk19lFihVmQzrylqeFi2VQQMrkZ9gto24X7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Bkf5gFjn4XQfBkX5lFohEXXGB149gFj24QXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 7. Business Records 1270-1272"
+            },
+            "-id": "ByHceFihVQ7fS1LqlYj2NQQfryv9xFsnVQmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Syu5eto347QzHyK9gto3Nm7Mrk55eFo24QXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 8. Official Records and Other Official Writings 1280-1284"
+            },
+            "-id": "Hks5eYjn4QQMSk39lFinEXXfHypqxKonNQXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkC9eYi34mXzBJkoeKj3V7mzrkeoeFihNQ7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 9. Former Testimony 1290-1294"
+            },
+            "-id": "BJ-ieKs3N7XfrkfjgKo3EmXMHJQjxYj2VmmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1EoxKi2EQQGSyBjxKohNQXGBJIixKi3NXQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 10. Judgments 1300-1302"
+            },
+            "-id": "r1vsgFih4mQzHydjeFj3N7mfH1KixtshV7QM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BkqslYohVQ7GS1oolKjn47mzrynseti2VXXf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 11. Family History 1310-1316"
+            },
+            "-id": "rJ6ietihNQQfHkAoltinNmmGSJkhgYs24XQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ryenlYihVQXfB1ZhxtshNQ7fBkGnetsnEmmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 12. Reputation and Statements Concerning Community History, Property Interests, and Character 1320-1324"
+            },
+            "-id": "HkQhgFinNmQzr1EhlYinEX7GSyBnlKj3E7mM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SJ8hlYin4QQfByP3etj3Em7zrk_2xKjh4QQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 13. Dispositive Instruments and Ancient Writings 1330-1331"
+            },
+            "-id": "BytneKo2E7QGByc2gYoh4XXfSJsnxYohE77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r122ltih4mQMSkp2lFo2VXXzHkC2eFjhEX7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 14. Commercial, Scientific, and Similar Publications 1340-1341"
+            },
+            "-id": "Sy1aeti3EmmzHke6ltinEmXzH1ZTeYjh47Qf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJMTxFsnN77fHyXTgtonVQ7GBk4TlKi3EQ7z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 15. Declarant Unavailable as Witness 1350"
+            },
+            "-id": "S1rpgFohEmQfrJ8agYoh4m7fB1valYsnNQmf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Sy_agtonNQmMHkFTltsnNXXGBk9petonEmQz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 16. Statements by Children Under the Age of 12 in Child Neglect and Abuse Proceedings 1360"
+            },
+            "-id": "SJjaeFonVXQfBJh6eYjhNQXGrkapxtjhVmmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkCalFo2NmXzH1yAgFjhNQ7frkeRlFjh4Q7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 17. Physical Abuse 1370-1390"
+            },
+            "-id": "SJZCgKinEQQMrkMAgtjhVXmGBkQCgFjhN77z"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ByNRlFi3NmXGBJrCgKo3NXXfH1I0xKjnVQXG"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 11. WRITINGS "
+        },
+        "-id": "H1EQWrIMQ7fSkrXbSLfQ7GS1IX-rIMmQz",
+        "stat:Level": [
+          {
+            "stat:Text": {
+              "stat:heading": "DIVISION 11. WRITINGS 1400-1605"
+            },
+            "-id": "ByYHZts2NmQGBJ5rWKi3VQXfBJoBZKo2VQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "ry3SbYo34QmfB1aBZFihEQmMH10BWtj2NQXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 1. Authentication and Proof of Writings 1400-1454"
+            },
+            "-id": "ryJL-Fo24Q7GBygUbFs34XXGB1-IZFs3EmmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "HJzLWtsnVQmMSyXIWFj3VXQfr1N8WYs2VX7G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Requirement of Authentication 1400-1402"
+            },
+            "-id": "S1B8ZKsnNQmfSk8UWFjnN7XfHkwIZts24mQf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "Sk_U-Ki2NmXfSyKLbKoh4XXGrkcLbKi3VmXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Means of Authenticating and Proving Writings 1410-1421"
+            },
+            "-id": "HJi8Wti2VXXzBJnL-Ko2V77fBJT8-toh4mmz"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rJAL-YjhNmQfB1yDbYs3E77zHyxPZKsn47XM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Presumptions Affecting Acknowledged Writings and Official Writings 1450-1454"
+            },
+            "-id": "rJ-vZKi2E77fSyzvbFs24QQMHJXPWFi2VmXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "BJNwWKo2VmmMBJHDWYjhVX7MHJLw-Ko2VQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 2. Secondary Evidence of Writings 1520-1567"
+            },
+            "-id": "BJDwWFo2NXXGH1dDbKohNXXfHktvZFin4XmG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1cwbFjn4mmzSkiv-KihEmXfBynwWYjhVQmM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 1. Proof of the Content of a Writing 1520-1523"
+            },
+            "-id": "HkTPZtinE77GHyAvZFshNQXGHyJuZFshNmQM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "r1luZYo2V7XMSyWu-FsnVmQfHyMdZKinEm7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 2. Official Writings and Recorded Writings 1530-1532"
+            },
+            "-id": "H1mdbKo2477MS14OZtsnNX7zS1B_-ti2E7mf"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H18_-ti3VmQzBJv_Zti2NX7fBJudbti24X7M"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 3. Photographic Copies and Printed Representations of Writings 1550-1553"
+            },
+            "-id": "r1FOWYs2Vm7Mr1qdWYj2VmXzSJjubYs34XXM"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "rk2uZFs2N7mMryTO-Yi3NQXGHy0uZtj3EQQG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "ARTICLE 4. Production of Business Records 1560-1567"
+            },
+            "-id": "H1kYbKj2VXXGSkgK-YjnE77fHyWKZtj3Em7f"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "SkMYZtinN77MHJXtWFo2Em7MHk4tWYj2VQXG"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": "CHAPTER 3. Official Writings Affecting Property 1600-1605"
+            },
+            "-id": "ByBtWFs347mMB1UY-Fo3VmmGHkPFbto2E77G"
+          },
+          {
+            "stat:Text": {
+              "stat:heading": " "
+            },
+            "-id": "H1_t-KinNm7frJKKbKsnEQQMSyqKbYin4QXz"
+          }
+        ]
+      }
+    ]
+  }
+}
