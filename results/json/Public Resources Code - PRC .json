@@ -1,0 +1,672 @@
+{
+  "stat:Level": {
+    "stat:Text": {
+      "stat:heading": "Public Resources Code - PRC ",
+      "-xmlns:stat": "https://casetext.com/stat"
+    },
+    "-id": "S1CM0EIW7QzBkkXRNUbQmzS1x7CNUW77f",
+    "stat:Level": [
+      {
+        "stat:Text": {
+          "stat:heading": "GENERAL PROVISIONS"
+        },
+        "-id": "SkVnvrjGXQMrkH2vrof7mGHkU2vHjGm7z",
+        "stat:Level": [
+          {
+            "stat:p": [],
+            "stat:note": "( General Provisions enacted by Stats. 1939, Ch. 93. )",
+            "-id": "r1XtjG7XzBylXKiz7QfSk-Xtoz7mz"
+          },
+          {
+            "stat:header": "1.",
+            "stat:p": [
+              "",
+              "This act shall be known as the Public Resources Code.",
+              "",
+              "(Enacted By Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted By Stats. 1939, Ch. 93.)",
+            "-id": "HkG7YsMm7Grym7FiGmQMHJVmYjMQmf"
+          },
+          {
+            "stat:header": "2.",
+            "stat:p": [
+              "",
+              "The provisions of this code, in so far as they are substantially the same as existing provisions relating to the same subject matter, shall be construed as restatements and continuations thereof and not as new enactments.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "rySQtiGQXzBJUXKjMXXMHJvXKiGXmf"
+          },
+          {
+            "stat:header": "3.",
+            "stat:p": [
+              "",
+              "All persons who, at the time this code goes into effect, hold office under any of the acts repealed by this code, which offices are continued by this code, continue to hold the same according to the former tenure thereof.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "rJdmtjfQQzSkYQtszXmzSJc7Fsf77f"
+          },
+          {
+            "stat:header": "4.",
+            "stat:p": [
+              "",
+              "No action or proceeding commenced before this code takes effect, and no right accrued, is affected by the provisions of this code, but all procedure thereafter taken therein shall conform to the provisions of this code so far as possible.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "rJs7tsGXXGHJ37tsz7QfSJaQFsfQQz"
+          },
+          {
+            "stat:header": "5.",
+            "stat:p": [
+              "",
+              "Unless the context otherwise requires, the general provisions hereinafter set forth shall govern the construction of this code.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "SJAQtiGQ7MrJylQFiMXXGrygxmKifmXG"
+          },
+          {
+            "stat:header": "6.",
+            "stat:p": [
+              "",
+              "Division, part, chapter, article, and section headings contained herein shall not be deemed to govern, limit, modify or in any manner affect the scope, meaning, or intent of the provisions of any division, part, chapter, article, or section hereof.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "r1bx7FizQmzSJzgmKoM7mfByme7FsM77M"
+          },
+          {
+            "stat:header": "7.",
+            "stat:p": [
+              "",
+              "Whenever, by the provisions of this code, an administrative power is granted to a public officer or a duty imposed upon such an officer, the power may be exercised or the duty performed by a deputy of the officer or by a person authorized pursuant to law.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "SJNl7tof77GBySgQtjMXmzH18gXKjGmXG"
+          },
+          {
+            "stat:header": "8.",
+            "stat:p": [
+              "",
+              "Writing includes any form of recorded message capable of comprehension by ordinary visual means. Whenever any notice, report, statement or record is required by this code, it shall be made in writing in the English language.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "r1vg7tifXXMHJOg7Fsz7mzSJFxQKsGm7G"
+          },
+          {
+            "stat:header": "9.",
+            "stat:p": [
+              "",
+              "Whenever any reference is made to any portion of this code or of any other law of this State, such reference shall apply to all amendments and additions thereto now or hereafter made.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "Hy5x7Ksz7mzryixQtoGmQzBkheXKiGmXf"
+          },
+          {
+            "stat:header": "10.",
+            "stat:p": [
+              "",
+              "“Section” means a section of this code unless some other statute is specifically mentioned.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "BJplXYsMXQzH1CxXFsMXQfHkJWQKiMXmM"
+          },
+          {
+            "stat:header": "11.",
+            "stat:p": [
+              "",
+              "The present tense includes the past and future tenses; and the future the present.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "Bkx-QYoGQmMSJZWmtoz7QfrJM-QKsz77M"
+          },
+          {
+            "stat:header": "12.",
+            "stat:p": [
+              "",
+              "The masculine gender includes the feminine and neuter.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "SJX-XKjfmmfHkN-mtiMmXMHkHZ7tjf7Xz"
+          },
+          {
+            "stat:header": "12.2.",
+            "stat:p": [
+              "",
+              "“Spouse” includes “registered domestic partner,” as required by Section 297.5 of the Family Code.",
+              "",
+              "(Added by Stats. 2016, Ch. 50, Sec. 92.   Effective January 1, 2017.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2016, Ch. 50, Sec. 92.   Effective January 1, 2017.)",
+            "-id": "HyLWXYjfQmfH1PbmFsG77MH1d-XYofXQz"
+          },
+          {
+            "stat:header": "13.",
+            "stat:p": [
+              "",
+              "The singular number includes the plural, and the plural the singular.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "HyKZ7Ysf7XzSJcWXYiMm7zH1o-mtoMQXG"
+          },
+          {
+            "stat:header": "14.",
+            "stat:p": [
+              "",
+              "“County” includes “city and county.”",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "SJhWXKjG7QzSya-XFjzQQGBJCZQYozX7f"
+          },
+          {
+            "stat:header": "15.",
+            "stat:p": [
+              "",
+              "“Shall” is mandatory and “may” is permissive.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "r1Jf7toMQ7MSklfQtszXXzryWzQFjzQQM"
+          },
+          {
+            "stat:header": "16.",
+            "stat:p": [
+              "",
+              "“Oath” includes affirmation.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "H1MM7FozXXzSJQGmKjzmQzryVG7tif7mz"
+          },
+          {
+            "stat:header": "17.",
+            "stat:p": [
+              "",
+              "“Signature” or “subscription” includes mark when the signer or subscriber can not write, such signer’s or subscriber’s name being written near the mark by a witness who writes his own name near the signer’s or subscriber’s name; but a signature or subscription by mark can be acknowledged or can serve as a signature or subscription to a sworn statement only when two witnesses so sign their own names thereto.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "ByrfQFjMmmfB18fmFof7mfrJwMmKszXmz"
+          },
+          {
+            "stat:header": "18.",
+            "stat:p": [
+              "",
+              "If any provison of this code, or the application thereof to any person or circumstances, is held invalid the remainder of the code, and the application of its provisions to other persons or circumstances, shall not be affected thereby.",
+              "",
+              "(Enacted by Stats. 1939, Ch. 93.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1939, Ch. 93.)",
+            "-id": "SkdzmFjz7mzryFMQKsG77GHJ9MQtsM77f"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 1. ADMINISTRATION "
+        },
+        "-id": "ryDhwroG7QMryO2wrjzXmGBkK2vSiMmXz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 2. GEOLOGY, MINES AND MINING "
+        },
+        "-id": "r1c3PBjMmmMB1o3vSsf77Grkn2vBsfXXG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 3. OIL AND GAS "
+        },
+        "-id": "HJa2vBofQmfrJAnwSiMXQGrkkTPrifQXM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 3.5. MINES AND MINING "
+        },
+        "-id": "ByeawSozXQMSyZ6PSjGQmzHJf6DHjMXQz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 4. FORESTS, FORESTRY AND RANGE AND FORAGE LANDS "
+        },
+        "-id": "SkmpwrozmQGSJ4pwSsf7mMSkraPSizQQG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 5. PARKS AND MONUMENTS "
+        },
+        "-id": "HyUawHiGQXMSkwTProfmQfS1upwBiMmXG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 5.8. CALIFORNIA WILDLIFE, COASTAL, AND PARK LAND CONSERVATION ACT "
+        },
+        "-id": "HyKaPSsMXmMr1qawBjG7mzBkiavHoGm7f"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 6. PUBLIC LANDS "
+        },
+        "-id": "S1hTPHiM7XMry6TvHjGQXGrJA6DrjMQXM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 7. KAPILOFF LAND BANK ACT "
+        },
+        "-id": "r1JCwBjM7XfSylRvBjzXmMrkW0wrjfmmG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 7.5. ARROYO SECO PARKLANDS "
+        },
+        "-id": "ryMRProGX7MrkXCDBsG7QGB1NCvrjG77G"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 7.7. School Lands "
+        },
+        "-id": "r1BRvBjfXmGH1LRPHsfQQGH1vCwSszQ7M"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 7.8. OIL SPILL PREVENTION AND RESPONSE "
+        },
+        "-id": "BJdADHsM7mGSJKADrjzX7fS150vBizmQf"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 8. SURVEYING AND MAPPING "
+        },
+        "-id": "BJsCwHsMmmMS120DHozQmzBy60DSjMQ7z"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 9. RESOURCE CONSERVATION "
+        },
+        "-id": "rJ00vHsM77zH1ykxPBjGQ7GHJxkxPBizQXM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 10. STREAMFLOW PROTECTION STANDARDS "
+        },
+        "-id": "SkbJlPHoG7QzBJzJlPBiM7QGH17ylwSjf7mf"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 10.2. AGRICULTURAL LAND STEWARDSHIP PROGRAM OF 1995 "
+        },
+        "-id": "BkVJgPSsz77MSkB1xvBiG7mzB18kxvSjzmXG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 10.3. AGRICULTURAL PROTECTION PLANNING GRANT PROGRAM "
+        },
+        "-id": "B1wJePBjMm7GBkO1lPSiGQXfS1FygDSozmQG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 10.4. RANGELAND, GRAZING LAND, AND GRASSLAND PROTECTION ACT "
+        },
+        "-id": "B19yevHoMmQMSJiklvBsG77frkhkgDSszXQf"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 10.5. CALIFORNIA FOREST LEGACY PROGRAM ACT OF 2007 "
+        },
+        "-id": "BJ61evBif7XGSkRJxwSszmQGSk1eePriz7XM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 11. RESORT IMPROVEMENT DISTRICTS "
+        },
+        "-id": "SkgxlvHoGQmzBJZlxvrizQ7fS1flxwrszQXz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 12. CALIFORNIA CONSERVATION CORPS "
+        },
+        "-id": "ByQlePrszm7fB14xlPHozXQfryBxeDBofX7G"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 12.1. CALIFORNIA BEVERAGE CONTAINER RECYCLING AND LITTER REDUCTION ACT "
+        },
+        "-id": "rJIggwBjGm7fS1wlgvroGXXMrJdlgwrjfX7f"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 12.2. PRODUCTS CONTAINING TOXIC METALS "
+        },
+        "-id": "SJKlxDBjfm7zBk9lxwSsf77GB1jlgDSif7Qz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 12.3. RECYCLED CONCRETE "
+        },
+        "-id": "rknxlDBof7XzSyTllwBsGmmGSJ0eePrjGXXM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 12.4. GREASE TRAP AND GREASE INTERCEPTOR WASTE "
+        },
+        "-id": "HkyZlDHjG77zHyl-ewSjMQQfrJbblDSoGm7M"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 12.5. Community Conservation Corps "
+        },
+        "-id": "SJG-xwSizQXfry7bxwBszX7zBJ4WxPHiG7QG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 12.7. PLASTIC WASTE "
+        },
+        "-id": "S1SZevBjzQQfS1IWgPHif7XfBkwZeDBjfX7f"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 12.9. FIBERGLASS RECYCLED CONTENT ACT OF 1991 "
+        },
+        "-id": "ByuZgDBjfmXfSktbgDrsfQmfSy9bgPBjG7Qz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 13. ENVIRONMENTAL QUALITY "
+        },
+        "-id": "SyjbxvHoMQ7MHk3blDBozXXzSJaWxDHof7QG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 13.5. CALIFORNIA ENVIRONMENTAL PROTECTION PROGRAM "
+        },
+        "-id": "r1A-eDrjfXQfrkyflDHof7mMH1xMePHjfXQG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 14. THE VENTURA-LOS ANGELES MOUNTAIN AND COASTAL STUDY COMMISSION "
+        },
+        "-id": "H1WMeDBiMXQMBJGflDroM7mGHyXMgwHiM7XM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 15. ENERGY CONSERVATION AND DEVELOPMENT "
+        },
+        "-id": "ByEfgDrof7XGB1BGgDSoMXQfSyLflDrofm7f"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 16. CALIFORNIA ALTERNATIVE ENERGY AND ADVANCED TRANSPORTATION FINANCING AUTHORITY ACT "
+        },
+        "-id": "H1vGgDHszXXfSJ_zxwHiMXXMB1FfgwSszQmM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 16.3. CLEAN ENERGY JOB CREATION "
+        },
+        "-id": "Bk9MePSjMQXfH1jzxPHsGXXzBkhGgPrjMXXM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 16.5. ENERGY AND RESOURCES FUND "
+        },
+        "-id": "SJTGewSsMXQzrJAGxvroG7mMHJkXgvBiMmQf"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 17. GEOLOGIC HAZARD ABATEMENT DISTRICTS "
+        },
+        "-id": "B1gXxwrof7QzrJbQewriGmmGHyfQePHszmXG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 18. MORRO BAY MANAGEMENT PLAN "
+        },
+        "-id": "S1XXevrsGQXfSyNXgPBsGmXzBJHmewriM7QM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 19. SUISUN MARSH PRESERVATION "
+        },
+        "-id": "BkI7lPBjz7mzryDXlDHsf7mzSJuQxPHsz7XG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 19.5. DELTA PROTECTION ACT OF 1992 "
+        },
+        "-id": "H1YmgwHjMmQfSJqQgProMmXfrkoXevHizQQM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 20. CALIFORNIA COASTAL ACT "
+        },
+        "-id": "Skh7gwSjf77fryTmxwSifXXGrkCmxPrjzQXz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 20.4. WATERSHED, CLEAN BEACHES, AND WATER QUALITY ACT "
+        },
+        "-id": "SyJNevHoMXQGSkgEgwrofmXzry-VePSjfQQM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 20.5. OCEAN USE PLANNING "
+        },
+        "-id": "ByzNxPHjz7XzrymVxDBjfX7zHkEEgDroGQQz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 20.6. Planning for Sea Level Rise Database "
+        },
+        "-id": "ryBExDSoMmQzHJUVlDSozXQzHJwElvBofQQM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 20.7. SANTA MONICA BAY RESTORATION "
+        },
+        "-id": "rJuNgvSsf7QMrytNewBiGmXGBkcVePriGm7M"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 21. STATE COASTAL CONSERVANCY "
+        },
+        "-id": "rJiNxvHjzQ7zSJhVePHofX7GBkaEgDBiM7Qz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 22. CALIFORNIA URBAN WATERFRONT AREA RESTORATION FINANCING AUTHORITY ACT "
+        },
+        "-id": "r1RNgDriG7XMHJkrgDBiGXQzr1grxDrsfmXf"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 22.3. SACRAMENTO-SAN JOAQUIN DELTA CONSERVANCY"
+        },
+        "-id": "rk-BlvrsfmXfH1GSePSsz7XMS17revrifQ7z"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 22.5. SAN JOAQUIN RIVER CONSERVANCY "
+        },
+        "-id": "ryESxvSiMQ7MHkBHxwSoMXmMrkLHgDHsG7mz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 22.7. BALDWIN HILLS CONSERVANCY ACT "
+        },
+        "-id": "B1vSlPBifXXGBJdSxwrjMX7GSkKrxPSiMmQM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 22.8. SAN GABRIEL AND LOWER LOS ANGELES RIVERS AND MOUNTAINS CONSERVANCY "
+        },
+        "-id": "r19SevHiMQQzH1iBePHoG7mfrk2HlwBsfmQM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 22.9. SAN DIEGO RIVER CONSERVANCY "
+        },
+        "-id": "rkpSxProMXmzB10BxPBizXXMSJyUxPSoz7Xz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 23. SANTA MONICA MOUNTAINS CONSERVANCY "
+        },
+        "-id": "SJg8lPBiGmmzHy-Lewrofm7zSkz8gDBiGmXz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 23.3. SIERRA NEVADA CONSERVANCY "
+        },
+        "-id": "rk7LlPBsM77GS1EUgDHiz7QGBkSIgvrjM7mM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 23.5. COACHELLA VALLEY MOUNTAINS CONSERVANCY "
+        },
+        "-id": "BkIIeDSsMmXzHyw8eDSjMmXGHyuIlDHoG7XM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 23.7. PRESERVATION OF FUTURE TRANSPORTATION OPTIONS "
+        },
+        "-id": "ryYIePrsMm7GS198evrsM7XfHki8gDHoM77f"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 24. RENEWABLE RESOURCES INVESTMENT PROGRAM "
+        },
+        "-id": "Sy3IgvBjz77MS1TIxDBoMX7zS1CIeDHofQmz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 25. COASTAL RESOURCES AND ENERGY ASSISTANCE "
+        },
+        "-id": "B11wxPSifmXfByePgwrsGXXGBJWwxDBsfQXG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 26. SANTA CLARA VALLEY OPEN-SPACE AUTHORITY "
+        },
+        "-id": "H1Mwlvrsf7QfHJ7PlPBozQmGr1VPlDBiGmQG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 26.5. CALIFORNIA OCEAN PROTECTION ACT "
+        },
+        "-id": "S1BPlPrjMm7MBJUPgvBizXmfrkDPeDHoMmQf"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 27. OCEAN RESOURCES MANAGEMENT "
+        },
+        "-id": "SkdveDHsMQ7GB1FDewBsfXQGH1cvgwHjGmXz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 28. NATURAL HERITAGE PRESERVATION TAX CREDIT ACT OF 2000 "
+        },
+        "-id": "S1oDlDHjGQXfBk3DlDSiMQQMrJpDeDrsM7mG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 30. WASTE MANAGEMENT "
+        },
+        "-id": "r1CwxwBjMXXzrJkdgPBozQQfHkxdxPrjGmmM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 31. WASTE MANAGEMENT FACILITIES "
+        },
+        "-id": "BJb_gvBjzmQzr1zdxPHoGXmzH1X_lPHifm7z"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 33. GLASS CONTAMINATION "
+        },
+        "-id": "SJVdeDHoz7mGBJH_lwHjM7Xzry8OgvBoMXmG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 34. ENVIRONMENTAL PROTECTION "
+        },
+        "-id": "rkP_lvrjMQ7GB1O_xvBsG7mMH1K_gwrjfQQz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 36. MARINE INVASIVE SPECIES ACT "
+        },
+        "-id": "HJ9_xDHjMQXzBksueDSsMm7MB12_ePBjMQXM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 37. CALIFORNIA ENDOWMENT FOR MARINE PRESERVATION "
+        },
+        "-id": "ryadlDriz77fryROlDSifXXMSJ1txPSof7mM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 38. CALIFORNIA CLEAN COAST ACT "
+        },
+        "-id": "rklKgwHizmQzBy-tevHszmmfHJfKlPSsMXXz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 43. THE SAFE DRINKING WATER, WATER QUALITY AND SUPPLY, FLOOD CONTROL, RIVER AND COASTAL PROTECTION BOND ACT OF 2006 "
+        },
+        "-id": "SkmtgwBiz7QzSJNKeDHizmQfrkHKxPBjfmQM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 44. Transit, Affordable Housing, and Sustainable Communities Program "
+        },
+        "-id": "SJ8FxDrszXmzS1DFxDHsMXXMSkOFxwHizQQM"
+      }
+    ]
+  }
+}

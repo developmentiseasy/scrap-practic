@@ -1,0 +1,518 @@
+{
+  "stat:Level": {
+    "stat:Text": {
+      "stat:heading": "Welfare and Institutions Code - WIC ",
+      "-xmlns:stat": "https://casetext.com/stat"
+    },
+    "-id": "SJ7NANL-77Gry44RVI-X7fB1SECV8Zmmz",
+    "stat:Level": [
+      {
+        "stat:Text": {
+          "stat:heading": "GENERAL PROVISIONS"
+        },
+        "-id": "SyCz4O0GXmGr1JmEORM77GS1l7V_RGmQz",
+        "stat:Level": [
+          {
+            "stat:p": [],
+            "stat:note": "( General Provisions enacted by Stats. 1937, Ch. 369. )",
+            "-id": "ryncRfQmzHJen50z7QMHy-hcRGm7z"
+          },
+          {
+            "stat:header": "1.",
+            "stat:p": [
+              "",
+              "This act shall be known as the Welfare and Institutions Code.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "SkMn5AGX7fS1X3cCfQ7GBk4nq0fXmf"
+          },
+          {
+            "stat:header": "2.",
+            "stat:p": [
+              "",
+              "The provisions of this code, in so far as they are substantially the same as existing statutory provisions relating to the same subject matter, shall be construed as restatements and continuations thereof, and not as new enactments.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "Syrh9RMmQzSyIhq0MQmzHkP2cCGXXz"
+          },
+          {
+            "stat:header": "3.",
+            "stat:p": [
+              "",
+              "All persons who, at the time this code goes into effect, hold office under any of the acts repealed by this code, which offices are continued by this code, continue to hold the same according to the former tenure thereof.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "B1dhqRzmmMHyY25RzXXGB1qh5RGQXz"
+          },
+          {
+            "stat:header": "4.",
+            "stat:p": [
+              "",
+              "No action or proceeding commenced before this code takes effect, and no right accrued, is affected by the provisions of this code, but all procedure thereafter taken therein shall conform to the provisions of this code so far as possible.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "rJi3qAf7QzS13hc0f7XGBkahcAGQQM"
+          },
+          {
+            "stat:header": "5.",
+            "stat:p": [
+              "",
+              "Unless the context otherwise requires, the general provisions hereinafter set forth shall govern the construction of this code.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "SyR2q0zQmGHJkg3cAMXmfBJel3qAfQ7G"
+          },
+          {
+            "stat:header": "6.",
+            "stat:p": [
+              "",
+              "Division, part, chapter, article, and section headings contained herein shall not be deemed to govern, limit, modify, or in any manner affect the scope, meaning, or intent of the provisions of any division, part, chapter, article, or section hereof.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "BJWx250GmQzr1MxncAGm7fBkmx2cCM7Xz"
+          },
+          {
+            "stat:header": "7.",
+            "stat:p": [
+              "",
+              "Whenever, by the provisions of this code, a power is granted to a public officer or a duty imposed upon such an officer, the power may be exercised or the duty performed by a deputy of the officer or by a person authorized pursuant to law by the officer, unless it is expressly otherwise provided.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "By4gh5AzX7fHyBxh90MmmfB1Ug2cRf7XG"
+          },
+          {
+            "stat:header": "8.",
+            "stat:p": [
+              "",
+              "Writing includes any form of recorded message capable of comprehension by ordinary visual means. Whenever any notice, report, statement, or record is required or authorized by this code, it shall be made in writing in the English language.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "SyDghcCG7QzS1deh5CMm7frJFg35Cf77f"
+          },
+          {
+            "stat:header": "9.",
+            "stat:p": [
+              "",
+              "Whenever any reference is made to any portion of this code or of any other law of this State, such reference shall apply to all amendments and additions thereto now or hereafter made.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "Bk5x39CGm7MH1sl2cAzQmzSJ2g2cCzX7z"
+          },
+          {
+            "stat:header": "10.",
+            "stat:p": [
+              "",
+              "“Section” means a section of this code unless some other statute is specifically mentioned, and “subdivision” means a subdivision of the section in which that term appears unless some other section is expressly mentioned.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "B1TlhcRMX7Mr1Rln5RG7mfSyJ-3cCGm7M"
+          },
+          {
+            "stat:header": "11.",
+            "stat:p": [
+              "",
+              "The present tense includes the past and future tenses, and the future tense includes the present.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "H1eWnc0MQXzH1W-2c0zXXMBkf-h9CfXmM"
+          },
+          {
+            "stat:header": "12.",
+            "stat:p": [
+              "",
+              "The masculine gender includes the feminine and neuter.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "Bk7-3q0fX7zB14-29Rz7XGr1rW2cCGQ7z"
+          },
+          {
+            "stat:header": "12.2.",
+            "stat:p": [
+              "",
+              "“Spouse” includes “registered domestic partner,” as required by Section 297.5 of the Family Code.",
+              "",
+              "(Added by Stats. 2016, Ch. 50, Sec. 119.   (SB 1005)   Effective January 1, 2017.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2016, Ch. 50, Sec. 119.   (SB 1005)   Effective January 1, 2017.)",
+            "-id": "r1Lb29CzmmGrywW3qAfmQzS1Ob39CzQmz"
+          },
+          {
+            "stat:header": "13.",
+            "stat:p": [
+              "",
+              "The singular number includes the plural, and the plural number includes the singular.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "r1KW2qRzm7fBJq-n5CzXQGHJob39Cf7Xf"
+          },
+          {
+            "stat:header": "14.",
+            "stat:p": [
+              "",
+              "“County” includes “city and county.”",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "S1h-3qRG7mfrkpWnq0fQ7zBy0-25CzmQz"
+          },
+          {
+            "stat:header": "15.",
+            "stat:p": [
+              "",
+              "“Shall” is mandatory and “may” is permissive.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "SJkMnqAGQmMrkgG2cRfmmfHJWGh9CzXXG"
+          },
+          {
+            "stat:header": "16.",
+            "stat:p": [
+              "",
+              "“Oath” includes affirmation.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "HkMGncRMmQMrkmMh5Cf77zSkNz2qCfXmz"
+          },
+          {
+            "stat:header": "17.",
+            "stat:p": [
+              "",
+              "“Signature” or “subscription” includes mark when the signer or subscriber can not write, such signer’s or subscriber’s name being written near the mark by a witness who writes his own name near the signer’s or subscriber’s name; but a signature or subscription by mark can be acknowledged or can serve as a signature or subscription to a sworn statement only when two witnesses so sign their own names thereto.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "r1HGn90Mm7fB1Lfh50MmmMrJvG25CM7Xz"
+          },
+          {
+            "stat:header": "17.1.",
+            "stat:p": [
+              "",
+              "Unless otherwise provided under the provisions of this code, to the extent not in conflict with federal law, the residence of a minor person, or a nonminor dependent, as described in subdivision (v) of Section 11400, shall be determined by the following rules:",
+              "",
+              "(a) The residence of the parent with whom a child maintains his or her place of abode or the residence of any individual who has been appointed legal guardian or the individual who has been given the care or custody by a court of competent jurisdiction, determines the residence of the child.",
+              "",
+              "(b) Wherever in this section it is provided that the residence of a child is determined by the residence of the person who has custody,\n\t\t\t\t  “custody” means the legal right to custody of the child unless that right is held jointly by two or more persons, in which case “custody” means the physical custody of the child by one of the persons sharing the right to custody.",
+              "",
+              "(c) The residence of a foundling shall be deemed to be that of the county in which the child is found.",
+              "",
+              "(d) If the residence of the child is not determined under subdivision (a), (b), (c), or (e), the county in which the child is living shall be deemed the county of residence, if and when the child has had a physical presence in the county for one year.",
+              "",
+              "(e) If the child has been declared permanently free from the custody and control of his or her parents, his or her residence is the county in which the court issuing the order is situated.",
+              "",
+              "(f) If a nonminor dependent under the dependency jurisdiction or transition jurisdiction of the juvenile court is placed in a planned permanent living arrangement, as described in subdivision (i) of Section 366.3, the county in which the nonminor dependent is living may be deemed the county of residence, if and when the nonminor dependent has had a continuous physical presence in the county for one year as a nonminor dependent and the nonminor dependent expressed his or her intent to remain in that county.",
+              "",
+              "(g) If a nonminor dependent’s dependency jurisdiction has been resumed, or transition jurisdiction assumed or resumed by the juvenile court that retained general jurisdiction pursuant to subdivision (b) of Section 303, as a result of the filing of a petition pursuant to subdivision (e) of Section 388, following the granting of the petition, the county in which the nonminor dependent is living at the time the petition was filed\n\t\t\t\t  may be deemed the county of residence, if and when the nonminor dependent establishes that he or she has had a continuous physical presence in the county for one year and has expressed his or her intent to remain in that county. The period of continuous physical presence in the county shall include any period of continuous residence in the county immediately prior to the filing of the petition.",
+              "",
+              "(Amended by Stats. 2012, Ch. 846, Sec. 7.   (AB 1712)   Effective January 1, 2013.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 2012, Ch. 846, Sec. 7.   (AB 1712)   Effective January 1, 2013.)",
+            "-id": "S1dz2qRMQ7GSJtf25AfXQMrkqGh50MQ7M"
+          },
+          {
+            "stat:header": "18.",
+            "stat:p": [
+              "",
+              "If any provision of this code, or the application thereof to any person or circumstance, is held invalid, the remainder of the code, or the application of such provision to other persons or circumstances, shall not be affected thereby.",
+              "",
+              "(Enacted by Stats. 1937, Ch. 369.)",
+              ""
+            ],
+            "stat:note": "(Enacted by Stats. 1937, Ch. 369.)",
+            "-id": "SJofn90GXXzBkhf390G7XGBy6z3qRGQ7z"
+          },
+          {
+            "stat:header": "19.",
+            "stat:p": [
+              "",
+              "It is the purpose of this code, in establishing programs and services which are designed to provide protection, support or care of children, to provide protective services to the fullest extent deemed necessary by the juvenile court, probation department or other public agencies designated by the board of supervisors to perform the duties prescribed by this code to insure that the rights or physical, mental or moral welfare of children are not violated or threatened by their present circumstances or environment. Such essential services may be provided irrespective of whether the child or the family of the child is otherwise known to the responsible local agency.",
+              "",
+              "(Amended by Stats. 1967, Ch. 90.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1967, Ch. 90.)",
+            "-id": "Hk0zn5CzQQMrJJQ35RG7XzBJe7h9CMXXG"
+          },
+          {
+            "stat:header": "19.1.",
+            "stat:p": [
+              "",
+              "The purpose of the public social services for which state grants-in-aid are made to counties are:",
+              "",
+              "(a) To provide on behalf of the general public, and within the limits of public resources, reasonable support and maintenance for needy and dependent families and persons.",
+              "",
+              "(b) To provide timely and appropriate services to assist individuals develop or use whatever capacity they can maintain or achieve for self-care or self-support.",
+              "",
+              "(c) To provide protective services to handicapped or deprived persons subject to social or legal disability, and to children and others subject to exploitation jeopardizing their present or future health, opportunity for normal development or capacity for independence.",
+              "",
+              "(Added by Stats. 1963, Ch. 363.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1963, Ch. 363.)",
+            "-id": "SJ-7h50Gm7zryMmhqRzX7fr1QX35RGQXz"
+          },
+          {
+            "stat:header": "21.",
+            "stat:p": [
+              "",
+              "(a) Whenever any reference is made in any provision of this code to the “State Department of Benefit Payments” or the “Department of Benefit Payments” with respect to aid, it means the State Department of Social Services.",
+              "",
+              "Whenever any reference is made to the “State Department of Benefit Payments” or “Department of Benefit Payments” with respect to mental disorders, it means the State Department of Health Care Services. Whenever reference is made to the “State Department of Benefit Payments” or “Department of Benefit Payments” with respect to\n\t\t\t\t\t\tdevelopmental disabilities, it means the State Department of Developmental Services.",
+              "",
+              "(b) Whenever any reference is made in any provision of this code to the “State Department of Health” or the “Department of Health” with respect to health services, medical assistance, or benefits, it means the State Department of Health Care Services or the State Department of Public Health, as applicable.",
+              "",
+              "Whenever any reference is made to the “State Department of Health” or the “Department of Health” with respect to mental disorders, it means the State Department of Health\n\t\t\t\t\t\tCare Services. Whenever any reference is made to the “State Department of Health” or “Department of Health” in respect to developmental disabilities, it means the State Department of Developmental Services.",
+              "",
+              "(c) Whenever any reference is made in any provision of this code to the “Director of Benefit Payments” with respect to aid, it means the Director of Social Services.",
+              "",
+              "Whenever any reference is made to the “Director of Benefit Payments” with respect to mental disorders, it means the Director of Health Care Services. Whenever any reference is made to the “Director of Benefit Payments” with respect to developmental disabilities, it means the Director of\n\t\t\t\t\t\tDevelopmental Services.",
+              "",
+              "(d) Whenever any reference is made in any provision of this code to the “State Director of Health” or “Director of Health” with respect to health services, medical assistance, or benefits, it means the Director of Health Care Services.",
+              "",
+              "Whenever any reference is made to the “State Director of Health” or “Director of Health” with respect to mental disorders, it means the Director of\n\t\t\t\t\t\tHealth Care Services. Whenever any reference is made to the “State Director of Health” or “Director of Health” with reference to developmental disabilities, it means the Director of Developmental Services.",
+              "",
+              "(Amended by Stats. 2012, Ch. 34, Sec. 39.   (SB 1009)   Effective June 27, 2012.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 2012, Ch. 34, Sec. 39.   (SB 1009)   Effective June 27, 2012.)",
+            "-id": "SkNmh9RzXXGHJBQh9AGXXzS18m39CG7QM"
+          },
+          {
+            "stat:header": "22.",
+            "stat:p": [
+              "",
+              "Whenever in any provision of law there is a reference to Chapter 1 (commencing with Section 7000) of Division 7 of the Welfare and Institutions Code or Chapter 2 (commencing with Section 1400) of Division 2 of the Health and Safety Code, if it applies to a health facility, it shall be deemed to mean Chapter 2 (commencing with Section 1250) of Division 2 of the Health and Safety Code or if it applies to a community care facility, it shall be deemed to mean Chapter 3 (commencing with Section 1500) of Division 2 of the Health and Safety Code.",
+              "",
+              "(Added by Stats. 1976, Ch. 504.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1976, Ch. 504.)",
+            "-id": "Skwmh5Rz7QGSyuXn9CzmQfSJKmnqCfXmz"
+          },
+          {
+            "stat:header": "23.",
+            "stat:p": [
+              "",
+              "Whenever in any provision of law there is a reference to Chapter 1 (commencing with Section 7000) of Division 7 of the Welfare and Institutions Code relating to community care facilities as defined by Section 1502 of the Health and Safety Code or Chapter 1 (commencing with Section 16000) of Part 4 of Division 9 of the Welfare and Institutions Code or to Chapter 3 (commencing with Section 16200) of Part 4 of Division 9 of the Welfare and Institutions Code, it shall be deemed to mean Chapter 3 (commencing with Section 1500) of Division 2 of the Health and Safety Code.",
+              "",
+              "(Amended by Stats. 1978, Ch. 380.)",
+              ""
+            ],
+            "stat:note": "(Amended by Stats. 1978, Ch. 380.)",
+            "-id": "rJ5mhq0GmQMr1om350fmXMBknXhqRGQXM"
+          },
+          {
+            "stat:header": "24.",
+            "stat:p": [
+              "",
+              "The provisions of Chapter 1129 of the Statutes of 1975 amending Sections 17.1, 739, 883, 1050, 1711, 1760.4, 10000, 10617, 11250.5, 11307, 11310, 11325, 17102 and 18907 shall be operational to the extent they are not in conflict with federal law.",
+              "",
+              "(Added by Stats. 1976, Ch. 504.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 1976, Ch. 504.)",
+            "-id": "Hk67hqCz7mzry07hcRG7QGSkkVnc0MQQM"
+          },
+          {
+            "stat:header": "26.",
+            "stat:p": [
+              "",
+              "(a) For purposes of this code, “assessed value” means 25 percent of full value to, and including, the 1980–81 fiscal year, and 100 percent of full value for the 1981–82 fiscal year and fiscal years thereafter; and tax rates shall be expressed in dollars, or fractions thereof, on each one hundred dollars ($100) of assessed value to and including the 1980–81 fiscal year and as a percentage of full value for the 1981–82 fiscal year and fiscal years thereafter.",
+              "",
+              "(b) Whenever this code requires comparison of assessed values, tax rates or property tax revenues for different years, the assessment ratios and tax rates shall be adjusted as necessary so that the comparisons are made on the same basis, and the same amount of tax revenues would be produced, or the same relative value of an exemption or subvention will be realized regardless of the method of expressing tax rates or the assessment ratio utilized.",
+              "",
+              "(c) For purposes of expressing tax rates on the same basis, a tax rate based on a 25 percent assessment ratio and expressed in dollars, or fractions thereof, for each one hundred dollars ($100) of assessed value may be multiplied by a conversion factor of twenty-five hundredths of 1 percent to determine a rate comparable to a rate expressed as a percentage of full value; and, a rate expressed as a percentage of full value may be multiplied by a factor of 400 to determine a rate comparable to a rate expressed in dollars, or fractions thereof, for each one hundred dollars ($100) of assessed value and based on a 25 percent assessment ratio.",
+              "",
+              "(Added by renumbering Section 22 (as added by Stats. 1978, Ch. 1207) by Stats. 1986, Ch. 248, Sec. 244.)",
+              ""
+            ],
+            "stat:note": "(Added by renumbering Section 22 (as added by Stats. 1978, Ch. 1207) by Stats. 1986, Ch. 248, Sec. 244.)",
+            "-id": "H1eNhcAMXXMS1W4hcCzmmzrJMN35Rf7Xz"
+          },
+          {
+            "stat:header": "27.",
+            "stat:p": [
+              "",
+              "Each agency and department responsible for listing in regulations the rights of children under this division shall incorporate the rights of foster children, as listed in Section 16001.9 on the list.",
+              "",
+              "(Added by Stats. 2001, Ch. 683, Sec. 2.   Effective January 1, 2002.)",
+              ""
+            ],
+            "stat:note": "(Added by Stats. 2001, Ch. 683, Sec. 2.   Effective January 1, 2002.)",
+            "-id": "rym4290Gm7Grk44h90fXQzBJSV39Azm7G"
+          }
+        ]
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 1. ADMINISTRATION OF WELFARE AND INSTITUTIONS "
+        },
+        "-id": "rJZ74uCz7mfHkMXE_RfQmGHJXm4uRzQmf"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 2. CHILDREN "
+        },
+        "-id": "r1NQN_RzQmzBkSmEuAM77zS1UmEuAzQ7f"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 2.5. YOUTHS "
+        },
+        "-id": "HkDQE_Af77GBkOQEuRf7mzB1tQV_RGXXG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 3. NARCOTIC ADDICTS "
+        },
+        "-id": "rkqmEOCMXXfB1iXNORz7QzBJn7EuAMQQM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 3.5. California Health and Human Services Agency Departments: Public Notice Requirements "
+        },
+        "-id": "ByamEuRMQ7GB1074dRGX7GrJkEN_AfmmM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 4. MENTAL HEALTH "
+        },
+        "-id": "S1lENd0fQmzH1ZNNdCzQXGrJMN4dAzmQM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 4.1. DEVELOPMENTAL SERVICES "
+        },
+        "-id": "rJXVNuCf7QzSyNV4dRGQQGByrN4d0z7XM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 4.5. SERVICES FOR THE DEVELOPMENTALLY DISABLED "
+        },
+        "-id": "r1UENuCMXXfByDNN_CM7XMSJ_EEO0fmmG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 4.7. PROTECTION AND ADVOCACY AGENCY "
+        },
+        "-id": "SJt4VuRfmXMHk9N4_RMXmzSys4NuCzm7G"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 5. COMMUNITY MENTAL HEALTH SERVICES "
+        },
+        "-id": "r13VV_CGXQMBkaEVOCMX7MHyC4EORfm7z"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 6. ADMISSIONS AND JUDICIAL COMMITMENTS "
+        },
+        "-id": "H11H4ORzmmMS1eHV_0G7XGrJZr4OCGXXf"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 7. MENTAL INSTITUTIONS "
+        },
+        "-id": "B1fHNuAzQXzBJmrEuCzXXzrJNBN_RGQXG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 8. MISCELLANEOUS "
+        },
+        "-id": "rJrHVOCMmQMrkIr4_CzmmzSkvHVuRfXmz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 8.5. MELLO-GRANLUND OLDER CALIFORNIANS ACT "
+        },
+        "-id": "SkdrV_CMm7GBktSEdRGXXMByqS4_0z77z"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 9. PUBLIC SOCIAL SERVICES "
+        },
+        "-id": "BkjSVd0MQ7GHJnB4_RM7XfSJaHVuRzXXz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 10. STATE DEPARTMENT OF REHABILITATION "
+        },
+        "-id": "Sk0HNO0GQ7frykIN_CG7mzS1gI4OCfmQM"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 12. CALIFORNIA PARTNERSHIP FOR LONG-TERM CARE "
+        },
+        "-id": "Hk-LVORGmQGSJzIV_0fQ7MH17LN_Rf7Xf"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 24. STATE-ONLY FAMILY PLANNING PROGRAM "
+        },
+        "-id": "Bk484dAzQmfSyBIEORz7XzS1UINOCzmQG"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 25. HEALTH CARE COVERAGE "
+        },
+        "-id": "BJDIEuAfX7zSydLEdAzm7zrJtLNO0GQQz"
+      },
+      {
+        "stat:Text": {
+          "stat:heading": "DIVISION 26. NATURALIZATION SERVICES PROGRAM "
+        },
+        "-id": "SkqLVOAzQ7Mr1sIVO0zXmGHJnL4d0zXXf"
+      }
+    ]
+  }
+}
