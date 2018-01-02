@@ -1,19 +1,205 @@
 {
     "stat:Document": {
         "-xmlns:stat": "https://casetext.com/stat",
-        "-id": "ryb3tfwh_QMHyz3FGP3OmGr1X3tfPnuXG",
+        "-id": "H1XbcroVYQMSJVZqSsNY7MHyH-cSoVYXf",
         "stat:Title": "California Code",
         "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
         "stat:Version": "0.1",
         "stat:Currency": "2017-07-07",
         "stat:Level": {
-            "-id": "BkE2KMvh_7zB1H3KfPhumMHJUhKMw3_7z",
+            "-id": "SyUWcHo4KXMHJDW5rj4Y7frydWcHjNYmz",
             "-depth": "3",
             "-path": "/us/californiacode/California Code/Elections Code - ELEC",
             "stat:Text": {
                 "-xmlns:stat": "https://casetext.com/stat",
-                "stat:heading": "Elections Code - ELEC"
-            }
+                "stat:Heading": "Elections Code - ELEC"
+            },
+            "stat:Level": [
+                {
+                    "-id": "BksM6Ho4YXfHJ2GarjVKXMr1pzaSjNFmG",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/ELECTIONS CODE",
+                    "stat:Text": {
+                        "stat:heading": "ELECTIONS CODE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Hy-7pBsNFXGH1zmTHjEFQGHy7QproNtmM",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 0.5. PRELIMINARY PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 0.5. PRELIMINARY PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkvmarj4F7GSJOQTroNtQzHyYmTBiNKmz",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 1. ESTABLISHED ELECTION DATES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1. ESTABLISHED ELECTION DATES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Hkp7prjEKXzSJAX6rjEYQMBkJ46BoEY7M",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 2. VOTERS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 2. VOTERS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1XNpBoEYXfHJNNpSiNFmfHyBVTSs4YmM",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 3. VOTE BY MAIL VOTING, NEW RESIDENT, AND NEW CITIZEN VOTING",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 3. VOTE BY MAIL VOTING, NEW RESIDENT, AND NEW CITIZEN VOTING",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJYNaBoEt7GSk5V6HsEY7frJiNaSiEKXM",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 4. MAIL BALLOT ELECTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 4. MAIL BALLOT ELECTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJ1STHi4KXfrkgHaBoEYmMHJZBTBjEYXG",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 5. POLITICAL PARTY QUALIFICATIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 5. POLITICAL PARTY QUALIFICATIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyrSaBsEYmzHkLBpBoVtXGHkPBaHjEFmG",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 6. PRESIDENTIAL ELECTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 6. PRESIDENTIAL ELECTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1sSTrs4YXGr13B6rjNK7zS1pHpSsEYmz",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 7. POLITICAL PARTY ORGANIZATION AND CENTRAL COMMITTEE ELECTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 7. POLITICAL PARTY ORGANIZATION AND CENTRAL COMMITTEE ELECTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BJZUTBiVFmMBJfIpBjVtXzrJQUpBoNK7M",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 8. NOMINATIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 8. NOMINATIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkwLaHoNK7fSJuL6So4YmMSyKLTriNFQz",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 9. MEASURES SUBMITTED TO THE VOTERS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 9. MEASURES SUBMITTED TO THE VOTERS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyaIpSj4tmfByCUpHo4KQfHyJD6BjVtXz",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 10. LOCAL, SPECIAL, VACANCY, AND CONSOLIDATED ELECTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10. LOCAL, SPECIAL, VACANCY, AND CONSOLIDATED ELECTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ByXPTBsEK7zr1VDTroNF7frySw6BiVYXM",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 11. RECALL ELECTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 11. RECALL ELECTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkFwpSsEF7zr1cDaSsVtXfByowarj4FXM",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 12. PREELECTION PROCEDURES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 12. PREELECTION PROCEDURES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Syyu6rjEtQfSkldaroEKXMHJZdaSjVKmz",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 13. BALLOTS, SAMPLE BALLOTS, AND VOTER PAMPHLETS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 13. BALLOTS, SAMPLE BALLOTS, AND VOTER PAMPHLETS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJBdaHsNtQzSJ8O6BsNK7MHJvupBs4Kmz",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 14. ELECTION DAY PROCEDURES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 14. ELECTION DAY PROCEDURES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1j_pBiNYmfHk3uprjVYmzSJaO6BiNF7z",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 15. SEMIFINAL OFFICIAL CANVASS, OFFICIAL CANVASS, RECOUNT, AND TIE VOTE PROCEDURES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 15. SEMIFINAL OFFICIAL CANVASS, OFFICIAL CANVASS, RECOUNT, AND TIE VOTE PROCEDURES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Sk-K6HoNF7GH1GtaBi4tmMr17KTSsEKXM",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 16. ELECTIONS CONTESTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 16. ELECTIONS CONTESTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SywKpSo4KmGrJuYTrsNtQfHkYt6BsVF7f",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 17. RETENTION AND PRESERVATION OF ELECTION RECORDS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 17. RETENTION AND PRESERVATION OF ELECTION RECORDS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJTKpHiEt7zryAF6riEKmMrkk5pSsEYmG",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 18. PENAL PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 18. PENAL PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkQ5prjNt7GHJ4q6ro4Y7zS1HqpSiNK7z",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 19. CERTIFICATION OF VOTING SYSTEMS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 19. CERTIFICATION OF VOTING SYSTEMS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyFq6BsVFXfS1q5pSoNYXGSkiqari4FQG",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 20. ELECTION CAMPAIGNS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20. ELECTION CAMPAIGNS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryJopSj4FQfrkxsTBi4tQMSkbipBoEYQz",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 21. STATE AND LOCAL REAPPORTIONMENT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 21. STATE AND LOCAL REAPPORTIONMENT",
+                        "stat:Level": []
+                    }
+                }
+            ]
         }
     }
 }

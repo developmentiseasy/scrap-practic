@@ -1,19 +1,133 @@
 {
     "stat:Document": {
         "-xmlns:stat": "https://casetext.com/stat",
-        "-id": "ryaFKfDhOXMry0KFfvhd7MS11qKMv3_QG",
+        "-id": "SJ9SoEFQMB1x9HiNt7zS1Z5SoNFQM",
         "stat:Title": "California Code",
         "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
         "stat:Version": "0.1",
         "stat:Currency": "2017-07-07",
         "stat:Level": {
-            "-id": "SJxqtMD2uQMrkZqYzDhu7GB1f9YMP2dmz",
+            "-id": "S1G5rsNFQMSJmcHi4KXGBJ49SsEFXf",
             "-depth": "3",
             "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
             "stat:Text": {
                 "-xmlns:stat": "https://casetext.com/stat",
-                "stat:heading": "Business and Professions Code - BPC"
-            }
+                "stat:Heading": "Business and Professions Code - BPC"
+            },
+            "stat:Level": [
+                {
+                    "-id": "SJK-3BsNKmMHk5WhHoVFXzrJobnrsEY7G",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/GENERAL PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "GENERAL PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkJznSjNt7zBygGhHo4tQfSJbGnHiVFmz",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 1. DEPARTMENT OF CONSUMER AFFAIRS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1. DEPARTMENT OF CONSUMER AFFAIRS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1Bz2SiNt7GHyIz3BiNYQzSJPGhBoVFXz",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 1.5. DENIAL, SUSPENSION AND REVOCATION OF LICENSES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.5. DENIAL, SUSPENSION AND REVOCATION OF LICENSES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1iG3ri4FQMHy2z2HoNFmzSk6fnrsVFmz",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 2. HEALING ARTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 2. HEALING ARTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJZX3BiVYXfH1zQ3HjVF7Mr1XXhrjNYQM",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 3. PROFESSIONS AND VOCATIONS GENERALLY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 3. PROFESSIONS AND VOCATIONS GENERALLY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJvmnBoNYQGSydm2HiVYXMrktmnSs4K7M",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 4. REAL ESTATE",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 4. REAL ESTATE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1pm3HiVK7fByCmhBiEYQzHk1V2HjEKQM",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 5. WEIGHTS AND MEASURES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 5. WEIGHTS AND MEASURES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Bkm4nrs4K7GByNV3rsEtQGrJSNnSjNK7G",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 6. BUSINESS RIGHTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 6. BUSINESS RIGHTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1FNhSsNKQGSk5EnSs4FQGBkjNnBiNFmM",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 7. GENERAL BUSINESS REGULATIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 7. GENERAL BUSINESS REGULATIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryJHnBiEK7fHJer2SsEFQzHk-r3BsEF7M",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 8. SPECIAL BUSINESS REGULATIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 8. SPECIAL BUSINESS REGULATIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S1HB3HjEYQfBkISnSjVtXMrkvSnro4FXf",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 8.5. STOP TOBACCO ACCESS TO KIDS ENFORCEMENT ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 8.5. STOP TOBACCO ACCESS TO KIDS ENFORCEMENT ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HkoS3SsNF7zS13rhBoNFmMSkTSnHoNtmG",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 8.6. CIGARETTE AND TOBACCO PRODUCTS LICENSING ACT OF 2003",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 8.6. CIGARETTE AND TOBACCO PRODUCTS LICENSING ACT OF 2003",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkZL3SoEtQGHJfIhriVFXGSyXUhroNFmG",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 9. ALCOHOLIC BEVERAGES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 9. ALCOHOLIC BEVERAGES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJvI3BoEFXfHkO82HoEK7zHyY82Bs4YXM",
+                    "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 10. Cannabis",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10. Cannabis",
+                        "stat:Level": []
+                    }
+                }
+            ]
         }
     }
 }

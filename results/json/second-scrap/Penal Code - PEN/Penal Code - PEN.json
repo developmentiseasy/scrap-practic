@@ -1,19 +1,493 @@
 {
     "stat:Document": {
         "-xmlns:stat": "https://casetext.com/stat",
-        "-id": "SyKgxtzw3OXfByclxtGv3OXGByoxxFzwh_mz",
+        "-id": "Syor5SjEtmzHkhrqrsEKmMHyaBqHs4tQf",
         "stat:Title": "California Code",
         "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
         "stat:Version": "0.1",
         "stat:Currency": "2017-07-07",
         "stat:Level": {
-            "-id": "B1hgetMwhO7GH16llFzvnumMHJCexYGv3u7M",
+            "-id": "ByCBcHjNYXfBkk8cHi4YmfS1lUcSjVKmf",
             "-depth": "3",
             "-path": "/us/californiacode/California Code/Penal Code - PEN",
             "stat:Text": {
                 "-xmlns:stat": "https://casetext.com/stat",
-                "stat:heading": "Penal Code - PEN"
-            }
+                "stat:Heading": "Penal Code - PEN"
+            },
+            "stat:Level": [
+                {
+                    "-id": "SyWSlyUsEtQfSJGrxk8sEK7zrkmrxJUj4FQG",
+                    "-path": "/us/californiacode/California Code/Penal Code - PEN/TITLE OF THE ACT",
+                    "stat:Text": {
+                        "stat:heading": "TITLE OF THE ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkwBlyIiEFmzHyuBgkUoEYQzHyFreyIiEY7f",
+                    "-path": "/us/californiacode/California Code/Penal Code - PEN/THE PENAL CODE OF CALIFORNIA",
+                    "stat:Text": {
+                        "stat:heading": "THE PENAL CODE OF CALIFORNIA",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Sk6Sg1UjNYXfryCrlyIjNK7fHJJLl1IjEK7M",
+                    "-path": "/us/californiacode/California Code/Penal Code - PEN/PRELIMINARY PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "PRELIMINARY PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkQ8lyIjNFXMr1VUxk8s4YmGSJBIeyLsNYmf",
+                    "-path": "/us/californiacode/California Code/Penal Code - PEN/PART 1. OF CRIMES AND PUNISHMENTS",
+                    "stat:Text": {
+                        "stat:heading": "PART 1. OF CRIMES AND PUNISHMENTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkFIgkUs4KXzHy98xJ8sVtQfrkiIly8i4YmG",
+                    "-path": "/us/californiacode/California Code/Penal Code - PEN/PART 2. OF CRIMINAL PROCEDURE",
+                    "stat:Text": {
+                        "stat:heading": "PART 2. OF CRIMINAL PROCEDURE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJywgk8iEY7fBkgvxyIj4t7fryZvl18oEtQM",
+                    "-path": "/us/californiacode/California Code/Penal Code - PEN/PART 3. OF IMPRISONMENT AND THE DEATH PENALTY",
+                    "stat:Text": {
+                        "stat:heading": "PART 3. OF IMPRISONMENT AND THE DEATH PENALTY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1HPlyUiVYXMrJUvx18oEFXfr1vDgyUjEYXG",
+                    "-path": "/us/californiacode/California Code/Penal Code - PEN/PART 4. PREVENTION OF CRIMES AND APPREHENSION OF CRIMINALS",
+                    "stat:Text": {
+                        "stat:heading": "PART 4. PREVENTION OF CRIMES AND APPREHENSION OF CRIMINALS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJsPgJLo4YmGBJhvx1IiEt7MSJpwe18jVYQz",
+                    "-path": "/us/californiacode/California Code/Penal Code - PEN/PART 5. PEACE OFFICERS' MEMORIAL",
+                    "stat:Text": {
+                        "stat:heading": "PART 5. PEACE OFFICERS' MEMORIAL",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyZugyIoVY7GryGOlkUiEK7zBJmdl18jNFQz",
+                    "-path": "/us/californiacode/California Code/Penal Code - PEN/PART 6. CONTROL OF DEADLY WEAPONS",
+                    "stat:Text": {
+                        "stat:heading": "PART 6. CONTROL OF DEADLY WEAPONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJrGJLiVY7zSJLzyUjVFQMHJvzJUj4YXG",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 8. CEMETERIES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 8. CEMETERIES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1oMyUiNtQfH13zJIjVYQfHkafy8oEK7z",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 10. UNIFORM CONTROLLED SUBSTANCES ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10. UNIFORM CONTROLLED SUBSTANCES ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1-m1IjNYQfryM7JUoNKQzryQmkUoVKQG",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 10.2. DRUG DEALER LIABILITY ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10.2. DRUG DEALER LIABILITY ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJPQJLsVFQGHkdmyIi4tmGSJYm1Ls4tmf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 10.5.ALCOHOL AND DRUG PROGRAMS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10.5.ALCOHOL AND DRUG PROGRAMS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJaQyIjVtXMByR71Ii4Y7MSkkVy8sNtXM",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 10.6. DRUG AND ALCOHOL ABUSE MASTER PLANS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10.6. DRUG AND ALCOHOL ABUSE MASTER PLANS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1QVJ8oVKQfH14NJ8sVt7GB1HVk8sEFQf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 10.7. ILLEGAL USE OF DRUGS AND ALCOHOL",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10.7. ILLEGAL USE OF DRUGS AND ALCOHOL",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkYEkIoVK7fBk5VkUiNFmGS1jEkLjVtXM",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 10.8. SUBSTANCE ABUSE TREATMENT FUNDING",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10.8. SUBSTANCE ABUSE TREATMENT FUNDING",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HkJSyLi4YQMSkgBJ8oEK7frJ-H18j4tmz",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 10.9. SUBSTANCE ABUSE TESTING AND TREATMENT ACCOUNTABILITY PROGRAM",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10.9. SUBSTANCE ABUSE TESTING AND TREATMENT ACCOUNTABILITY PROGRAM",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ByHBkUjEtXfrkIS1UsNFXzryvBJLjVYmf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 11. EXPLOSIVES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 11. EXPLOSIVES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJiBkUjEtQMrJnH1IiNY7MSkTSyUoNtmz",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 12. FIRES AND FIRE PROTECTION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 12. FIRES AND FIRE PROTECTION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Hk-I1UsEtQfSJML1UsVtXGSJXUy8oNKQG",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 12.5. BUILDINGS USED BY THE PUBLIC",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 12.5. BUILDINGS USED BY THE PUBLIC",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyPI1IoNYQGSyu8JIjVFQMH1KUJ8iNKQM",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 13. HOUSING",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 13. HOUSING",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BypIkUiVKmGSkCLy8sVtmGryywkLjVKXz",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 14. POLICE PROTECTION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 14. POLICE PROTECTION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkXD1Is4KQfHJNPJLo4FXzHyHP1IsVKQf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 20. MISCELLANEOUS HEALTH AND SAFETY PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20. MISCELLANEOUS HEALTH AND SAFETY PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ByFDyUiVKXzBJ5wyUiNtmGrJsv1UiVFmM",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 23. HOSPITAL DISTRICTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 23. HOSPITAL DISTRICTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkyOkUiEFmzSkx_kLoEKmzSkZ_J8iEtXf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 23.5. ENDOWMENT HOSPITALS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 23.5. ENDOWMENT HOSPITALS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkHOkLjNYmfrJIukIjNYQzrkv_yLi4FXf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 24. COMMUNITY DEVELOPMENT AND HOUSING",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 24. COMMUNITY DEVELOPMENT AND HOUSING",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1suyUj4YXfS1n_1LiVFmGH1TO1LjVK7M",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 25. HEALTH AND WELFARE AGENCY—DIRECT SERVICE CONTRACTS REFORM ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 25. HEALTH AND WELFARE AGENCY—DIRECT SERVICE CONTRACTS REFORM ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyWtJUjNY7zH1GK1UiNKQGHkmYkLi4K7M",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 25.1. HEALTH AND WELFARE AGENCY—ADMINISTRATIVE APPEALS PROCESS FOR NONPROFIT HUMAN SERVICES AGENCIES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 25.1. HEALTH AND WELFARE AGENCY—ADMINISTRATIVE APPEALS PROCESS FOR NONPROFIT HUMAN SERVICES AGENCIES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HkDKkLo4YQMHkuFJIs4YQGBktFy8iVtQz",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 25.2. STATE DEPARTMENT OF HEALTH SERVICES COOPERATIVE AGREEMENT ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 25.2. STATE DEPARTMENT OF HEALTH SERVICES COOPERATIVE AGREEMENT ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1atyLo4YQMryCFJ8o4FmzHJyqkUs4Y7G",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 25.5. CALIFORNIA GLOBAL WARMING SOLUTIONS ACT OF 2006",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 25.5. CALIFORNIA GLOBAL WARMING SOLUTIONS ACT OF 2006",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1m9JIsVFXMBJE5JLsEK7GrJr5JUoNK7M",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 26. AIR RESOURCES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 26. AIR RESOURCES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HkF9JLoVtmzrJccyLi4tXfSki5JUsEFXz",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 27. CALIFORNIA POLLUTION CONTROL FINANCING AUTHORITY ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 27. CALIFORNIA POLLUTION CONTROL FINANCING AUTHORITY ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkysJ8iEtmfH1xj1LiEKXzB1WiyIoNKXf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 28. NOISE CONTROL ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 28. NOISE CONTROL ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkriJLsEK7fHkUs1Lo4Y7zHyPsyUoEYmM",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 31. HOUSING AND HOME FINANCE",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 31. HOUSING AND HOME FINANCE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyisyIo4Y7zSJnskUsVtXzr1ai1IjEYQG",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 32. SEISMIC SAFETY BUILDING REHABILITATION LOANS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 32. SEISMIC SAFETY BUILDING REHABILITATION LOANS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkbhkUoEtmMSyM218sNt7zH17h1Uo4FQG",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 37. REGULATION OF ENVIRONMENTAL PROTECTION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 37. REGULATION OF ENVIRONMENTAL PROTECTION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkP3JIj4KQzByO3kLjNtmGH1thyIoVtXf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 37.5. REPAIR OR MAINTENANCE PROJECTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 37.5. REPAIR OR MAINTENANCE PROJECTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Hy62y8sNtmzr1C3yIsEYXMryJTyUsVKmG",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/[DIVISION 38. ]",
+                    "stat:Text": {
+                        "stat:heading": "[DIVISION 38. ]",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJ7aJUoVKXMrJEpyIoVtmzH1Sa1IiEKQG",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/[DIVISION 39. ]",
+                    "stat:Text": {
+                        "stat:heading": "[DIVISION 39. ]",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BJt6kIj4t7fH19p1LiEYXzr1iaJ8sNYXG",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 101. ADMINISTRATION OF PUBLIC HEALTH",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 101. ADMINISTRATION OF PUBLIC HEALTH",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Hky0J8sNtmzH1eAkIiVtmMr1WAkUo4tmG",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 102. VITAL RECORDS AND HEALTH STATISTICS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 102. VITAL RECORDS AND HEALTH STATISTICS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BJBCy8sNtXMHJ80y8iEKQGryPAJ8sEKQf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 103. DISEASE PREVENTION AND HEALTH PROMOTION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 103. DISEASE PREVENTION AND HEALTH PROMOTION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJo0k8iNF7MSy2AJLjNF7fHk60yUjVFXM",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 104. ENVIRONMENTAL HEALTH",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 104. ENVIRONMENTAL HEALTH",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rybyl1Io4YQzB1z1xk8sNK7MrkQklkUiVt7M",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 105. COMMUNICABLE DISEASE PREVENTION AND CONTROL",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 105. COMMUNICABLE DISEASE PREVENTION AND CONTROL",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJDkeJIj4YQzH1_klyUoEFXzr1Fkl1IjNtmz",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 106. PERSONAL HEALTH CARE (INCLUDING MATERNAL, CHILD, AND ADOLESCENT)",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 106. PERSONAL HEALTH CARE (INCLUDING MATERNAL, CHILD, AND ADOLESCENT)",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Byp1lJUjNFmGBkR1lJ8oNKmzr11lekIo4tQf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 107. STATEWIDE HEALTH PLANNING AND DEVELOPMENT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 107. STATEWIDE HEALTH PLANNING AND DEVELOPMENT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyQll1IsEFQGr1EeekLsNYQMrJSglJUsEt7M",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 108. CALIFORNIA CHILDREN AND FAMILIES PROGRAM",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 108. CALIFORNIA CHILDREN AND FAMILIES PROGRAM",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyYlgJUoVYQMHk5ggkIoNKQzH1jxxy8iVt7f",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 109. OFFICE OF HEALTH INFORMATION INTEGRITY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 109. OFFICE OF HEALTH INFORMATION INTEGRITY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "By1-x18iVt7MSkeZly8sVYQMBk--ly8s4KQf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 109.5. CALIFORNIA HEALTH INFORMATION TECHNOLOGY AND EXCHANGE ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 109.5. CALIFORNIA HEALTH INFORMATION TECHNOLOGY AND EXCHANGE ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyBZgJIjNKmfr18-lkIiNY7MHkPbly8j4Ymf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 109.6. HEALTH INFORMATION EXCHANGE PRIVACY AND SECURITY DEMONSTRATION PROJECTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 109.6. HEALTH INFORMATION EXCHANGE PRIVACY AND SECURITY DEMONSTRATION PROJECTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BJiWly8iEYmzBk3ZgJLsNFmMS1TblyLsNtQf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 110. THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY IMPLEMENTATION ACT OF 2001",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 110. THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY IMPLEMENTATION ACT OF 2001",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SybGekUjVFmMryzzlJLj4Y7MHJ7zgJUj4tmf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 111. GOLDEN BEAR STATE PHARMACY ASSISTANCE PROGRAM",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 111. GOLDEN BEAR STATE PHARMACY ASSISTANCE PROGRAM",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkDfgJLiVFQMHy_GgJIoVKmfHkYfeyLiVY7G",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 112. CALIFORNIA DISCOUNT PRESCRIPTION DRUG PROGRAM",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 112. CALIFORNIA DISCOUNT PRESCRIPTION DRUG PROGRAM",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BJTzxJUsVFQfH1RzgJLoEtQzSkyQl1UiNKmf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 112. PUBLIC HEALTH",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 112. PUBLIC HEALTH",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJXXxy8s4KXzr1EXgJ8oNt7GrJSQl1IiNtmG",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 113. THE ADULT HEALTH COVERAGE EXPANSION PROGRAM",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 113. THE ADULT HEALTH COVERAGE EXPANSION PROGRAM",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryF7lJ8jVK7fH1c7xy8j4KXzH1smxkUiVFmf",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 114. Prescription Drug Discount Prohibition",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 114. Prescription Drug Discount Prohibition",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkJVe1IoVtXGB1lVlyIsVK7zrkZNgJUsEKXM",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 115. OFFICE OF PATIENT ADVOCATE",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 115. OFFICE OF PATIENT ADVOCATE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1S4eyIiNtmGr18El18iNF7fryDEl1IsVY7z",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 116. SURPLUS MEDICATION COLLECTION AND DISTRIBUTION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 116. SURPLUS MEDICATION COLLECTION AND DISTRIBUTION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "H1sVlyIoEt7GSknEx1UsEKQzB1aEekUjVK7f",
+                    "-path": "/us/californiacode/California Code/Health and Safety Code - HSC/DIVISION 120.SEXUAL HEALTH EDUCATION ACCOUNTABILITY ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 120.SEXUAL HEALTH EDUCATION ACCOUNTABILITY ACT",
+                        "stat:Level": []
+                    }
+                }
+            ]
         }
     }
 }

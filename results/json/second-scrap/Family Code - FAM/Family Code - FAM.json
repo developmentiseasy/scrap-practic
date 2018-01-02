@@ -1,19 +1,205 @@
 {
     "stat:Document": {
         "-xmlns:stat": "https://casetext.com/stat",
-        "-id": "BkphKGP3uXfSkAntGPnOXGH1JpYzvn_7z",
+        "-id": "HkyMqHiNF7frylG9SoVKQfSJWMqBj4K7G",
         "stat:Title": "California Code",
         "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
         "stat:Version": "0.1",
         "stat:Currency": "2017-07-07",
         "stat:Level": {
-            "-id": "HJeaYfD3_QfHkZTKfwnuQMrJzaYMvhu7G",
+            "-id": "HyGfqrs4K7GBJmz5So4K7fHkNz9HsEK7M",
             "-depth": "3",
             "-path": "/us/californiacode/California Code/Family Code - FAM",
             "stat:Text": {
                 "-xmlns:stat": "https://casetext.com/stat",
-                "stat:heading": "Family Code - FAM"
-            }
+                "stat:Heading": "Family Code - FAM"
+            },
+            "stat:Level": [
+                {
+                    "-id": "SJpyxpBsNKQMSyAyeTSi4FmMHy1eg6riVF7z",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/FAMILY CODE",
+                    "stat:Text": {
+                        "stat:heading": "FAMILY CODE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkQxearjEKQfSyEexaroEFQzByBgxTSo4KQf",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 1. PRELIMINARY PROVISIONS AND DEFINITIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1. PRELIMINARY PROVISIONS AND DEFINITIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BJFgxaSoEKQGryqxlTSs4YXzSkjegTHsEK7G",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 2. GENERAL PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 2. GENERAL PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rykWxTrsVYXMr1lZx6BsEKQzHy-bxTSi4t7G",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 2.5. DOMESTIC PARTNER REGISTRATION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 2.5. DOMESTIC PARTNER REGISTRATION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BySWlpSsVYXzBkIZepriNFXzSyvWl6Hs4FmM",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 3. MARRIAGE",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 3. MARRIAGE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyoZxaHjEYQfHJ3-xaHjNFXfHJpWe6HjVYXz",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 4. RIGHTS AND OBLIGATIONS DURING MARRIAGE",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 4. RIGHTS AND OBLIGATIONS DURING MARRIAGE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S1Zflaro4YXzB1ffgTrjVKXMSkQMeaBsVKXM",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 5. CONCILIATION PROCEEDINGS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 5. CONCILIATION PROCEEDINGS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJPGxpHiVtXGrk_flaHiNKmGr1YGl6riVtmz",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 6. NULLITY, DISSOLUTION, AND LEGAL SEPARATION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 6. NULLITY, DISSOLUTION, AND LEGAL SEPARATION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJ6MlaBsNYXMS10zl6Hs4KXGBk17g6Bi4KQz",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 7. DIVISION OF PROPERTY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 7. DIVISION OF PROPERTY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rk7QgaBo4tXfSy4QxTHjEFXGH1S7xaSjNF7M",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 8. CUSTODY OF CHILDREN",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 8. CUSTODY OF CHILDREN",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryF7e6roEFQfB1cQeTroEK7GBJsQxaBiEKXM",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 9. SUPPORT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 9. SUPPORT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S1J4g6BjNtQzBkeNgTrs4YQMSkZExpBiEKQM",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 10. PREVENTION OF DOMESTIC VIOLENCE",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10. PREVENTION OF DOMESTIC VIOLENCE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkBEeTSiVtXzHJ8VgTBiNtmfB1DNeaBoVFXG",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 11. MINORS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 11. MINORS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyiElTHoVK7GBynNlTSsNYQGrkTElpBjEKXG",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 12. PARENT AND CHILD RELATIONSHIP",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 12. PARENT AND CHILD RELATIONSHIP",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rk-rgaHiNtQGr1MBe6HoNF7MH17SgpBoNFXM",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 13. ADOPTION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 13. ADOPTION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ByvBlTBsNFmfBkOHg6Hi4F7MBktSg6Sj4F7M",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 14. FAMILY LAW FACILITATOR ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 14. FAMILY LAW FACILITATOR ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HkaSl6riVKmGBkAHgpBj4t7zB1kIeTHsVFXM",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 17. SUPPORT SERVICES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 17. SUPPORT SERVICES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S1QIlpSiVKQMryELe6HoVYXGHyB8gproEKmG",
+                    "-path": "/us/californiacode/California Code/Family Code - FAM/DIVISION 20. PILOT PROJECTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20. PILOT PROJECTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SywKpSo4KmGrJuYTrsNtQfHkYt6BsVF7f",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 17. RETENTION AND PRESERVATION OF ELECTION RECORDS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 17. RETENTION AND PRESERVATION OF ELECTION RECORDS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJTKpHiEt7zryAF6riEKmMrkk5pSsEYmG",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 18. PENAL PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 18. PENAL PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkQ5prjNt7GHJ4q6ro4Y7zS1HqpSiNK7z",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 19. CERTIFICATION OF VOTING SYSTEMS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 19. CERTIFICATION OF VOTING SYSTEMS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyFq6BsVFXfS1q5pSoNYXGSkiqari4FQG",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 20. ELECTION CAMPAIGNS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20. ELECTION CAMPAIGNS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryJopSj4FQfrkxsTBi4tQMSkbipBoEYQz",
+                    "-path": "/us/californiacode/California Code/Elections Code - ELEC/DIVISION 21. STATE AND LOCAL REAPPORTIONMENT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 21. STATE AND LOCAL REAPPORTIONMENT",
+                        "stat:Level": []
+                    }
+                }
+            ]
         }
     }
 }

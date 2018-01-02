@@ -1,19 +1,301 @@
 {
     "stat:Document": {
         "-xmlns:stat": "https://casetext.com/stat",
-        "-id": "BkmpYMvn_XfHyN6KMDnO7MB1HpKMw3umM",
+        "-id": "BySf9riNKmGHk8zcHsNFXMrkPfqrsNFmM",
         "stat:Title": "California Code",
         "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
         "stat:Version": "0.1",
         "stat:Currency": "2017-07-07",
         "stat:Level": {
-            "-id": "H1IaYfPh_QzHJwaFGPnumfH1_6Yfv3uQf",
+            "-id": "BJOGqrjEYmGHytMqroVtQfBk5Gqri4KXf",
             "-depth": "3",
             "-path": "/us/californiacode/California Code/Financial Code - FIN",
             "stat:Text": {
                 "-xmlns:stat": "https://casetext.com/stat",
-                "stat:heading": "Financial Code - FIN"
-            }
+                "stat:Heading": "Financial Code - FIN"
+            },
+            "stat:Level": [
+                {
+                    "-id": "Bk0HoNYQfHyxRroNY7MS1ZABi4KQG",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/GENERAL PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "GENERAL PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BJrRrj4FXMrkLRBsNFQfr1w0SjNYQf",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1. FINANCIAL INSTITUTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1. FINANCIAL INSTITUTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJjRrjVKQMr130Hs4K7MHyTAHjEYQG",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1.1. BANKING",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.1. BANKING",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyWl0BsVYQGHkzxArjVYmzrkmgCBsNFmM",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1.2. MONEY TRANSMISSION ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.2. MONEY TRANSMISSION ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyPe0BoEKQzS1dlCri4YQzBJFxCriNY7G",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1.3. THE SETTING OF FEES IN CONSUMER CREDIT AGREEMENTS AND RELATED CONSUMER PROTECTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.3. THE SETTING OF FEES IN CONSUMER CREDIT AGREEMENTS AND RELATED CONSUMER PROTECTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HypgRSsEK7GH10e0rsEFmMrJ1WAHoVKmG",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1.4. CALIFORNIA FINANCIAL INFORMATION PRIVACY ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.4. CALIFORNIA FINANCIAL INFORMATION PRIVACY ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B17-AriVKQzry4WRHiVFXzHJBbASoEt7G",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1.5. FINANCIAL INSTITUTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.5. FINANCIAL INSTITUTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkYWAroVtQzr1qZAHiEtXMSkiZCHoVtXz",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1.6. DEPOSITORY CORPORATIONS—SALE, MERGER, AND CONVERSION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.6. DEPOSITORY CORPORATIONS—SALE, MERGER, AND CONVERSION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S11G0BsEK7GH1gGABsNtmzBJWzCHsNYXM",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1.7. COVERED LOANS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.7. COVERED LOANS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkHzRSiVFmfB18fRHsNFXfHyDfASiNtQG",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1.8. SECURITIES SALES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.8. SECURITIES SALES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkoMAHjEtQfBy3MRro4Fmfr1pGArsNYXM",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1.9. PERSONS CONNECTED WITH FINANCIAL INSTITUTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.9. PERSONS CONNECTED WITH FINANCIAL INSTITUTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJZXASs4tXzHJM7AriNKmzBk77RroEKXf",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 1.10. HIGHER-PRICED MORTGAGE LOANS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1.10. HIGHER-PRICED MORTGAGE LOANS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Skv7AHsEKQfrJOmArjEFQGH1KXRroNK7z",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 2. SAVINGS ASSOCIATION LAW",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 2. SAVINGS ASSOCIATION LAW",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1TQRHjEYQMH1C70rsNtXMr11ERrj4YmG",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 3. CHECK SELLERS, BILL PAYERS, AND PRORATERS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 3. CHECK SELLERS, BILL PAYERS, AND PRORATERS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HkXNCrj4tmzSy4ERHiVKQfrkH40Bj4Ymz",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 4. AUTOMATED TELLER MACHINES: USER SAFETY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 4. AUTOMATED TELLER MACHINES: USER SAFETY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkFERriEF7zrJc4RSsVFQfH1oE0Si4K7G",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 4.5. AUTOMATED TELLER MACHINE SURCHARGE DISCLOSURE",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 4.5. AUTOMATED TELLER MACHINE SURCHARGE DISCLOSURE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkJSCBoEFQGHJgBASiNYQzryWB0HsNFXM",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 5. CREDIT UNIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 5. CREDIT UNIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HkHrCBoEFmMH18rCBjVFXzrJwBCHj4Fmf",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 6. ESCROW AGENTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 6. ESCROW AGENTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyiH0HjEFXfH1nB0Sj4KmGH1pSCrj4K7G",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 7. INDUSTRIAL LOAN COMPANIES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 7. INDUSTRIAL LOAN COMPANIES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJbIRSsVt7zrJGLABsVKQzSyX8RrjNK7z",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 8. PAWNBROKERS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 8. PAWNBROKERS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S1D8ABjVF7zHyu8RHiVYQGr1KIRrj4Y7z",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 9. CALIFORNIA FINANCING LAW",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 9. CALIFORNIA FINANCING LAW",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJpURriEKXMSk0U0HjVY7fryJP0SiEFQz",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 10. CALIFORNIA DEFERRED DEPOSIT TRANSACTION LAW",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10. CALIFORNIA DEFERRED DEPOSIT TRANSACTION LAW",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1QD0SsEYQMHy4wRrs4FXzSyrw0SsEFXG",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/[DIVISION 10. CONSUMER FINANCE LENDERS]",
+                    "stat:Text": {
+                        "stat:heading": "[DIVISION 10. CONSUMER FINANCE LENDERS]",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkYw0BoEYmfHJqPArjNK7MrkswRHo4KXG",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 11.5. NATIONAL HOUSING ACT LOANS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 11.5. NATIONAL HOUSING ACT LOANS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1yuRHoVYmzrke_AriEtmMrkb_RrsEYXf",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 12. COLLEGE LOANS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 12. COLLEGE LOANS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkHOCHiNKQfSy8_0riVKQGS1wOCSsEtXf",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 12.5. Student Loan Servicing Act",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 12.5. Student Loan Servicing Act",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJodRSoEt7Gry3_CBoVKmzr1au0HiEYmz",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 13. PREMIUM FINANCING",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 13. PREMIUM FINANCING",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJZY0Bj4t7GrkMFRSjEK7MBJQtASjVtmM",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 14. SECURITIES DEPOSITORIES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 14. SECURITIES DEPOSITORIES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryDYCSj4YmMHJOt0BjEFXfSyYFAHsVFQz",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 15. BUSINESS AND INDUSTRIAL DEVELOPMENT CORPORATIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 15. BUSINESS AND INDUSTRIAL DEVELOPMENT CORPORATIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyTY0HjEYXGBJRF0BoNFmzBy1qRBj4FXz",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 15.5. STATE ASSISTANCE FUND FOR ENTERPRISE, BUSINESS AND INDUSTRIAL DEVELOPMENT CORPORATION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 15.5. STATE ASSISTANCE FUND FOR ENTERPRISE, BUSINESS AND INDUSTRIAL DEVELOPMENT CORPORATION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryQc0SsNKXGB1Eq0SjEtQGBkrqAro4KmG",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 19. RELEASE OF DEMAND DEPOSIT FUNDS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 19. RELEASE OF DEMAND DEPOSIT FUNDS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkt90BsEYQfrJq5CBiVYQfHyic0Si4Ymf",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 20. CALIFORNIA RESIDENTIAL MORTGAGE LENDING ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20. CALIFORNIA RESIDENTIAL MORTGAGE LENDING ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1kjCHoVtXfrJejRrjNK7MS1WjRSi4KQz",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 20.5. EXCHANGE FACILITATORS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20.5. EXCHANGE FACILITATORS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyBjRro4YmfryLjRBj4t7zBJvj0SsNtQG",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 22. CALIFORNIA FINANCIAL LITERACY FUND",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 22. CALIFORNIA FINANCIAL LITERACY FUND",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BJio0Hs4tQfBJhjCrjNYXGry6j0rsNFQf",
+                    "-path": "/us/californiacode/California Code/Financial Code - FIN/DIVISION 23. BANK ON CALIFORNIA PROGRAM",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 23. BANK ON CALIFORNIA PROGRAM",
+                        "stat:Level": []
+                    }
+                }
+            ]
         }
     }
 }

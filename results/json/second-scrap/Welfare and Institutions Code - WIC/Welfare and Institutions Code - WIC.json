@@ -1,19 +1,597 @@
 {
     "stat:Document": {
         "-xmlns:stat": "https://casetext.com/stat",
-        "-id": "ryrVltzDh_Xfr1IEeYMD3uXfHkvEgYfD3u7G",
+        "-id": "B1vYcrj4YmfBJ_t9SiEKQGHJttqHjEY7M",
         "stat:Title": "California Code",
         "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
         "stat:Version": "0.1",
         "stat:Currency": "2017-07-07",
         "stat:Level": {
-            "-id": "HJdExtfPnOXfSJYEgYzDhu7GB19VlFfDh_Xf",
+            "-id": "rk5FcroNtXMS1iYqSs4YQGByntcroNYQz",
             "-depth": "3",
             "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC",
             "stat:Text": {
                 "-xmlns:stat": "https://casetext.com/stat",
-                "stat:heading": "Welfare and Institutions Code - WIC"
-            }
+                "stat:Heading": "Welfare and Institutions Code - WIC"
+            },
+            "stat:Level": [
+                {
+                    "-id": "BJs9QxLi4tXfryhqmeIiNYQzrJ6q7gUsEYQz",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/GENERAL PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "GENERAL PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkZsXgUsEK7GByGimxLjVYXfS1msml8iEtXM",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 1. ADMINISTRATION OF WELFARE AND INSTITUTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1. ADMINISTRATION OF WELFARE AND INSTITUTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1Ps7xUs4KXMr1OsQlLjNtXfSyYsQx8iEtmz",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 2. CHILDREN",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 2. CHILDREN",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Sypo7lIs4t7zHkRi7gIo4KQzHJk37eIsNYmG",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 2.5. YOUTHS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 2.5. YOUTHS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BJX3Xl8jNKXMSJEnXeLjEY7GHJBhQg8jVt7f",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 3. NARCOTIC ADDICTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 3. NARCOTIC ADDICTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyF3mg8sEtmGSkc3mlIoNt7fBJi2XgIoEtQf",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 3.5. California Health and Human Services Agency Departments: Public Notice Requirements",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 3.5. California Health and Human Services Agency Departments: Public Notice Requirements",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyyTQx8j4FXzrke67gLjNtmMSk-6mgUjNKXf",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 4. MENTAL HEALTH",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 4. MENTAL HEALTH",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "H1S6QxIsNFmfSyL67gIsNt7zr1P6ml8s4KXz",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 4.1. DEVELOPMENTAL SERVICES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 4.1. DEVELOPMENTAL SERVICES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkiT7eLjVtXMB13T7gIiEFXzH16a7x8i4FXG",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 4.5. SERVICES FOR THE DEVELOPMENTALLY DISABLED",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 4.5. SERVICES FOR THE DEVELOPMENTALLY DISABLED",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "H1-Amg8iNFQGSyzRXgLoVF7fr1XAmxIj4YXG",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 4.7. PROTECTION AND ADVOCACY AGENCY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 4.7. PROTECTION AND ADVOCACY AGENCY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJvA7gLjNY7MH1uRXgIjVKQGHyK0XgUsVK7f",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 5. COMMUNITY MENTAL HEALTH SERVICES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 5. COMMUNITY MENTAL HEALTH SERVICES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyTCQeUsNFXGBk00Qe8sEFXzrk1JVg8oEtmf",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 6. ADMISSIONS AND JUDICIAL COMMITMENTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 6. ADMISSIONS AND JUDICIAL COMMITMENTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyQkEgUoNYXzr1N1VlUiEt7MHyHkElUjVtXM",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 7. MENTAL INSTITUTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 7. MENTAL INSTITUTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyYk4lUoVtQzBJqkVg8i4Y7fHysJEeUj4YXf",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 8. MISCELLANEOUS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 8. MISCELLANEOUS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S1JgNeIjEtmMrkggNlLs4KmGS1ZlVx8iVKmG",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 8.5. MELLO-GRANLUND OLDER CALIFORNIANS ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 8.5. MELLO-GRANLUND OLDER CALIFORNIANS ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkBe4gIjEKQMS1UgNlLi4tmMr1vxVxIj4YXz",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 9. PUBLIC SOCIAL SERVICES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 9. PUBLIC SOCIAL SERVICES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HkilVg8sNKmMBk3eEgUiEFQzByagNe8oVKQf",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 10. STATE DEPARTMENT OF REHABILITATION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10. STATE DEPARTMENT OF REHABILITATION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HkbbNxIo4KXzrJz-Ex8oVY7fryX-4eUjNKXf",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 11. POVERTY REDUCTION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 11. POVERTY REDUCTION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyPZEe8oNFQGHk_ZNe8jEt7MSktZNlIjEF7z",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 12. CALIFORNIA PARTNERSHIP FOR LONG-TERM CARE",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 12. CALIFORNIA PARTNERSHIP FOR LONG-TERM CARE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1pWVgLiVFQfrkRb4x8sVtXfBJkfVxIjNYmG",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 24. STATE-ONLY FAMILY PLANNING PROGRAM",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 24. STATE-ONLY FAMILY PLANNING PROGRAM",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkQzElLsEFQGrkEz4l8i4t7GrJBf4e8o4Ymz",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 25. HEALTH CARE COVERAGE",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 25. HEALTH CARE COVERAGE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJYzVgUjNKQMB1cz4gIi4YQMB1sz4xUj4YXG",
+                    "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC/DIVISION 26. NATURALIZATION SERVICES PROGRAM",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 26. NATURALIZATION SERVICES PROGRAM",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rk7UXgLoNKQMByN8XgIj4KXzS1BUXeLsNKmz",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 14.7. FLAMMABLE AND COMBUSTIBLE LIQUIDS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 14.7. FLAMMABLE AND COMBUSTIBLE LIQUIDS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S1t8QgUoNYXzB15IXg8oVKQzHyiUQlUsVYQM",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 14.8. SAFETY REGULATIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 14.8. SAFETY REGULATIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "H1ywXgUo4tQfSklvmxLiEY7fr1WvQg8j4Kmf",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 14.85. MOTOR CARRIERS OF PROPERTY PERMIT ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 14.85. MOTOR CARRIERS OF PROPERTY PERMIT ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1rv7x8j4t7MryIDmxIjVKXGHkDwmlUiNF7z",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 14.86. Private Carriers of Passengers Registration Act",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 14.86. Private Carriers of Passengers Registration Act",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJiDXeLo4FXzHkhvmxLj4YQzBkavQgIi4F7G",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 14.9. MOTOR VEHICLE DAMAGE CONTROL",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 14.9. MOTOR VEHICLE DAMAGE CONTROL",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "H1bOXeLiEK7fHJGO7lUsVF7GS1QO7l8sEFmz",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 15. SIZE, WEIGHT, AND LOAD",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 15. SIZE, WEIGHT, AND LOAD",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkDumxUo4t7MSyd_QgLiNYmzByFOmlIjNK7G",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 16. IMPLEMENTS OF HUSBANDRY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 16. IMPLEMENTS OF HUSBANDRY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJ6_meIs4tXfrJCOQxUjNFmfr1yK7lLsEFQG",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 16.5. OFF-HIGHWAY VEHICLES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 16.5. OFF-HIGHWAY VEHICLES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJmtmlIj4F7zBkEKXgLiVFQfryrYXxLsEtXG",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 16.6. Autonomous Vehicles",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 16.6. Autonomous Vehicles",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkKYmg8iNYQGH19FmlIsVKXfrkjK7lIs4YmM",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 16.7. REGISTRATION AND LICENSING OF BICYCLES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 16.7. REGISTRATION AND LICENSING OF BICYCLES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1kcXg8sNKXfr1g97eUs4KXfBk-97eLoVt7f",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 17. OFFENSES AND PROSECUTION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 17. OFFENSES AND PROSECUTION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HySq7l8oEKQGH1UqQe8sEFQzSJv97gLiEKXM",
+                    "-path": "/us/californiacode/California Code/Vehicle Code - VEH/DIVISION 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkiseIoNYQMHy2oeLj4t7Gr16slUiVFQG",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 16. CALIFORNIA ALTERNATIVE ENERGY AND ADVANCED TRANSPORTATION FINANCING AUTHORITY ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 16. CALIFORNIA ALTERNATIVE ENERGY AND ADVANCED TRANSPORTATION FINANCING AUTHORITY ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S1WheUjEKXGByfnxLs4t7GS173x8sEFXG",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 16.3. CLEAN ENERGY JOB CREATION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 16.3. CLEAN ENERGY JOB CREATION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryPhxIiVF7MH1_hx8oEFXGSyKnlLiEtQf",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 16.5. ENERGY AND RESOURCES FUND",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 16.5. ENERGY AND RESOURCES FUND",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Hkp2xUjNtQzH1C3lLsEFXfrkyTg8oVtmz",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 17. GEOLOGIC HAZARD ABATEMENT DISTRICTS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 17. GEOLOGIC HAZARD ABATEMENT DISTRICTS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "H1mpgIoEYQGHJV6xUo4KXMB1S6e8j4K7f",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 18. MORRO BAY MANAGEMENT PLAN",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 18. MORRO BAY MANAGEMENT PLAN",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkF6gUoVtQzBJcTlUsEYmfrkiTg8iEFmz",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 19. SUISUN MARSH PRESERVATION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 19. SUISUN MARSH PRESERVATION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryyCl8s4KmMHygRlLi4tQzByZAl8j4t7f",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 19.5. DELTA PROTECTION ACT OF 1992",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 19.5. DELTA PROTECTION ACT OF 1992",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkBRxIsEtmfHJURlLj4FmzB1D0xUiNY7f",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 20. CALIFORNIA COASTAL ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20. CALIFORNIA COASTAL ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJs0gLiNKmfH13ClLsVFXfH16AeLjVtXz",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 20.4. WATERSHED, CLEAN BEACHES, AND WATER QUALITY ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20.4. WATERSHED, CLEAN BEACHES, AND WATER QUALITY ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryWJggUiVtQGHkz1lgUsEKQfrkXyxe8i4FXG",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 20.5. OCEAN USE PLANNING",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20.5. OCEAN USE PLANNING",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryPyge8o4FXfHkukxlUsVYXGHkFyglUjNY7f",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 20.6. Planning for Sea Level Rise Database",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20.6. Planning for Sea Level Rise Database",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkaJlxIj4KmfS10kllLsNKXfSJJlxeUjVY7z",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 20.7. SANTA MONICA BAY RESTORATION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 20.7. SANTA MONICA BAY RESTORATION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Hy7gleLiVt7Gr1Nexx8sEFXzHyrelgIo4YQf",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 21. STATE COASTAL CONSERVANCY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 21. STATE COASTAL CONSERVANCY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryFell8sNYXGrJ5eglIiVKQMS1sgxx8o4F7G",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 22. CALIFORNIA URBAN WATERFRONT AREA RESTORATION FINANCING AUTHORITY ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 22. CALIFORNIA URBAN WATERFRONT AREA RESTORATION FINANCING AUTHORITY ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SykWggUiNtQfBJlbxxIs4FXzry--le8sNY7z",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 22.3. SACRAMENTO-SAN JOAQUIN DELTA CONSERVANCY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 22.3. SACRAMENTO-SAN JOAQUIN DELTA CONSERVANCY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1HZgx8oNYXGry8Zex8oNYXfHyDWlgUoEYmG",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 22.5. SAN JOAQUIN RIVER CONSERVANCY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 22.5. SAN JOAQUIN RIVER CONSERVANCY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJiZlgUj4YQfHJ2belUjNFmfBkT-lxLoVYXz",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 22.7. BALDWIN HILLS CONSERVANCY ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 22.7. BALDWIN HILLS CONSERVANCY ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkWzel8jVY7fBJGGegLo4YmfrJ7zxeUsNFmz",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 22.8. SAN GABRIEL AND LOWER LOS ANGELES RIVERS AND MOUNTAINS CONSERVANCY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 22.8. SAN GABRIEL AND LOWER LOS ANGELES RIVERS AND MOUNTAINS CONSERVANCY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJvMxgLiNF7MrkdMleUjVKQfSJKGxlUoEY7G",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 22.9. SAN DIEGO RIVER CONSERVANCY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 22.9. SAN DIEGO RIVER CONSERVANCY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkpzelUjEFXzS1CMggUsEt7zry1Qlg8i4Kmf",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 23. SANTA MONICA MOUNTAINS CONSERVANCY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 23. SANTA MONICA MOUNTAINS CONSERVANCY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HkQ7lgIsVF7zH1NQggLjNY7zrJrXxxLj4YmM",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 23.3. SIERRA NEVADA CONSERVANCY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 23.3. SIERRA NEVADA CONSERVANCY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1YQxgUoNtmMBJqQlg8sEFQGHJiQelUoNKmf",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 23.5. COACHELLA VALLEY MOUNTAINS CONSERVANCY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 23.5. COACHELLA VALLEY MOUNTAINS CONSERVANCY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1J4xx8oVYmfH1g4xxLiVFmGr1bNgeIj4YXf",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 23.7. PRESERVATION OF FUTURE TRANSPORTATION OPTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 23.7. PRESERVATION OF FUTURE TRANSPORTATION OPTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJSExe8sEYmGByUExlLjNFmzH1DEeeIoNtmz",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 24. RENEWABLE RESOURCES INVESTMENT PROGRAM",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 24. RENEWABLE RESOURCES INVESTMENT PROGRAM",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S1iNglUsVFXfS12Nex8jEtQzHkTVee8j4FXM",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 25. COASTAL RESOURCES AND ENERGY ASSISTANCE",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 25. COASTAL RESOURCES AND ENERGY ASSISTANCE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "By-Hle8s4YXfBkzBlxIi4t7fB17SlxLs4KQG",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 26. SANTA CLARA VALLEY OPEN-SPACE AUTHORITY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 26. SANTA CLARA VALLEY OPEN-SPACE AUTHORITY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ByPrlg8oNFXzHJOHgeUsEKQGH1trgxIoVKmz",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 26.5. CALIFORNIA OCEAN PROTECTION ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 26.5. CALIFORNIA OCEAN PROTECTION ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Sy6SxxLj4KmGSkRBel8i4KXMry18egLo4YQG",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 27. OCEAN RESOURCES MANAGEMENT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 27. OCEAN RESOURCES MANAGEMENT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "H1m8geIjEt7zSyVIlgUiNtXfSyB8lgUsNKXf",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 28. NATURAL HERITAGE PRESERVATION TAX CREDIT ACT OF 2000",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 28. NATURAL HERITAGE PRESERVATION TAX CREDIT ACT OF 2000",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyF8leLj4KQzHy98ee8oVYQGBkiUleUs4YQG",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 30. WASTE MANAGEMENT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 30. WASTE MANAGEMENT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJyvlgIiNYQfBJgDelIoEKmzHk-Pgl8sVYmz",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 31. WASTE MANAGEMENT FACILITIES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 31. WASTE MANAGEMENT FACILITIES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJBvglLsEKmGSy8wxgUiEFQzByPPelIoNt7M",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 33. GLASS CONTAMINATION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 33. GLASS CONTAMINATION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "ryovxlUjEYXfHJ3DlgLsVF7GHkpwgeIsNYXf",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 34. ENVIRONMENTAL PROTECTION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 34. ENVIRONMENTAL PROTECTION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJWdxxIi4FmGH1GuxlUoVF7zHy7OggUiEKmf",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 36. MARINE INVASIVE SPECIES ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 36. MARINE INVASIVE SPECIES ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJwOeg8jVtmfrJ_Ogl8oVFQzr1tdeeUsVF7z",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 37. CALIFORNIA ENDOWMENT FOR MARINE PRESERVATION",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 37. CALIFORNIA ENDOWMENT FOR MARINE PRESERVATION",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B16degUoNYmGHJRdxeIo4FXzHkyKgeIj4tQM",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 38. CALIFORNIA CLEAN COAST ACT",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 38. CALIFORNIA CLEAN COAST ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Sy7FggLiNKXMSyVtexUsNK7fS1HFllUoVKXG",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 43. THE SAFE DRINKING WATER, WATER QUALITY AND SUPPLY, FLOOD CONTROL, RIVER AND COASTAL PROTECTION BOND ACT OF 2006",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 43. THE SAFE DRINKING WATER, WATER QUALITY AND SUPPLY, FLOOD CONTROL, RIVER AND COASTAL PROTECTION BOND ACT OF 2006",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HyYtxl8jVtQfBycYxgLi4FXzHyitex8jVKQz",
+                    "-path": "/us/californiacode/California Code/Public Resources Code - PRC/DIVISION 44. Transit, Affordable Housing, and Sustainable Communities Program",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 44. Transit, Affordable Housing, and Sustainable Communities Program",
+                        "stat:Level": []
+                    }
+                }
+            ]
         }
     }
 }

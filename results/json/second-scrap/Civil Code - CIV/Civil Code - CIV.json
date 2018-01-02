@@ -1,19 +1,149 @@
 {
     "stat:Document": {
         "-xmlns:stat": "https://casetext.com/stat",
-        "-id": "r1mcKzv3OmzBJN5YfPndXzBkH5Yfw2d7G",
+        "-id": "ByHqSi4KXzSkIcrsVKmzH1v9SsNY7M",
         "stat:Title": "California Code",
         "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
         "stat:Version": "0.1",
         "stat:Currency": "2017-07-07",
         "stat:Level": {
-            "-id": "BkUqtfP3OQzHyD9FMv2_7MHyOcKGwh_mz",
+            "-id": "Sy_cri4FQzByY5Hi4FXzHk99Hs4K7f",
             "-depth": "3",
             "-path": "/us/californiacode/California Code/Civil Code - CIV",
             "stat:Text": {
                 "-xmlns:stat": "https://casetext.com/stat",
-                "stat:heading": "Civil Code - CIV"
-            }
+                "stat:Heading": "Civil Code - CIV"
+            },
+            "stat:Level": [
+                {
+                    "-id": "Hkp2nriEY7GHy0nhSi4YmzS1kanri4K7G",
+                    "-path": "/us/californiacode/California Code/Civil Code - CIV/TITLE OF THE ACT",
+                    "stat:Text": {
+                        "stat:heading": "TITLE OF THE ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SJ7phBjEtmGHy4ahSiVYmzH1STnSs4t7M",
+                    "-path": "/us/californiacode/California Code/Civil Code - CIV/THE CIVIL CODE OF THE STATE OF CALIFORNIA",
+                    "stat:Text": {
+                        "stat:heading": "THE CIVIL CODE OF THE STATE OF CALIFORNIA",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkY6hSjNFmGHyqahSi4YQGS1ianBjVtXG",
+                    "-path": "/us/californiacode/California Code/Civil Code - CIV/PRELIMINARY PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "PRELIMINARY PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJkR3BoVYmzHye0hSoNF7zSyZR2rjNYXf",
+                    "-path": "/us/californiacode/California Code/Civil Code - CIV/DEFINITIONS AND SOURCES OF LAW",
+                    "stat:Text": {
+                        "stat:heading": "DEFINITIONS AND SOURCES OF LAW",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkB02rjNYQzSyIR3HiNt7GSJP0hSoNKQM",
+                    "-path": "/us/californiacode/California Code/Civil Code - CIV/EFFECT OF THE 1872 CODES",
+                    "stat:Text": {
+                        "stat:heading": "EFFECT OF THE 1872 CODES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SysAnHj4YQfByh0hri4Y7GS1pCnSiVK7z",
+                    "-path": "/us/californiacode/California Code/Civil Code - CIV/DIVISION 1. PERSONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 1. PERSONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Hy-ke2BoVY7GBkMyx2rj4tXzH1Q1gnBsNKQf",
+                    "-path": "/us/californiacode/California Code/Civil Code - CIV/DIVISION 2. PROPERTY",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 2. PROPERTY",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SkvkxhBiEtXfS1O1ghro4KmfrJYJe3BsNKXG",
+                    "-path": "/us/californiacode/California Code/Civil Code - CIV/DIVISION 3. OBLIGATIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 3. OBLIGATIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "SyaJg2SoNtmfHk0yehroVtQfH1yelnBjEtmf",
+                    "-path": "/us/californiacode/California Code/Civil Code - CIV/DIVISION 4. GENERAL PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 4. GENERAL PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rkmc2HoEFXzH1EchSoNKmMHkB52SoVF7G",
+                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 9. SECURED TRANSACTIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 9. SECURED TRANSACTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "H1tq2SiNK7fBkqcnroVF7Mr1oq2BoNF7z",
+                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 10. PERSONAL PROPERTY LEASES",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 10. PERSONAL PROPERTY LEASES",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "B1kj2BiNKmGSygsnrs4FmGrkZi3Hs4FQG",
+                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 11. FUNDS TRANSFERS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 11. FUNDS TRANSFERS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BJro2Bo4tmMrk8j3riNKmMSkvj3Bs4tmz",
+                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 13. EFFECTIVE DATE AND REPEALER",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 13. EFFECTIVE DATE AND REPEALER",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "H1is3SsEKmfSJ2ohri4t7GB1pj3HiEtXG",
+                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 14. EFFECTIVE DATE AND TRANSITION PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 14. EFFECTIVE DATE AND TRANSITION PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1W3nSi4F7zSyz22riNKmfBJ7h3riEF7G",
+                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 15. EFFECTIVE DATE AND TRANSITION PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 15. EFFECTIVE DATE AND TRANSITION PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "HJPhnBi4YQMrJdn2riNKXfr1Y3hBo4F7G",
+                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 16. EFFECTIVE DATE AND TRANSITION PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "DIVISION 16. EFFECTIVE DATE AND TRANSITION PROVISIONS",
+                        "stat:Level": []
+                    }
+                }
+            ]
         }
     }
 }

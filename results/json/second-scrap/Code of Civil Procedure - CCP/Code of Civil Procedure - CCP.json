@@ -1,19 +1,77 @@
 {
     "stat:Document": {
         "-xmlns:stat": "https://casetext.com/stat",
-        "-id": "r1t5YfwhuXfBkq9tGvnO7frJscKzPh_XM",
+        "-id": "H1jcBj4KQzSJh9riNY7MBkpqBiVYQz",
         "stat:Title": "California Code",
         "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
         "stat:Version": "0.1",
         "stat:Currency": "2017-07-07",
         "stat:Level": {
-            "-id": "rkh5tMD2u7MrkTqKfD3dQGrkAqFMw3OXM",
+            "-id": "H1RcrsNFXfH1Jx9roVtQMSJgx5SiEtXG",
             "-depth": "3",
             "-path": "/us/californiacode/California Code/Code of Civil Procedure - CCP",
             "stat:Text": {
                 "-xmlns:stat": "https://casetext.com/stat",
-                "stat:heading": "Code of Civil Procedure - CCP"
-            }
+                "stat:Heading": "Code of Civil Procedure - CCP"
+            },
+            "stat:Level": [
+                {
+                    "-id": "B1nroVFXzSke3HsVYmGryW2HjEKQf",
+                    "-path": "/us/californiacode/California Code/Code of Civil Procedure - CCP/TITLE OF ACT",
+                    "stat:Text": {
+                        "stat:heading": "TITLE OF ACT",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJr2SsNtmfS183riEtXfryDhroVKmf",
+                    "-path": "/us/californiacode/California Code/Code of Civil Procedure - CCP/THE CODE OF CIVIL PROCEDURE OF CALIFORNIA",
+                    "stat:Text": {
+                        "stat:heading": "THE CODE OF CIVIL PROCEDURE OF CALIFORNIA",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "BkjnHoNtQGrknnBo4KmGrk6nroVYQf",
+                    "-path": "/us/californiacode/California Code/Code of Civil Procedure - CCP/PRELIMINARY PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "PRELIMINARY PROVISIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "Sk-x3HiNtmfr1Mg3Hj4FmzHJ7lhSsEKQG",
+                    "-path": "/us/californiacode/California Code/Code of Civil Procedure - CCP/PART 1. OF COURTS OF JUSTICE",
+                    "stat:Text": {
+                        "stat:heading": "PART 1. OF COURTS OF JUSTICE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "S1Dg2rj4YmzHJ_enSjVYQMHyYg2Si4YQz",
+                    "-path": "/us/californiacode/California Code/Code of Civil Procedure - CCP/PART 2. OF CIVIL ACTIONS",
+                    "stat:Text": {
+                        "stat:heading": "PART 2. OF CIVIL ACTIONS",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "r1pghroNt7fr1ClhBsNYQzryJZ3SiVtmG",
+                    "-path": "/us/californiacode/California Code/Code of Civil Procedure - CCP/PART 3. OF SPECIAL PROCEEDINGS OF A CIVIL NATURE",
+                    "stat:Text": {
+                        "stat:heading": "PART 3. OF SPECIAL PROCEEDINGS OF A CIVIL NATURE",
+                        "stat:Level": []
+                    }
+                },
+                {
+                    "-id": "rJmW2HiVt7fBkNW3Bj4tXMSkrZ3rjVKXM",
+                    "-path": "/us/californiacode/California Code/Code of Civil Procedure - CCP/PART 4. MISCELLANEOUS PROVISIONS",
+                    "stat:Text": {
+                        "stat:heading": "PART 4. MISCELLANEOUS PROVISIONS",
+                        "stat:Level": []
+                    }
+                }
+            ]
         }
     }
 }
