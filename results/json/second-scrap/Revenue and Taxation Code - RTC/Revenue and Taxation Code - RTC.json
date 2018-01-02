@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "ByvzxFfv2OXfB1OfeFzw2OmzrkYMeFzv2_XM",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "r15MxKMD2dmGrJjzgFGwh_QGHk2MeYfDn_mG",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Revenue and Taxation Code - RTC",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Revenue and Taxation Code - RTC"
+            }
+        }
+    }
+}

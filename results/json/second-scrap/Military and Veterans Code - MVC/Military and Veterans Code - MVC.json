@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "SJXggtzPh_7zHyNggKzDhdXGH1SglFzw2uQf",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "HJ8egKfDh_7MSJwllKMv3umzHJ_glFzwhdQf",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Military and Veterans Code - MVC",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Military and Veterans Code - MVC"
+            }
+        }
+    }
+}

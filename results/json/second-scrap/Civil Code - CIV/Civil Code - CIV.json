@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "r1mcKzv3OmzBJN5YfPndXzBkH5Yfw2d7G",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "BkUqtfP3OQzHyD9FMv2_7MHyOcKGwh_mz",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Civil Code - CIV",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Civil Code - CIV"
+            }
+        }
+    }
+}

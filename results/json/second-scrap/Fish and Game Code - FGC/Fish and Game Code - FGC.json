@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "r1KTtMDnOXfSk5TtfPnd7frJsaFMP2d7G",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "By3atGw2u7fSJ6TFGv3OmGHkRTFfvnOXG",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Fish and Game Code - FGC",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Fish and Game Code - FGC"
+            }
+        }
+    }
+}

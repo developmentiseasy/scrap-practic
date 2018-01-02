@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "HJJsFzDnOXfr1ljFGD3umzBk-sKGw2_Xf",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "H1GiFMDhumzB17iYGDn_7GBJNjtfP2dmf",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Commercial Code - COM",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Commercial Code - COM"
+            }
+        }
+    }
+}

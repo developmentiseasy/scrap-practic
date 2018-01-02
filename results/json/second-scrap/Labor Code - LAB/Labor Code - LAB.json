@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "S1T1xFMw3u7fH10kgYfwn_QfHkkglFfP2d7f",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "BJexltGDndXzHkWgxFMDhumfH1GelYMvndXM",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Labor Code - LAB",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Labor Code - LAB"
+            }
+        }
+    }
+}

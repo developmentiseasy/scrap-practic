@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "rk10KGv3_QzHkgRtGw3OQfHk-CtMDhO7G",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "ByMAtzDnuXfSkXRFGvhdmzr1N0YzDhd7f",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Food and Agricultural Code - FAC",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Food and Agricultural Code - FAC"
+            }
+        }
+    }
+}

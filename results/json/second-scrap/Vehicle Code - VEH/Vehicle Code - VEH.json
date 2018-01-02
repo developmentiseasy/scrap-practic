@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "S1K7eYGw3dQMHk5QxYfw3OQGB1sXgFfPhdQG",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "HyhXeYzw3OXfSJ6QgFMPnOmzSkR7xtzv2dXM",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Vehicle Code - VEH",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Vehicle Code - VEH"
+            }
+        }
+    }
+}

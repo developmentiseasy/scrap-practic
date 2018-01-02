@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "ryb3tfwh_QMHyz3FGP3OmGr1X3tfPnuXG",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "BkE2KMvh_7zB1H3KfPhumMHJUhKMw3_7z",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Elections Code - ELEC",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Elections Code - ELEC"
+            }
+        }
+    }
+}

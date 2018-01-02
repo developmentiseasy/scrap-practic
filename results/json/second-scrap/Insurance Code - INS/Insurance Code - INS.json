@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "HkPklYzvndXzS1uJeFzD2dmfSkKJgYMwhdmM",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "By9JlYzw3O7zH1iylFzD3OXGH12JeFGv3u7z",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Insurance Code - INS",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Insurance Code - INS"
+            }
+        }
+    }
+}

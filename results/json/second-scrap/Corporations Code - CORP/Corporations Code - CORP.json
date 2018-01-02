@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "BJHsKMvnOXfrJLoYzD3dmGSyvjKMDnd7f",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "S1OjFfv3u7GrkKjKMDnOQzByqsFfvh_7f",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Corporations Code - CORP",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Corporations Code - CORP"
+            }
+        }
+    }
+}

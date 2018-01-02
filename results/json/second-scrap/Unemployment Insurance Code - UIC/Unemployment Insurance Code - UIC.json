@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "HyXmeKMw3uXGrJVXetfP3dmfHkSXlKzPn_QG",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "ByU7xFGv2umzr1P7gtGP2_XfHJd7gYGw3O7f",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Unemployment Insurance Code - UIC",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Unemployment Insurance Code - UIC"
+            }
+        }
+    }
+}

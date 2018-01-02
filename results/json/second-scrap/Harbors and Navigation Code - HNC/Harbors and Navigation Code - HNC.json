@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "r1sAFfvhuXfSJh0YfP2d7fHJaRYfPhOQM",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "H10AtfvhuQMH111lYMDh_XfBJeJxYMP3_Qz",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Harbors and Navigation Code - HNC",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Harbors and Navigation Code - HNC"
+            }
+        }
+    }
+}

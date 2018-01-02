@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "S1wKmJLwdmMHJOFm1UP_XMSkYFXkLvO7f",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "SJ9F7JUv_XMrJsFm1LvuQfBJntXy8Dd7M",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Welfare and Institutions Code - WIC ",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Welfare and Institutions Code - WIC "
+            }
+        }
+    }
+}

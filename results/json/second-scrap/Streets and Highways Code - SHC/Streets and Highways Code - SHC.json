@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "rkpzeFfP3uXzBkAfgFGD2_QMH1kXeYzwnOQG",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "rJemlYzvnuQMBkbQltGvhuXMSkM7eFGwh_Xf",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Streets and Highways Code - SHC",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Streets and Highways Code - SHC"
+            }
+        }
+    }
+}

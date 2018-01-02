@@ -1,0 +1,19 @@
+{
+    "stat:Document": {
+        "-xmlns:stat": "https://casetext.com/stat",
+        "-id": "ry-1eKGPn_mfrJGJltMwndQGHyQ1xYMP2OmG",
+        "stat:Title": "California Code",
+        "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "stat:Version": "0.1",
+        "stat:Currency": "2017-07-07",
+        "stat:Level": {
+            "-id": "Sk4Jetfvn_7zByrygtGvhdmzry8kgYfPnOQz",
+            "-depth": "3",
+            "-path": "/us/californiacode/California Code/Health and Safety Code - HSC",
+            "stat:Text": {
+                "-xmlns:stat": "https://casetext.com/stat",
+                "stat:heading": "Health and Safety Code - HSC"
+            }
+        }
+    }
+}
