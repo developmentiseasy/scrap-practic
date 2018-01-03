@@ -1,13 +1,13 @@
 {
     "stat:Document": {
         "-xmlns:stat": "https://casetext.com/stat",
-        "-id": "SJ9SoEFQMB1x9HiNt7zS1Z5SoNFQM",
+        "-id": "SJ4xac5QGH1e4g6qcXMHJZExaccXf",
         "stat:Title": "California Code",
         "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
         "stat:Version": "0.1",
         "stat:Currency": "2017-07-07",
         "stat:Level": {
-            "-id": "S1G5rsNFQMSJmcHi4KXGBJ49SsEFXf",
+            "-id": "ByzVxTq57GS1XEe655XzH1ENe6957G",
             "-depth": "3",
             "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
             "stat:Text": {
@@ -16,116 +16,1230 @@
             },
             "stat:Level": [
                 {
-                    "-id": "SJK-3BsNKmMHk5WhHoVFXzrJobnrsEY7G",
+                    "-id": "By0u0gp95mMBkJKRla9qXzrklKRe69qQf",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/GENERAL PROVISIONS",
                     "stat:Text": {
-                        "stat:heading": "GENERAL PROVISIONS",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "GENERAL PROVISIONS"
+                    },
+                    "stat:Level": [
+                        {
+                            "-id": "B1WxRlaccQfH1GlAxTq9XfrJQeAxac57M",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § undefined",
+                            "stat:Text": {
+                                "stat:p": []
+                            }
+                        },
+                        {
+                            "-id": "SJEeAep9cXfryrxCepc9mMBy8xCgp597f",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 1.",
+                            "stat:Text": {
+                                "stat:heading": "1.",
+                                "stat:p": [
+                                    "This act shall be known as the Business and Professions Code."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "H1veAeT59Qzry_xCgac57Mr1KgAea95Qz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 2.",
+                            "stat:Text": {
+                                "stat:heading": "2.",
+                                "stat:p": [
+                                    "The provisions of this code in so far as they are substantially the same as existing statutory provisions relating to the same subject matter shall be construed as restatements and continuations thereof, and not as new enactments."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "Bkcl0eT9cmfrkieRx6qq7zr12gClT5qQM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 3.",
+                            "stat:Text": {
+                                "stat:heading": "3.",
+                                "stat:p": [
+                                    "All persons who, at the time this code goes into effect, hold office under any of the acts repealed by this code, which offices are continued by this code, shall continue to hold the same according to the former tenure thereof."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "SkpxRxp59mMS10e0gpq9mGHJJZCxp9qmz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 4.",
+                            "stat:Text": {
+                                "stat:heading": "4.",
+                                "stat:p": [
+                                    "No action or proceeding commenced before this code takes effect, and no right accrued, is affected by the provisions of this code, but all procedure thereafter taken therein shall conform to the provisions of this code so far as possible."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "BJe-Rx65cmfHybW0xTc5XGSyGbCl6ccXG",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 5.",
+                            "stat:Text": {
+                                "stat:heading": "5.",
+                                "stat:p": [
+                                    "No rights given by any license or certificate under any act repealed by this code are affected by the enactment of this code or by such repeal, but such rights shall hereafter be exercised according to the provisions of this code."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "SkX-Rxp99QzryEZCxa9cmfHyHbCxp9cmz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 6.",
+                            "stat:Text": {
+                                "stat:heading": "6.",
+                                "stat:p": [
+                                    "All persons who, at the time this code goes into effect, are entitled to a certificate under any act repealed by this code, are thereby entitled to a certificate under the provisions of this code so far as the provisions of this code are applicable."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "BkIZ0eTq5mfByP-RlaqqXzHyO-Rlpq9mG",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 7.",
+                            "stat:Text": {
+                                "stat:heading": "7.",
+                                "stat:p": [
+                                    "Any conviction for a crime under any act repealed by this code, which crime is continued as a public offense by this code, constitutes a conviction under this code for any purpose for which it constituted a conviction under the act repealed."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "rytZRga5q7fB1cZClp5qXGBysZAep5cmz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 7.5.",
+                            "stat:Text": {
+                                "stat:heading": "7.5.",
+                                "stat:p": [
+                                    "A conviction within the meaning of this code means a plea or verdict of guilty or a conviction following a plea of nolo contendere. Any action which a board is permitted to take following the establishment of a conviction may be taken when the time for appeal has elapsed, or the judgment of conviction has been affirmed on appeal or when an order granting probation is made suspending the imposition of sentence, irrespective of a subsequent order under the provisions of Section 1203.4 of the Penal Code. However, a board may not deny a license to an applicant who is otherwise qualified pursuant to subdivision (b) of Section 480.",
+                                    "Nothing in\n\t\t\t\tthis section shall apply to the licensure of persons pursuant to Chapter 4 (commencing with Section 6000) of Division 3."
+                                ],
+                                "stat:Note": "(Added by Stats. 1979, Ch. 876.)"
+                            }
+                        },
+                        {
+                            "-id": "BJ2ZRgTc5mGByabRgT95QMH1CZ0gaqcXM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 8.",
+                            "stat:Text": {
+                                "stat:heading": "8.",
+                                "stat:p": [
+                                    "Unless the context otherwise requires, the general provisions hereinafter set forth shall govern the construction of this code."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "rykzRlac97fSJefRg6c97zr1WGClTq57G",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 9.",
+                            "stat:Text": {
+                                "stat:heading": "9.",
+                                "stat:p": [
+                                    "Division, part, chapter, article and section headings contained herein shall not be deemed to govern, limit, modify, or in any manner affect the scope, meaning, or intent of the provisions of this code."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "ByffRxTcqQfHyQfReTq5mzBJNGRla99QM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 10.",
+                            "stat:Text": {
+                                "stat:heading": "10.",
+                                "stat:p": [
+                                    "Whenever, by the provisions of this code, a power is granted to a public officer or a duty imposed upon such an officer, the power may be exercised or duty performed by a deputy of the officer or by a person authorized pursuant to law by the officer, unless it is expressly otherwise provided."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "H1Hf0gTc5XGHkIfReacqXfByvzAlaqc7G",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 11.",
+                            "stat:Text": {
+                                "stat:heading": "11.",
+                                "stat:p": [
+                                    "Writing includes any form of recorded message capable of comprehension by ordinary visual means. Whenever any notice, report, statement, or record is required by this code, it shall be made in writing in the English language unless it is otherwise expressly provided."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "SkdzRlp5qXfHJFGAlT59mfHJ5GAxpq57z",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 12.",
+                            "stat:Text": {
+                                "stat:heading": "12.",
+                                "stat:p": [
+                                    "Whenever any reference is made to any portion of this code or of any other law of this State, such reference shall apply to all amendments and additions thereto now or hereafter made."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "rkizCx65cmfrJhGAeTqqQMr1azClT9q7f",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 12.5.",
+                            "stat:Text": {
+                                "stat:heading": "12.5.",
+                                "stat:p": [
+                                    "Whenever in any provision of this code authority is granted to issue a citation for a violation of any provision of this code, that authority also includes the authority to issue a citation for the violation of any regulation adopted pursuant to any provision of this code."
+                                ],
+                                "stat:Note": "(Added by Stats. 1986, Ch. 1379, Sec. 1.)"
+                            }
+                        },
+                        {
+                            "-id": "H1RfCla9cmGHyyXCeT997GSJgQAep55Qf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 13.",
+                            "stat:Text": {
+                                "stat:heading": "13.",
+                                "stat:p": [
+                                    "The term “materia medica” as used in this code or in any initiative act referred to in this code, means those substances listed in the official United States Pharmacopoeia, the official Homeopathic Pharmacopoeia of the United States, the official United States Dispensatory, New and Nonofficial Remedies, or the National Formulary, or any supplement thereof, except substances covered by subdivision (a) of Section 4052 and Section 4057 of this code."
+                                ],
+                                "stat:Note": "(Added by Stats. 1961, Ch. 300.)"
+                            }
+                        },
+                        {
+                            "-id": "rJZXAe6c57fS1fmCl6q5XGBy7XRepc5mM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 14.",
+                            "stat:Text": {
+                                "stat:heading": "14.",
+                                "stat:p": [
+                                    "The present tense includes the past and future tenses; and the future, the present. Each gender includes the other two genders."
+                                ],
+                                "stat:Note": "(Amended by Stats. 1939, Ch. 30.)"
+                            }
+                        },
+                        {
+                            "-id": "rJV70gaccmGBkSXClpc5QzSJ8X0epqcQG",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 14.1.",
+                            "stat:Text": {
+                                "stat:heading": "14.1.",
+                                "stat:p": [
+                                    "The Legislature hereby declares its intent that the terms “man” or “men” where appropriate shall be deemed “person” or “persons” and any references to the terms “man” or “men” in sections of this code be changed to “person” or “persons” when such code sections are being amended for any purpose. This act is declaratory and not amendatory of existing law."
+                                ],
+                                "stat:Note": "(Added by Stats. 1976, Ch. 1171.)"
+                            }
+                        },
+                        {
+                            "-id": "HJPQ0gTqq7Gry_mAepcc7zHJFQ0l6597z",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 14.2.",
+                            "stat:Text": {
+                                "stat:heading": "14.2.",
+                                "stat:p": [
+                                    "“Spouse” includes “registered domestic partner,” as required by Section 297.5 of the Family Code."
+                                ],
+                                "stat:Note": "(Added by Stats. 2016, Ch. 50, Sec. 1.   (SB 1005)   Effective January 1, 2017.)"
+                            }
+                        },
+                        {
+                            "-id": "r1qm0l6cqQGH1jmCg6cqXfBkhXCxT55mM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 15.",
+                            "stat:Text": {
+                                "stat:heading": "15.",
+                                "stat:p": [
+                                    "“Section” means a section of this code unless some other statute is specifically mentioned. “Subdivision” means a subdivision of the section in which that term occurs, unless some other section is expressly mentioned."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "rJTmRlT9qQMH1RXRgpqqXGrk1NAxpqqQM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 16.",
+                            "stat:Text": {
+                                "stat:heading": "16.",
+                                "stat:p": [
+                                    "The singular number includes the plural, and the plural the singular."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "HkeNAgT5cQfr1bNRlT55XMHyMN0gp9qmG",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 17.",
+                            "stat:Text": {
+                                "stat:heading": "17.",
+                                "stat:p": [
+                                    "“County” includes city and county."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "BkXNReT5c7MSkVE0laq9QMHJB4Ax6c9Qf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 18.",
+                            "stat:Text": {
+                                "stat:heading": "18.",
+                                "stat:p": [
+                                    "“City” includes city and county."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "H1UV0lpc97fB1wVRxTqcXGHyOVRlpqcQf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 19.",
+                            "stat:Text": {
+                                "stat:heading": "19.",
+                                "stat:p": [
+                                    "“Shall” is mandatory and “may” is permissive."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "B1Y4Al699mGHJ5VClaq5mzHkoVCg6c5XM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 20.",
+                            "stat:Text": {
+                                "stat:heading": "20.",
+                                "stat:p": [
+                                    "“Oath” includes affirmation."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "Hk24Agp9qXzBJT40gT95XzryRV0lT9cmM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 21.",
+                            "stat:Text": {
+                                "stat:heading": "21.",
+                                "stat:p": [
+                                    "“State” means the State of California, unless applied to the different parts of the United States. In the latter case, it includes the District of Columbia and the territories."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "HkkSRe699XfBJeHClpcq7GBk-r0e695Xz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22.",
+                            "stat:Text": {
+                                "stat:heading": "22.",
+                                "stat:p": [
+                                    "“Board,” as used in any provision of this code, refers to the board in which the administration of the provision is vested, and unless otherwise expressly provided, shall include “bureau,” “commission,” “committee,” “department,” “division,” “examining committee,” “program,” and “agency.”"
+                                ],
+                                "stat:Note": "(Amended by Stats. 2010, Ch. 670, Sec. 1.   (AB 2130)   Effective January 1, 2011.)"
+                            }
+                        },
+                        {
+                            "-id": "rkzrCgaccmfSkQr0eTq9XMSyVS0gac9Xf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 23.",
+                            "stat:Text": {
+                                "stat:heading": "23.",
+                                "stat:p": [
+                                    "“Department,” unless otherwise defined, refers to the Department of Consumer Affairs.",
+                                    "Wherever the laws of this state refer to the Department of Professional and Vocational Standards, the reference shall be construed to be to the Department of Consumer Affairs."
+                                ],
+                                "stat:Note": "(Amended by Stats. 1971, Ch. 716.)"
+                            }
+                        },
+                        {
+                            "-id": "HJSrRxp59mfSJIrCgTqqXMrJvHCl65cmM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 23.5.",
+                            "stat:Text": {
+                                "stat:heading": "23.5.",
+                                "stat:p": [
+                                    "“Director,” unless otherwise defined, refers to the Director of Consumer Affairs.",
+                                    "Wherever the laws of this state refer to the Director of Professional and Vocational Standards, the reference shall be construed to be to the Director of Consumer Affairs."
+                                ],
+                                "stat:Note": "(Amended by Stats. 1971, Ch. 716.)"
+                            }
+                        },
+                        {
+                            "-id": "SJdSCepqcQMS1tH0gpq57zHy9SRxa557G",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 23.6.",
+                            "stat:Text": {
+                                "stat:heading": "23.6.",
+                                "stat:p": [
+                                    "“Appointing power,” unless otherwise defined, refers to the Director of Consumer Affairs."
+                                ],
+                                "stat:Note": "(Amended by Stats. 1971, Ch. 716.)"
+                            }
+                        },
+                        {
+                            "-id": "rkir0x65cXGrk3H0ep9cmfr1pr0x6qq7z",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 23.7.",
+                            "stat:Text": {
+                                "stat:heading": "23.7.",
+                                "stat:p": [
+                                    "Unless otherwise expressly provided, “license” means license, certificate, registration, or other means to engage in a business or profession regulated by this code or referred to in Section 1000 or 3600."
+                                ],
+                                "stat:Note": "(Added by Stats. 1994, Ch. 26, Sec. 1.   Effective March 30, 1994.)"
+                            }
+                        },
+                        {
+                            "-id": "ryCHRxT55mzHy1IAxT5qQGByxICgTq5QM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 23.8.",
+                            "stat:Text": {
+                                "stat:heading": "23.8.",
+                                "stat:p": [
+                                    "“Licentiate” means any person authorized by a license, certificate, registration, or other means to engage in a business or profession regulated by this code or referred to in Sections 1000 and 3600."
+                                ],
+                                "stat:Note": "(Added by Stats. 1961, Ch. 2232.)"
+                            }
+                        },
+                        {
+                            "-id": "Hk-8Alpc9QMSkfI0l6c5QfH1m80l6qcQf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 23.9.",
+                            "stat:Text": {
+                                "stat:heading": "23.9.",
+                                "stat:p": [
+                                    "Notwithstanding any other provision of this code, any individual who, while imprisoned in a state prison or other correctional institution, is trained, in the course of a rehabilitation program approved by the particular licensing agency concerned and provided by the prison or other correctional institution, in a particular skill, occupation, or profession for which a state license, certificate, or other evidence of proficiency is required by this code shall not, when released from the prison or institution, be denied the right to take the next regularly scheduled state examination or any examination thereafter required to obtain the license, certificate, or other evidence of\n\t\t\t\tproficiency and shall not be denied such license, certificate, or other evidence of proficiency, because of his imprisonment or the conviction from which the imprisonment resulted, or because he obtained his training in prison or in the correctional institution, if the licensing agency, upon recommendation of the Adult Authority or the Department of the Youth Authority, as the case may be, finds that he is a fit person to be licensed."
+                                ],
+                                "stat:Note": "(Added by renumbering Section 23.8 (as added by Stats. 1967, Ch. 1690) by Stats. 1971, Ch. 582.)"
+                            }
+                        },
+                        {
+                            "-id": "S1NU0x6qqmMS1SICla59mzBJL8Rxac9mM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 24.",
+                            "stat:Text": {
+                                "stat:heading": "24.",
+                                "stat:p": [
+                                    "If any provision of this code, or the application thereof, to any person or circumstance, is held invalid, the remainder of the code, or the application of such provision to other persons or circumstances, shall not be affected thereby."
+                                ],
+                                "stat:Note": "(Enacted by Stats. 1937, Ch. 399.)"
+                            }
+                        },
+                        {
+                            "-id": "BywLRxac5QMr1OI0l6c9QGrJt8Axp59Xz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 25.",
+                            "stat:Text": {
+                                "stat:heading": "25.",
+                                "stat:p": [
+                                    "Any person applying for a license, registration, or the first renewal of a license, after the effective date of this section, as a licensed marriage and family therapist, a licensed clinical social worker, a licensed psychologist, or a licensed professional clinical counselor shall, in addition to any other requirements, show by evidence satisfactory to the agency regulating the business or profession, that he or she has completed training in human sexuality as a condition of licensure. The training shall be creditable toward continuing education requirements as deemed appropriate by the agency regulating the business or profession, and the course shall not exceed more than 50 contact hours.",
+                                    "The Board of Psychology shall exempt\n\t\t\t\t  from the requirements of this section any persons whose field of practice is such that they are not likely to have use for this training.",
+                                    "“Human sexuality” as used in this section means the study of a human being as a sexual being and how he or she functions with respect thereto.",
+                                    "The content and length of the training shall be determined by the administrative agency regulating the business or profession and the agency shall proceed immediately upon the effective date of this section to determine what training, and the quality of staff to provide the training, is available and shall report its determination to the Legislature on or before July 1, 1977.",
+                                    "If a licensing board or agency proposes to establish a training program in human sexuality, the board or agency shall first consult with other licensing boards or agencies that have established or propose to establish a training\n\t\t\t\t  program in human sexuality to ensure that the programs are compatible in scope and content."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2011, Ch. 381, Sec. 1.   (SB 146)   Effective January 1, 2012.)"
+                            }
+                        },
+                        {
+                            "-id": "B1cL0e6qcmMSJsLAep957GBJ2L0ea59XM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 26.",
+                            "stat:Text": {
+                                "stat:heading": "26.",
+                                "stat:p": [
+                                    "Wherever, pursuant to this code, any state department, officer, board, agency, committee, or commission is authorized to adopt rules and regulations, such rules and regulations which are building standards, as defined in Section 18909 of the Health and Safety Code, shall be adopted pursuant to the provisions of Part 2.5 (commencing with Section 18901) of Division 13 of the Health and Safety Code unless the provisions of Sections 18930, 18933, 18938, 18940, 18943, 18944, and 18945 of the Health and Safety Code are expressly excepted in the provision of this code under which the authority to adopt the specific building standard is delegated. Any building standard adopted in\n\t\t\t\tviolation of this section shall have no force or effect. Any building standard adopted prior to January 1, 1980, pursuant to this code and not expressly excepted by statute from such provisions of the State Building Standards Law shall remain in effect only until January 1, 1985, or until adopted, amended, or superseded by provisions published in the State Building Standards Code, whichever occurs sooner."
+                                ],
+                                "stat:Note": "(Added by Stats. 1979, Ch. 1152.)"
+                            }
+                        },
+                        {
+                            "-id": "Hy6U0epqcXfr10IRxT9cXMBykv0eTccmf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 27.",
+                            "stat:Text": {
+                                "stat:heading": "27.",
+                                "stat:p": [
+                                    "(a) Each entity specified in subdivisions (c), (d), and (e) shall provide on the Internet information regarding the status of every license issued by that entity in accordance with the California Public Records Act (Chapter 3.5 (commencing with Section 6250) of Division 7 of Title 1 of the Government Code) and the Information Practices Act of 1977 (Chapter 1 (commencing with Section 1798) of Title 1.8 of Part 4 of Division 3 of the Civil Code). The public information to be provided on the Internet shall include information on suspensions and revocations of licenses issued by the entity and other related enforcement action, including accusations filed pursuant to the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division\n\t\t\t\t\t\t3 of Title 2 of the Government Code) taken by the entity relative to persons, businesses, or facilities subject to licensure or regulation by the entity. The information may not include personal information, including home telephone number, date of birth, or social security number. Each entity shall disclose a licensee’s address of record. However, each entity shall allow a licensee to provide a post office box number or other alternate address, instead of his or her home address, as the address of record. This section shall not preclude an entity from also requiring a licensee, who has provided a post office box number or other alternative mailing address as his or her address of record, to provide a physical business address or residence address only for the entity’s internal administrative use and not for disclosure as the licensee’s address of record or disclosure on the Internet.",
+                                    "(b) In providing information on the Internet, each entity specified in subdivisions (c) and (d) shall comply with the Department of Consumer Affairs’ guidelines for access to public records.",
+                                    "(c) Each of the following entities within the Department of Consumer Affairs shall comply with the requirements of this section:",
+                                    "(1) The Board for Professional Engineers, Land Surveyors, and Geologists shall disclose information on its registrants and licensees.",
+                                    "(2) The Bureau of Automotive Repair shall disclose information on its licensees, including auto repair dealers, smog stations, lamp and brake stations, smog check technicians, and smog inspection certification\n\t\t\t\t\t\tstations.",
+                                    "(3) The Bureau of Electronic and Appliance Repair, Home Furnishings, and Thermal Insulation shall disclose information on its licensees and registrants, including major appliance repair dealers, combination dealers (electronic and appliance), electronic repair dealers, service contract sellers, and service contract administrators.",
+                                    "(4) The Cemetery and Funeral Bureau shall disclose information on its licensees, including cemetery brokers, cemetery salespersons, cemetery managers, crematory managers, cemetery authorities, crematories, cremated remains disposers, embalmers, funeral establishments, and funeral directors.",
+                                    "(5) The Professional Fiduciaries Bureau shall disclose information on its licensees.",
+                                    "(6) The Contractors’ State License Board shall disclose information on its licensees and registrants in accordance with Chapter 9 (commencing with Section 7000) of Division 3. In addition to information related to licenses as specified in subdivision (a), the board shall also disclose information provided to the board by the Labor Commissioner pursuant to Section 98.9 of the Labor Code.",
+                                    "(7) The Bureau for Private Postsecondary Education shall disclose information on private postsecondary institutions under its jurisdiction, including disclosure of notices to comply issued pursuant to Section 94935 of the Education Code.",
+                                    "(8) The California Board of Accountancy shall disclose information on its licensees and\n\t\t\t\t\t\tregistrants.",
+                                    "(9) The California Architects Board shall disclose information on its licensees, including architects and landscape architects.",
+                                    "(10) The State Athletic Commission shall disclose information on its licensees and registrants.",
+                                    "(11) The State Board of Barbering and Cosmetology shall disclose information on its licensees.",
+                                    "(12) The State Board of Guide Dogs for the Blind shall disclose information on its licensees and registrants.",
+                                    "(13) The Acupuncture Board shall disclose information on its licensees.",
+                                    "(14) The Board of Behavioral\n\t\t\t\t\t\tSciences shall disclose information on its licensees, including licensed marriage and family therapists, licensed clinical social workers, licensed educational psychologists, and licensed professional clinical counselors.",
+                                    "(15) The Dental Board of California shall disclose information on its licensees.",
+                                    "(16) The State Board of Optometry shall disclose information on its licensees and registrants.",
+                                    "(17) The Board of Psychology shall disclose information on its licensees, including psychologists, psychological assistants, and registered psychologists.",
+                                    "(18) The Veterinary Medical Board shall disclose information on its licensees, registrants, and permitholders.",
+                                    "(d) The State Board of Chiropractic Examiners shall disclose information on its licensees.",
+                                    "(e) The Structural Pest Control Board shall disclose information on its licensees, including applicators, field representatives, and operators in the areas of fumigation, general pest and wood destroying pests and organisms, and wood roof cleaning and treatment.",
+                                    "(f) The Bureau of Medical Cannabis Regulation shall disclose information on its licensees.",
+                                    "(g) “Internet” for the purposes of this section has the meaning set forth in paragraph (6) of subdivision (f) of Section 17538."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2017, Ch. 429, Sec. 1.   (SB 547)   Effective January 1, 2018.)"
+                            }
+                        },
+                        {
+                            "-id": "r1lwCxa597MBkbv0e65qXfHJzDAlp997M",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 27.6.",
+                            "stat:Text": {
+                                "stat:heading": "27.6.",
+                                "stat:p": [
+                                    "The successor agency to the Bureau for Private Postsecondary and Vocational Education shall transmit any available data regarding school performance, including, but not limited to, attendance and graduation rates, it receives from any schools under its jurisdiction to the California Postsecondary Education Commission."
+                                ],
+                                "stat:Note": "(Added by Stats. 2009, Ch. 642, Sec. 1.   (SB 599)    Effective November 2, 2009.   Became operative as provided in Sec. 5 of Ch. 642.)"
+                            }
+                        },
+                        {
+                            "-id": "SJQP0gaqc7MSy4P0lTc9mGryHvCxa59Xf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 28.",
+                            "stat:Text": {
+                                "stat:heading": "28.",
+                                "stat:p": [
+                                    "(a) The Legislature finds that there is a need to ensure that professionals of the healing arts who have demonstrable contact with victims and potential victims of child, elder, and dependent adult abuse, and abusers and potential abusers of children, elders, and dependent adults are provided with adequate and appropriate training regarding the assessment and reporting of child, elder, and dependent adult abuse that will ameliorate, reduce, and eliminate the trauma of abuse and neglect and ensure the reporting of abuse in a timely manner to prevent additional occurrences.",
+                                    "(b) The Board of Psychology and the Board of Behavioral Sciences shall establish required training in the area of child abuse assessment and reporting for\n\t\t\t\t  all persons applying for initial licensure and renewal of a license as a psychologist, clinical social worker, professional clinical counselor, or marriage and family therapist. This training shall be required one time only for all persons applying for initial licensure or for licensure renewal.",
+                                    "(c) All persons applying for initial licensure or renewal of a license as a psychologist, clinical social worker, professional clinical counselor, or marriage and family therapist shall, in addition to all other requirements for licensure or renewal, have completed coursework or training in child abuse assessment and reporting that meets the requirements of this section, including detailed knowledge of the Child Abuse and Neglect Reporting Act (Article 2.5 (commencing with Section 11164) of Chapter 2 of Title 1 of Part 4 of the Penal Code). The training shall meet all of the following requirements:",
+                                    "(1) Be obtained from one of the following sources:",
+                                    "(A) An accredited or approved educational institution, as defined in Sections 2902, 4980.36, 4980.37, 4996.18, and 4999.12, including extension courses offered by those institutions.",
+                                    "(B) A continuing education provider as specified by the responsible board by regulation.",
+                                    "(C) A course sponsored or offered by a professional association or a local, county, or state department of health or mental health for continuing education and approved or accepted by the responsible board.",
+                                    "(2) Have a minimum of seven contact hours.",
+                                    "(3) Include the study of the assessment and method of reporting of sexual assault, neglect, severe neglect,\n\t\t\t\t  general neglect, willful cruelty or unjustifiable punishment, corporal punishment or injury, and abuse in out-of-home care. The training shall also include physical and behavioral indicators of abuse, crisis counseling techniques, community resources, rights and responsibilities of reporting, consequences of failure to report, caring for a child’s needs after a report is made, sensitivity to previously abused children and adults, and implications and methods of treatment for children and adults.",
+                                    "(4) An applicant shall provide the appropriate board with documentation of completion of the required child abuse training.",
+                                    "(d) The Board of Psychology and the Board of Behavioral Sciences shall exempt an applicant who applies for an exemption from this section and who shows to the satisfaction of the board that there would be no need for the training in his or her practice because of the\n\t\t\t\t  nature of that practice.",
+                                    "(e) It is the intent of the Legislature that a person licensed as a psychologist, clinical social worker, professional clinical counselor, or marriage and family therapist have minimal but appropriate training in the areas of child, elder, and dependent adult abuse assessment and reporting. It is not intended that, by solely complying with this section, a practitioner is fully trained in the subject of treatment of child, elder, and dependent adult abuse victims and abusers.",
+                                    "(f) The Board of Psychology and the Board of Behavioral Sciences are encouraged to include coursework regarding the assessment and reporting of elder and dependent adult abuse in the required training on aging and long-term care issues prior to licensure or license renewal."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2015, Ch. 426, Sec. 1.   (SB 800)   Effective January 1, 2016.)"
+                            }
+                        },
+                        {
+                            "-id": "S1LvAxpqqQzSJvP0gTqc7GrkdvRga957G",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 29.",
+                            "stat:Text": {
+                                "stat:heading": "29.",
+                                "stat:p": [
+                                    "(a) The Board of Psychology and the Board of Behavioral Sciences shall consider adoption of continuing education requirements including training in the area of recognizing chemical dependency and early intervention for all persons applying for renewal of a license as a psychologist, clinical social worker, marriage and family therapist, or professional clinical counselor.",
+                                    "(b) Prior to the adoption of any regulations imposing continuing education relating to alcohol and other chemical dependency, the boards are urged to consider coursework to include, but not necessarily be limited to, the following topics:",
+                                    "(1) Historical\n\t\t\t\t  and contemporary perspectives on alcohol and other drug abuse.",
+                                    "(2) Extent of the alcohol and drug abuse epidemic and its effects on the individual, family, and community.",
+                                    "(3) Recognizing the symptoms of alcoholism and drug addiction.",
+                                    "(4) Making appropriate interpretations, interventions, and referrals.",
+                                    "(5) Recognizing and intervening with affected family members.",
+                                    "(6) Learning about current programs of recovery, such as 12 step programs, and how therapists can effectively utilize these programs."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2011, Ch. 381, Sec. 3.   (SB 146)   Effective January 1, 2012.)"
+                            }
+                        },
+                        {
+                            "-id": "rJKw0gac5mGB1qDAlac9XGB1iD0e6qq7G",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 29.5.",
+                            "stat:Text": {
+                                "stat:heading": "29.5.",
+                                "stat:p": [
+                                    "In addition to other qualifications for licensure prescribed by the various acts of boards under the department, applicants for licensure and licensees renewing their licenses shall also comply with Section 17520 of the Family Code."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2003, Ch. 607, Sec. 1.   Effective January 1, 2004.)"
+                            }
+                        },
+                        {
+                            "-id": "BJ3vAlTc57Mrk6DRg65cXGBk0D0gacqmM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 30.",
+                            "stat:Text": {
+                                "stat:heading": "30.",
+                                "stat:p": [
+                                    "(a) (1) Notwithstanding any other law, any board, as defined in Section 22, and the State Bar and the Bureau of Real Estate shall, at the time of issuance of the license, require that the applicant provide its federal employer identification number, if the applicant is a partnership, or the applicant’s social security number for all other applicants.",
+                                    "(2) No later than January 1, 2016, in accordance with Section 135.5, a board, as defined in Section 22, and the State Bar and the Bureau of Real Estate shall require either the individual taxpayer identification number or social security number if the applicant is an individual for purposes of this subdivision.",
+                                    "(b) A licensee failing to\n\t\t\t\t  provide the federal employer identification number, or the individual taxpayer identification number or social security number shall be reported by the licensing board to the Franchise Tax Board. If the licensee fails to provide that information after notification pursuant to paragraph (1) of subdivision (b) of Section 19528 of the Revenue and Taxation Code, the licensee shall be subject to the penalty provided in paragraph (2) of subdivision (b) of Section 19528 of the Revenue and Taxation Code.",
+                                    "(c) In addition to the penalty specified in subdivision (b), a licensing board shall not process an application for an initial license unless the applicant provides its federal employer identification number, or individual taxpayer identification number or social security number where requested on the application.",
+                                    "(d) A licensing board shall, upon request of the Franchise Tax Board or the\n\t\t\t\t  Employment Development Department, furnish to the board or the department, as applicable, the following information with respect to every licensee:",
+                                    "(1) Name.",
+                                    "(2) Address or addresses of record.",
+                                    "(3) Federal employer identification number if the licensee is a partnership, or the licensee’s individual taxpayer identification number or social security number for all other licensees.",
+                                    "(4) Type of license.",
+                                    "(5) Effective date of license or a renewal.",
+                                    "(6) Expiration date of license.",
+                                    "(7) Whether license is active or inactive, if known.",
+                                    "(8) Whether license is new or a renewal.",
+                                    "(e) For the purposes of this section:",
+                                    "(1) “Licensee” means a person or entity, other than a corporation, authorized by a license, certificate, registration, or other means to engage in a business or profession regulated by this code or referred to in Section 1000 or 3600.",
+                                    "(2) “License” includes a certificate, registration, or any other authorization needed to engage in a business or profession regulated by this code or referred to in Section 1000 or 3600.",
+                                    "(3) “Licensing board” means any board, as defined in Section 22, the State Bar, and the Bureau of Real Estate.",
+                                    "(f) The reports required\n\t\t\t\t  under this section shall be filed on magnetic media or in other machine-readable form, according to standards furnished by the Franchise Tax Board or the Employment Development Department, as applicable.",
+                                    "(g) Licensing boards shall provide to the Franchise Tax Board or the Employment Development Department the information required by this section at a time that the board or the department, as applicable, may require.",
+                                    "(h) Notwithstanding Chapter 3.5 (commencing with Section 6250) of Division 7 of Title 1 of the Government Code, a federal employer identification number, individual taxpayer identification number, or social security number furnished pursuant to this section shall not be deemed to be a public record and shall not be open to the public for inspection.",
+                                    "(i) A deputy, agent, clerk, officer, or employee of a\n\t\t\t\t  licensing board described in subdivision (a), or any former officer or employee or other individual who, in the course of his or her employment or duty, has or has had access to the information required to be furnished under this section, shall not disclose or make known in any manner that information, except as provided pursuant to this section to the Franchise Tax Board, the Employment Development Department, or the Office of the Chancellor of the California Community Colleges, or as provided in subdivision (k).",
+                                    "(j) It is the intent of the Legislature in enacting this section to utilize the federal employer identification number, individual taxpayer identification number, or social security number for the purpose of establishing the identification of persons affected by state tax laws, for purposes of compliance with Section 17520 of the Family Code, and for purposes of measuring employment outcomes of students who participate in career\n\t\t\t\t  technical education programs offered by the California Community Colleges and, to that end, the information furnished pursuant to this section shall be used exclusively for those purposes.",
+                                    "(k) If the board utilizes a national examination to issue a license, and if a reciprocity agreement or comity exists between the State of California and the state requesting release of the individual taxpayer identification number or social security number, any deputy, agent, clerk, officer, or employee of any licensing board described in subdivision (a) may release an individual taxpayer identification number or social security number to an examination or licensing entity, only for the purpose of verification of licensure or examination status.",
+                                    "(l) For the purposes of enforcement of Section 17520 of the Family Code, and notwithstanding any other law, a board, as defined in Section 22,\n\t\t\t\t  and the State Bar and the Bureau of Real Estate shall at the time of issuance of the license require that each licensee provide the individual taxpayer identification number or social security number of each individual listed on the license and any person who qualifies for the license. For the purposes of this subdivision, “licensee” means an entity that is issued a license by any board, as defined in Section 22, the State Bar, the Bureau of Real Estate, and the Department of Motor Vehicles.",
+                                    "(m) The department shall, upon request by the Office of the Chancellor of the California Community Colleges, furnish to the chancellor’s office, as applicable, the following information with respect to every licensee:",
+                                    "(1) Name.",
+                                    "(2) Federal employer identification number if the licensee is a partnership, or the licensee’s\n\t\t\t\t  individual taxpayer identification number or social security number for all other licensees.",
+                                    "(3) Date of birth.",
+                                    "(4) Type of license.",
+                                    "(5) Effective date of license or a renewal.",
+                                    "(6) Expiration date of license.",
+                                    "(n) The department shall make available information pursuant to subdivision (m) only to allow the chancellor’s office to measure employment outcomes of students who participate in career technical education programs offered by the California Community Colleges and recommend how these programs may be improved. Licensure information made available by the department pursuant to this section shall not be used for any other purpose.",
+                                    "(o) The department may make available information pursuant to subdivision (m) only to the extent that making the information available complies with state and federal privacy laws.",
+                                    "(p) The department may, by agreement, condition or limit the availability of licensure information pursuant to subdivision (m) in order to ensure the security of the information and to protect the privacy rights of the individuals to whom the information pertains.",
+                                    "(q) All of the following apply to the licensure information made available pursuant to subdivision (m):",
+                                    "(1) It shall be limited to only the information necessary to accomplish the purpose authorized in subdivision (n).",
+                                    "(2) It shall not be used in a manner\n\t\t\t\t  that permits third parties to personally identify the individual or individuals to whom the information pertains.",
+                                    "(3) Except as provided in subdivision (n), it shall not be shared with or transmitted to any other party or entity without the consent of the individual or individuals to whom the information pertains.",
+                                    "(4) It shall be protected by reasonable security procedures and practices appropriate to the nature of the information to protect that information from unauthorized access, destruction, use, modification, or disclosure.",
+                                    "(5) It shall be immediately and securely destroyed when no longer needed for the purpose authorized in subdivision (n).",
+                                    "(r) The department or the chancellor’s office may share licensure information with a third party who\n\t\t\t\t  contracts to perform the function described in subdivision (n), if the third party is required by contract to follow the requirements of this section.",
+                                    "(s) This section shall remain in effect only until July 1, 2018, and as of that date is repealed."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2017, Ch. 828, Sec. 1.   (SB 173)   Effective January 1, 2018.   Repealed as of July 1, 2018, by its own provisions.   See later operative version added by Sec. 2 of Stats. 2017, Ch. 828.)"
+                            }
+                        },
+                        {
+                            "-id": "BJyuCg699mMrJlu0lacq7zHkbdCgTc5mf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 30.",
+                            "stat:Text": {
+                                "stat:heading": "30.",
+                                "stat:p": [
+                                    "(a) (1) Notwithstanding any other law, any board, as defined in Section 22, and the State Bar and the Department of Real Estate shall, at the time of issuance of the license, require that the applicant provide its federal employer identification number, if the applicant is a partnership, or the applicant’s social security number for all other applicants.",
+                                    "(2) No later than January 1, 2016, in accordance with Section 135.5, a board, as defined in Section 22, and the State Bar and the Department of Real Estate shall require either the individual taxpayer identification number or social security number if the applicant is an individual for purposes of this subdivision.",
+                                    "(b) A licensee failing to provide the federal employer identification number, or the individual taxpayer identification number or social security number shall be reported by the licensing board to the Franchise Tax Board. If the licensee fails to provide that information after notification pursuant to paragraph (1) of subdivision (b) of Section 19528 of the Revenue and Taxation Code, the licensee shall be subject to the penalty provided in paragraph (2) of subdivision (b) of Section 19528 of the Revenue and Taxation Code.",
+                                    "(c) In addition to the penalty specified in subdivision (b), a licensing board shall not process an application for an initial license unless the applicant provides its federal employer identification number, or individual taxpayer identification number or social security number where requested on the\n\t\t\t\t  application.",
+                                    "(d) A licensing board shall, upon request of the Franchise Tax Board or the Employment Development Department, furnish to the board or the department, as applicable, the following information with respect to every licensee:",
+                                    "(1) Name.",
+                                    "(2) Address or addresses of record.",
+                                    "(3) Federal employer identification number if the licensee is a partnership, or the licensee’s individual taxpayer identification number or social security number for all other licensees.",
+                                    "(4) Type of license.",
+                                    "(5) Effective date of license or a renewal.",
+                                    "(6) Expiration date of license.",
+                                    "(7) Whether license is active or inactive, if known.",
+                                    "(8) Whether license is new or a renewal.",
+                                    "(e) For the purposes of this section:",
+                                    "(1) “Licensee” means a person or entity, other than a corporation, authorized by a license, certificate, registration, or other means to engage in a business or profession regulated by this code or referred to in Section 1000 or 3600.",
+                                    "(2) “License” includes a certificate, registration, or any other authorization needed to engage in a business or profession regulated by this code or referred to in Section 1000 or 3600.",
+                                    "(3) “Licensing board” means any board, as defined in Section 22, the State Bar, and the Department of Real Estate.",
+                                    "(f) The reports required under this section\n\t\t\t\t  shall be filed on magnetic media or in other machine-readable form, according to standards furnished by the Franchise Tax Board or the Employment Development Department, as applicable.",
+                                    "(g) Licensing boards shall provide to the Franchise Tax Board or the Employment Development Department the information required by this section at a time that the board or the department, as applicable, may require.",
+                                    "(h) Notwithstanding Chapter 3.5 (commencing with Section 6250) of Division 7 of Title 1 of the Government Code, a federal employer identification number, individual taxpayer identification number, or social security number furnished pursuant to this section shall not be deemed to be a public record and shall not be open to the public for inspection.",
+                                    "(i) A deputy, agent, clerk, officer, or employee of a licensing board described in subdivision (a), or any former officer or employee or other individual who, in the course of his or her employment or duty, has or has had access to the information required to be furnished under this section, shall not disclose or make known in any manner that information, except as provided pursuant to this section to the Franchise Tax Board, the Employment Development Department, or the Office of the Chancellor of the California Community Colleges, or as provided in subdivision (k).",
+                                    "(j) It is the intent of the Legislature in enacting this section to utilize the federal employer identification number, individual taxpayer identification number, or social security number for the purpose of establishing the identification of persons affected\n\t\t\t\t  by state tax laws, for purposes of compliance with Section 17520 of the Family Code, and for purposes of measuring employment outcomes of students who participate in career technical education programs offered by the California Community Colleges and, to that end, the information furnished pursuant to this section shall be used exclusively for those purposes.",
+                                    "(k) If the board utilizes a national examination to issue a license, and if a reciprocity agreement or comity exists between the State of California and the state requesting release of the individual taxpayer identification number or social security number, any deputy, agent, clerk, officer, or employee of any licensing board described in subdivision (a) may release an individual taxpayer identification number or social security number to an examination or licensing entity, only for the purpose of verification of licensure or\n\t\t\t\t  examination status.",
+                                    "(l) For the purposes of enforcement of Section 17520 of the Family Code, and notwithstanding any other law, a board, as defined in Section 22, and the State Bar and the Department of Real Estate shall at the time of issuance of the license require that each licensee provide the individual taxpayer identification number or social security number of each individual listed on the license and any person who qualifies for the license. For the purposes of this subdivision, “licensee” means an entity that is issued a license by any board, as defined in Section 22, the State Bar, the Department of Real Estate, and the Department of Motor Vehicles.",
+                                    "(m) The department shall, upon request by the Office of the Chancellor of the California Community\n\t\t\t\t  Colleges, furnish to the chancellor’s office, as applicable, the following information with respect to every licensee:",
+                                    "(1) Name.",
+                                    "(2) Federal employer identification number if the licensee is a partnership, or the licensee’s individual taxpayer identification number or social security number for all other licensees.",
+                                    "(3) Date of birth.",
+                                    "(4) Type of license.",
+                                    "(5) Effective date of license or a\n\t\t\t\t  renewal.",
+                                    "(6) Expiration date of license.",
+                                    "(n) The department shall make available information pursuant to subdivision (m) only to allow the chancellor’s office to measure employment outcomes of students who participate in career technical education programs offered by the California Community Colleges and recommend how these programs may be improved. Licensure information made available by the department pursuant to this section shall not be used for any other purpose.",
+                                    "(o) The department may make available information pursuant to subdivision (m) only to the extent that making the information available complies with state and federal\n\t\t\t\t  privacy laws.",
+                                    "(p) The department may, by agreement, condition or limit the availability of licensure information pursuant to subdivision (m) in order to ensure the security of the information and to protect the privacy rights of the individuals to whom the information pertains.",
+                                    "(q) All of the following apply to the licensure information made available pursuant to subdivision (m):",
+                                    "(1) It shall be limited to only the information necessary to accomplish the purpose authorized in subdivision (n).",
+                                    "(2) It shall not be\n\t\t\t\t  used in a manner that permits third parties to personally identify the individual or individuals to whom the information pertains.",
+                                    "(3) Except as provided in subdivision (n), it shall not be shared with or transmitted to any other party or entity without the consent of the individual or individuals to whom the information pertains.",
+                                    "(4) It shall be protected by reasonable security procedures and practices appropriate to the nature of the information to protect that information from unauthorized access, destruction, use, modification, or disclosure.",
+                                    "(5) It shall be immediately and securely destroyed when no longer needed for the purpose\n\t\t\t\t  authorized in subdivision (n).",
+                                    "(r) The department or the chancellor’s office may share licensure information with a third party who contracts to perform the function described in subdivision (n), if the third party is required by contract to follow the requirements of this section.",
+                                    "(s) This section shall become operative on July 1, 2018."
+                                ],
+                                "stat:Note": "(Repealed (in Sec. 1) and added by Stats. 2017, Ch. 828, Sec. 2.   (SB 173)   Effective January 1, 2018.   Section operative July 1, 2018, by its own provisions.)"
+                            }
+                        },
+                        {
+                            "-id": "ByfuCl6ccXGr1QORxT9qmzHJ4dRxp957G",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 31.",
+                            "stat:Text": {
+                                "stat:heading": "31.",
+                                "stat:p": [
+                                    "(a) As used in this section, “board” means any entity listed in Section 101, the entities referred to in Sections 1000 and 3600, the State Bar, the Bureau of Real Estate, and any other state agency that issues a license, certificate, or registration authorizing a person to engage in a business or profession.",
+                                    "(b) Each applicant for the issuance or renewal of a license, certificate, registration, or other means to engage in a business or profession regulated by a board who is not in compliance with a judgment or order for support shall be subject to Section 17520 of the Family Code.",
+                                    "(c) “Compliance with a judgment or order for\n\t\t\t\t\t\tsupport” has the meaning given in paragraph (4) of subdivision (a) of Section 17520 of the Family Code.",
+                                    "(d) Each licensee or applicant whose name appears on a list of the 500 largest tax delinquencies pursuant to Section 7063 or 19195 of the Revenue and Taxation Code shall be subject to Section 494.5.",
+                                    "(e) Each application for a new license or renewal of a license shall indicate on the application that the law allows the State Board of Equalization and the Franchise Tax Board to share taxpayer information with a board and requires the licensee to pay his or her state tax obligation and that his or her license may be suspended if the state tax obligation is not paid.",
+                                    "(f) For purposes of this section, “tax obligation”\n\t\t\t\t\t\tmeans the tax imposed under, or in accordance with, Part 1 (commencing with Section 6001), Part 1.5 (commencing with Section 7200), Part 1.6 (commencing with Section 7251), Part 1.7 (commencing with Section 7280), Part 10 (commencing with Section 17001), or Part 11 (commencing with Section 23001) of Division 2 of the Revenue and Taxation Code."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2013, Ch. 352, Sec. 2.   (AB 1317)   Effective September 26, 2013.   Operative July 1, 2013, by Sec. 543 of Ch. 352.)"
+                            }
+                        },
+                        {
+                            "-id": "rJrO0l6q5QMBJLd0epccQfr1w_0gT5cQz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 32.",
+                            "stat:Text": {
+                                "stat:heading": "32.",
+                                "stat:p": [
+                                    "(a) The Legislature finds that there is a need to ensure that professionals of the healing arts who have or intend to have significant contact with patients who have, or are at risk to be exposed to, acquired immune deficiency syndrome (AIDS) are provided with training in the form of continuing education regarding the characteristics and methods of assessment and treatment of the condition.",
+                                    "(b) A board vested with the responsibility of regulating the following licensees shall consider including training regarding the characteristics and method of assessment and treatment of acquired immune deficiency syndrome (AIDS) in any continuing education or training requirements for those\n\t\t\t\t  licensees: chiropractors, medical laboratory technicians, dentists, dental hygienists, dental assistants, physicians and surgeons, podiatrists, registered nurses, licensed vocational nurses, psychologists, physician assistants, respiratory therapists, acupuncturists, marriage and family therapists, licensed educational psychologists, clinical social workers, and professional clinical counselors."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2011, Ch. 381, Sec. 4.   (SB 146)   Effective January 1, 2012.)"
+                            }
+                        },
+                        {
+                            "-id": "HJddAlTq5mMr1tOClp9qXMBJqORxa5cQM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 35.",
+                            "stat:Text": {
+                                "stat:heading": "35.",
+                                "stat:p": [
+                                    "It is the policy of this state that, consistent with the provision of high-quality services, persons with skills, knowledge, and experience obtained in the armed services of the United States should be permitted to apply this learning and contribute to the employment needs of the state at the maximum level of responsibility and skill for which they are qualified. To this end, rules and regulations of boards provided for in this code shall provide for methods of evaluating education, training, and experience obtained in the armed services, if applicable to the requirements of the business, occupation, or profession regulated. These rules and regulations shall also specify how this education, training, and experience may be used to meet the licensure requirements for the\n\t\t\t\t  particular business, occupation, or profession regulated. Each board shall consult with the Department of Veterans Affairs and the Military Department before adopting these rules and regulations. Each board shall perform the duties required by this section within existing budgetary resources of the agency within which the board operates."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2010, Ch. 214, Sec. 1.   (AB 2783)   Effective January 1, 2011.)"
+                            }
+                        },
+                        {
+                            "-id": "HkiORl6c5QMrJhdCxTcqmGBy6uRla99Qf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 40.",
+                            "stat:Text": {
+                                "stat:heading": "40.",
+                                "stat:p": [
+                                    "(a) Subject to the standards described in Section 19130 of the Government Code, any board, as defined in Section 22, the State Board of Chiropractic Examiners, or the Osteopathic Medical Board of California may enter into an agreement with an expert consultant to do any of the following:",
+                                    "(1) Provide an expert opinion on enforcement-related matters, including providing testimony at an administrative hearing.",
+                                    "(2) Assist the board as a subject matter expert in examination development, examination validation, or occupational analyses.",
+                                    "(3) Evaluate the mental or physical health of a\n\t\t\t\t  licensee or an applicant for a license as may be necessary to protect the public health and safety.",
+                                    "(b) An executed contract between a board and an expert consultant shall be exempt from the provisions of Part 2 (commencing with Section 10100) of Division 2 of the Public Contract Code.",
+                                    "(c) Each board shall establish policies and procedures for the selection and use of expert consultants.",
+                                    "(d) Nothing in this section shall be construed to expand the scope of practice of an expert consultant providing services pursuant to this section."
+                                ],
+                                "stat:Note": "(Added by Stats. 2011, Ch. 339, Sec. 1.   (SB 541)   Effective September 26, 2011.)"
+                            }
+                        }
+                    ]
                 },
                 {
-                    "-id": "rkJznSjNt7zBygGhHo4tQfSJbGnHiVFmz",
+                    "-id": "Hkrne65qmfH18ngac9mMSyDneT9qmM",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 1. DEPARTMENT OF CONSUMER AFFAIRS",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 1. DEPARTMENT OF CONSUMER AFFAIRS",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 1. DEPARTMENT OF CONSUMER AFFAIRS"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "r1Bz2SiNt7GHyIz3BiNYQzSJPGhBoVFXz",
+                    "-id": "B13g6ccQzSJe3ea557MrJW2xac57z",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 1.5. DENIAL, SUSPENSION AND REVOCATION OF LICENSES",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 1.5. DENIAL, SUSPENSION AND REVOCATION OF LICENSES",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 1.5. DENIAL, SUSPENSION AND REVOCATION OF LICENSES"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "B1iG3ri4FQMHy2z2HoNFmzSk6fnrsVFmz",
+                    "-id": "H1oalTcqQzHynpgpcc7zSyT6lp5cmz",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 2. HEALING ARTS",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 2. HEALING ARTS",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 2. HEALING ARTS"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "SJZX3BiVYXfH1zQ3HjVF7Mr1XXhrjNYQM",
+                    "-id": "Bk0x6cc7MBklRga557zry-Alpc9mf",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 3. PROFESSIONS AND VOCATIONS GENERALLY",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 3. PROFESSIONS AND VOCATIONS GENERALLY",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 3. PROFESSIONS AND VOCATIONS GENERALLY"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "HJvmnBoNYQGSydm2HiVYXMrktmnSs4K7M",
+                    "-id": "rkZe3epc97GS1Gx2xacqmfHkml2xaqq7M",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 4. REAL ESTATE",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 4. REAL ESTATE",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 4. REAL ESTATE"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "B1pm3HiVK7fByCmhBiEYQzHk1V2HjEKQM",
+                    "-id": "H1wehgT5cXGHyuehx699XzrkKx2eaq9mf",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 5. WEIGHTS AND MEASURES",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 5. WEIGHTS AND MEASURES",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 5. WEIGHTS AND MEASURES"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "Bkm4nrs4K7GByNV3rsEtQGrJSNnSjNK7G",
+                    "-id": "BJsnea99XGBy22xTcc7GBJ63eTq57f",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 6. BUSINESS RIGHTS",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 6. BUSINESS RIGHTS",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 6. BUSINESS RIGHTS"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "B1FNhSsNKQGSk5EnSs4FQGBkjNnBiNFmM",
+                    "-id": "B1Saxaq9XfBJI6gp55QzB1DTl65c7f",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 7. GENERAL BUSINESS REGULATIONS",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 7. GENERAL BUSINESS REGULATIONS",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 7. GENERAL BUSINESS REGULATIONS"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "ryJHnBiEK7fHJer2SsEFQzHk-r3BsEF7M",
+                    "-id": "HkSAe6q97MBkUCxa99QGBywCea59Xz",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 8. SPECIAL BUSINESS REGULATIONS",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 8. SPECIAL BUSINESS REGULATIONS",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 8. SPECIAL BUSINESS REGULATIONS"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "S1HB3HjEYQfBkISnSjVtXMrkvSnro4FXf",
+                    "-id": "rkfMkbpc5XzSyXMJZ6ccXfH1EMkZaq9Xf",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 8.5. STOP TOBACCO ACCESS TO KIDS ENFORCEMENT ACT",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 8.5. STOP TOBACCO ACCESS TO KIDS ENFORCEMENT ACT",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 8.5. STOP TOBACCO ACCESS TO KIDS ENFORCEMENT ACT"
+                    },
+                    "stat:Level": [
+                        {
+                            "-id": "H1kb6q5XfS1e1-Tq9QzH1-yW69qXf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § undefined",
+                            "stat:Text": {
+                                "stat:p": []
+                            }
+                        },
+                        {
+                            "-id": "SyMyW65q7zSy7yW6qc7fr1VJZa5qQz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22950.",
+                            "stat:Text": {
+                                "stat:heading": "22950.",
+                                "stat:p": [
+                                    "This Division shall be known and may be referred to as the Stop Tobacco Access to Kids Enforcement Act or the STAKE Act."
+                                ],
+                                "stat:Note": "(Added by Stats. 1994, Ch. 1009, Sec. 1.   Effective January 1, 1995.)"
+                            }
+                        },
+                        {
+                            "-id": "S1HJWpccQzS18kWpq9XGHJDJW699mz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22950.5.",
+                            "stat:Text": {
+                                "stat:heading": "22950.5.",
+                                "stat:p": [
+                                    "For purposes of this division, the following terms have the following meanings:",
+                                    "(a) “Department” means the State Department of Public Health.",
+                                    "(b) “Enforcing agency” means the State Department of Public Health, another state agency, including, but not limited to, the office of the Attorney General, or a local law enforcement agency, including, but not limited to, a city attorney, district attorney, or county counsel.",
+                                    "(c) “Smoking” means inhaling, exhaling, burning, or carrying any lighted or heated cigar, cigarette, or pipe, or any other lighted or heated tobacco or plant\n\t\t\t\t  product intended for inhalation, whether natural or synthetic, in any manner or in any form. “Smoking” includes the use of an electronic smoking device that creates an aerosol or vapor, in any manner or in any form, or the use of any oral smoking device for the purpose of circumventing the prohibition of smoking.",
+                                    "(d) (1) “Tobacco product” means any of the following:",
+                                    "(A) A product containing, made, or derived from tobacco or nicotine that is intended for human consumption, whether smoked, heated, chewed, absorbed, dissolved, inhaled, snorted, sniffed, or ingested by any other means, including, but not limited to, cigarettes, cigars, little cigars, chewing tobacco, pipe tobacco, or snuff.",
+                                    "(B) An electronic device that delivers nicotine or other vaporized liquids to the person inhaling from the\n\t\t\t\t  device, including, but not limited to, an electronic cigarette, cigar, pipe, or hookah.",
+                                    "(C) Any component, part, or accessory of a tobacco product, whether or not sold separately.",
+                                    "(2) “Tobacco product” does not include a product that has been approved by the United States Food and Drug Administration for sale as a tobacco cessation product or for other therapeutic purposes where the product is marketed and sold solely for such an approved purpose."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2016, 2nd Ex. Sess., Ch. 7, Sec. 1.   (SB 5 2x)   Effective June 9, 2016.)"
+                            }
+                        },
+                        {
+                            "-id": "rkOyW6c57fB1tkb69qQfrk91Zpq5Qz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22951.",
+                            "stat:Text": {
+                                "stat:heading": "22951.",
+                                "stat:p": [
+                                    "The Legislature finds and declares that reducing and eventually eliminating the illegal purchase and consumption of tobacco products by any person under 21 years of age is critical to ensuring the long-term health of our state’s citizens. Accordingly, California must fully comply with federal regulations, particularly the “Synar Amendment,” that restrict tobacco sales to minors and require states to vigorously enforce their laws prohibiting the sale and distribution of tobacco products to persons under 18 years of age. Full compliance and vigorous enforcement of the “Synar Amendment” requires the collaboration of multiple state and local agencies that license, inspect, or otherwise conduct business with retailers, distributors, or wholesalers that sell\n\t\t\t\t  tobacco."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2016, 2nd Ex. Sess., Ch. 8, Sec. 2.   (SB 7 2x)   Effective June 9, 2016.)"
+                            }
+                        },
+                        {
+                            "-id": "BkiyWp59QMrJ3J-655mGBJp1ZT95mG",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22952.",
+                            "stat:Text": {
+                                "stat:heading": "22952.",
+                                "stat:p": [
+                                    "The State Department of Public Health shall do all of the following:",
+                                    "(a) Establish and develop a program to reduce the availability of tobacco products to persons under 21 years of age through the enforcement activities authorized by this division.",
+                                    "(b) Establish requirements that retailers of tobacco products post conspicuously, at each point of purchase, a notice stating that selling tobacco products to anyone under 21 years of age is illegal and subject to penalties. The notice shall also state that the law requires that all persons selling tobacco products check the identification of a purchaser of tobacco products who reasonably appears\n\t\t\t\t  to be under 21 years of age. The warning signs shall include a toll-free telephone number to the department for persons to report unlawful sales of tobacco products to any person under 21 years of age.",
+                                    "(c) Provide that primary responsibility for enforcement of this division shall be with the department. In carrying out its enforcement responsibilities, the department shall conduct random, onsite sting inspections at retail sites and shall enlist the assistance of persons that are under 21 years of age in conducting these enforcement activities. The department may conduct onsite sting inspections in response to public complaints or at retail sites where violations have previously occurred, and investigate illegal sales of tobacco products to any person under 21 years of age by telephone, mail, or the Internet. A person under 21 years of age who participates in these enforcement activities is immune from prosecution under any provision of law\n\t\t\t\t  prohibiting the purchase of these products by a person under 21 years of age.",
+                                    "(d) In accordance with Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code, the department shall adopt and publish guidelines for the use of persons under 21 years of age in inspections conducted pursuant to subdivision (c) that shall include, but not be limited to, all of the following:",
+                                    "(1) An enforcing agency may use persons under 21 years of age in random inspections to determine if sales of cigarettes or other tobacco products are being made to persons under 21 years of age.",
+                                    "(2) A photograph or video recording of the person under 21 years of age shall be taken prior to each inspection or shift of inspections and retained by the enforcing agency for purposes of verifying appearances.",
+                                    "(3) An enforcing agency may use video recording equipment when conducting the inspections to record and document illegal sales or attempted sales.",
+                                    "(4) The person under 21 years of age, if questioned about his or her age, need not state his or her actual age but shall present a true and correct identification if verbally asked to present it. Any failure on the part of the person under 21 years of age to provide true and correct identification, if verbally asked for it, shall be a defense to an action pursuant to this section.",
+                                    "(5) The person under 21 years of age shall be under the supervision of a regularly employed peace officer during the inspection.",
+                                    "(6) All persons under 21 years of age used in this manner by an enforcing agency shall display the\n\t\t\t\t  appearance of a person under 21 years of age. It shall be a defense to an action under this division that the person’s appearance was not that which could be generally expected of a person under 21 years of age, under the actual circumstances presented to the seller of the cigarettes or other tobacco products at the time of the alleged offense.",
+                                    "(7) Following the completion of the sale, the peace officer accompanying the person under 21 years of age shall reenter the retail establishment and shall inform the seller of the random inspection. Following an attempted sale, the enforcing agency shall notify the retail establishment of the inspection.",
+                                    "(8) Failure to comply with the procedures set forth in this subdivision shall be a defense to an action brought pursuant to this section.",
+                                    "(e) Be responsible for ensuring and\n\t\t\t\t  reporting the state’s compliance with Section 1926 of Title XIX of the federal Public Health Service Act (42 U.S.C. Sec. 300x-26) and any implementing regulations adopted in relation thereto by the United States Department of Health and Human Services. A copy of this report shall be made available to the Governor and the Legislature.",
+                                    "(f) Provide that any civil penalties imposed pursuant to Section 22958 shall be enforced against the owner or owners of the retail business and not the employees of the business."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2016, 2nd Ex. Sess., Ch. 8, Sec. 3.   (SB 7 2x)   Effective June 9, 2016.)"
+                            }
+                        },
+                        {
+                            "-id": "BkC1-65cmfB1Jl1bp55QzSJllkZac5mz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22953.",
+                            "stat:Text": {
+                                "stat:heading": "22953.",
+                                "stat:p": [
+                                    "All moneys collected as civil penalties by the department and other state agencies pursuant to this division shall be deposited in the State Treasury to the credit of the Sale of Tobacco to Minors Control Account that is hereby established."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2007, Ch. 653, Sec. 4.   Effective January 1, 2008.)"
+                            }
+                        },
+                        {
+                            "-id": "BkWl1Wa95QMrkMl1-699QfrJ7g1WT9qQz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22954.",
+                            "stat:Text": {
+                                "stat:heading": "22954.",
+                                "stat:p": [
+                                    "Any cigarette or tobacco products distributor or wholesaler as defined in Sections 30011 and 30016 of the Revenue and Taxation Code, and licensed under Article 1 (commencing with Section 30140) of Chapter 3 of Part 13 of Division 2 of the Revenue and Taxation Code or Article 3 (commencing with Section 30155) of Chapter 3 of Part 13 of Division 2 of the Revenue and Taxation Code, and any cigarette vending machine operator granted a seller’s permit under the Sales and Use Tax Law (Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code), shall annually provide to the State Department of Health Services, the names and addresses of those persons to whom they provide tobacco products, including, but not limited to, dealers as defined in Section 30012 of the Revenue and Taxation Code, for the purpose of identifying retailers of tobacco to ensure compliance with this division.",
+                                    "Cigarette vending machine operators granted a seller’s permit under the Sales and Use Tax Law (Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code), shall annually provide to the department their name and the address of each location where cigarette vending machines are placed, in order to ensure compliance with this division.",
+                                    "The data provided, pursuant to this section, shall be deemed confidential official information by the department and shall be exempt from disclosure under the California Public Records Act (Chapter 3.5 (commencing with Section 6250) of Division 7 of Title 1 of the Government Code)."
+                                ],
+                                "stat:Note": "(Added by Stats. 1994, Ch. 1009, Sec. 1.   Effective January 1, 1995.)"
+                            }
+                        },
+                        {
+                            "-id": "Bk4lyWT5qmMrySlJWTqcmMS1LxkZp59mz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22955.",
+                            "stat:Text": {
+                                "stat:heading": "22955.",
+                                "stat:p": [
+                                    "Agents of the state department, while conducting enforcement activities pursuant to this division, are peace officers and are subject to all of the powers and immunities granted to Food and Drug Section inspectors pursuant to Section 106500 of the Health and Safety Code in the same manner as are any Food and Drug Section inspectors of the state department."
+                                ],
+                                "stat:Note": "(Amended by Stats. 1996, Ch. 1023, Sec. 24.   Effective September 29, 1996.)"
+                            }
+                        },
+                        {
+                            "-id": "r1PlyZa597GS1_lk-pq9mfSJYgkbp99QG",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22956.",
+                            "stat:Text": {
+                                "stat:heading": "22956.",
+                                "stat:p": [
+                                    "All persons engaging in the retail sale of tobacco products shall check the identification of tobacco purchasers, to establish the age of the purchaser, if the purchaser reasonably appears to be under 21 years of age."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2016, 2nd Ex. Sess., Ch. 8, Sec. 4.   (SB 7 2x)   Effective June 9, 2016.)"
+                            }
+                        },
+                        {
+                            "-id": "Sk5l1Za55QGBkjekW65cmMHJ2ekbTqqQM",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22957.",
+                            "stat:Text": {
+                                "stat:heading": "22957.",
+                                "stat:p": [
+                                    "(a) In addition to the primary enforcement responsibility assumed by the department, another enforcing agency may conduct inspections and assess penalties for violations of this division if the enforcing agency complies with this division and with all applicable laws and guidelines developed pursuant to this division.",
+                                    "(b) State and local enforcement agencies are encouraged, in order to avoid duplication, to share the results of inspections and coordinate with the department when enforcing this division."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2007, Ch. 653, Sec. 5.   Effective January 1, 2008.)"
+                            }
+                        },
+                        {
+                            "-id": "BkpgJ-6c9QfH1AlkZp55XGHkyZ1Z65q7z",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22958.",
+                            "stat:Text": {
+                                "stat:heading": "22958.",
+                                "stat:p": [
+                                    "(a) (1) An enforcing agency may assess civil penalties against any person, firm, or corporation that sells, gives, or in any way furnishes to another person who is under 21 years of age, any tobacco, cigarette, cigarette papers, any other instrument or paraphernalia that is designed for the smoking or ingestion of tobacco, tobacco products, or any controlled substance, according to the following schedule: (1) a civil penalty of four hundred dollars ($400) to six hundred dollars ($600) for the first violation, (2) a civil penalty of nine hundred dollars ($900) to one thousand dollars ($1,000) for the second violation within a five-year period, (3) a civil penalty of one thousand two hundred dollars ($1,200) to one thousand eight hundred dollars ($1,800) for a third\n\t\t\t\t  violation within a five-year period, (4) a civil penalty of three thousand dollars ($3,000) to four thousand dollars ($4,000) for a fourth violation within a five-year period, or (5) a civil penalty of five thousand dollars ($5,000) to six thousand dollars ($6,000) for a fifth violation within a five-year period.",
+                                    "(2) This subdivision does not apply to the sale, giving, or furnishing of any of the products specified in paragraph (1) to active duty military personnel who are 18 years of age or older. An identification card issued by the United States Armed Forces shall be used as proof of age for this purpose.",
+                                    "(b) (1) In addition to the civil penalties described in subdivision (a), upon the assessment of a civil penalty for the third, fourth, or fifth violation, the department, within 60 days of the date of service of the final administrative adjudication on\n\t\t\t\t  the parties or payment of the civil penalty for an uncontested violation, shall notify the State Board of Equalization of the violation. The State Board of Equalization shall then assess a civil penalty of two hundred fifty dollars ($250) and suspend or revoke a license issued pursuant to Chapter 2 (commencing with Section 22972) of Division 8.6 in accordance with the following schedule:",
+                                    "(A) A 45-day suspension of the license for a third violation at the same location within a five-year period.",
+                                    "(B) A 90-day suspension of the license for a fourth violation at the same location within a five-year period.",
+                                    "(C) Revocation of the license for a fifth violation at the same location within a five-year period.",
+                                    "(2) The provisions of Chapter 4 (commencing with\n\t\t\t\t  Section 55121) of Part 30 of Division 2 of the Revenue and Taxation Code apply with respect to the collection of the penalty imposed by the State Board of Equalization pursuant to paragraph (1).",
+                                    "(c) (1) For each suspension or revocation pursuant to subdivision (b), the civil penalty of two hundred fifty dollars ($250) assessed pursuant to that subdivision, notwithstanding Section 22953, shall be deposited into the Cigarette and Tobacco Products Compliance Fund established pursuant to Section 22990. Moneys from that civil penalty deposited into this fund shall be made available to the State Board of Equalization, upon appropriation by the Legislature, for the purposes of meeting its duties under subdivision (b).",
+                                    "(2) The department shall, upon request, provide to the State Board of Equalization information concerning any person, firm, or corporation that has\n\t\t\t\t  been assessed a civil penalty for violation of the STAKE Act pursuant to this section when the department has notified the State Board of Equalization of the violation.",
+                                    "(d) The enforcing agency shall assess penalties pursuant to the schedule set forth in subdivision (a) against a person, firm, or corporation that sells, offers for sale, or distributes tobacco products from a cigarette or tobacco products vending machine, or a person, firm, or corporation that leases, furnishes, or services these machines in violation of Section 22960.",
+                                    "(e) An enforcing agency may assess civil penalties against a person, firm, or corporation that sells or deals in tobacco or any preparation thereof, and fails to post conspicuously and keep posted in the place of business at each point of purchase the notice required pursuant to subdivision (b) of Section 22952. The civil penalty shall be in the\n\t\t\t\t  amount of two hundred dollars ($200) for the first offense and five hundred dollars ($500) for each additional violation.",
+                                    "(f) An enforcing agency shall assess penalties in accordance with the schedule set forth in subdivision (a) against a person, firm, or corporation that advertises or causes to be advertised a tobacco product on an outdoor billboard in violation of Section 22961.",
+                                    "(g) If a civil penalty has been assessed pursuant to this section against a person, firm, or corporation for a single, specific violation of this division, the person, firm, or corporation shall not be prosecuted under Section 308 of the Penal Code for a violation based on the same facts or specific incident for which the civil penalty was assessed. If a person, firm, or corporation has been prosecuted for a single, specific violation of Section 308 of the Penal Code, the person, firm, or corporation\n\t\t\t\t  shall not be assessed a civil penalty under this section based on the same facts or specific incident upon which the prosecution under Section 308 of the Penal Code was based.",
+                                    "(h) (1) In the case of a corporation or business with more than one retail location, to determine the number of accumulated violations for purposes of the penalty schedule set forth in subdivision (a), violations of this division by one retail location shall not be accumulated against other retail locations of that same corporation or business.",
+                                    "(2) In the case of a retail location that operates pursuant to a franchise as defined in Section 20001, violations of this division accumulated and assessed against a prior owner of a single franchise location shall not be accumulated against a new owner of the same single franchise location for purposes of the penalty schedule set forth in\n\t\t\t\t  subdivision (a).",
+                                    "(i) Proceedings under this section shall be conducted pursuant to Section 131071 of the Health and Safety Code, except in cases where a civil penalty is assessed by an enforcing agency other than the department, in which case proceedings shall be conducted pursuant to the procedures of that agency that are consistent with Section 131071 of the Health and Safety Code."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2016, 2nd Ex. Sess., Ch. 8, Sec. 5.5.   (SB 7 2x)   Effective June 9, 2016.)"
+                            }
+                        },
+                        {
+                            "-id": "BkgWJZTcq7fByW-y-p5q7fr1zWJW6qq7f",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22959.",
+                            "stat:Text": {
+                                "stat:heading": "22959.",
+                                "stat:p": [
+                                    "(a) The sum of two million dollars ($2,000,000) shall be transferred annually from the portion of the federal Substance Abuse Prevention and Treatment block grant moneys allocated to the State Department of Health Care Services for administrative purposes related to substance abuse programs, to the Sale of Tobacco to Minors Control Account.",
+                                    "(b) Upon appropriation by the Legislature, moneys in the Sale of Tobacco to Minors Control Account shall be expended by the state department to administer and enforce this division."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2013, Ch. 22, Sec. 4.   (AB 75)   Effective June 27, 2013.   Operative July 1, 2013, by Sec. 110 of Ch. 22.)"
+                            }
+                        },
+                        {
+                            "-id": "B17Z1W6q9mzSkVb1b65cQzr1SWkWT5cXz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22960.",
+                            "stat:Text": {
+                                "stat:heading": "22960.",
+                                "stat:p": [
+                                    "(a) Except as provided in subdivision (b), no cigarette or tobacco product shall be sold, offered for sale, or distributed from a vending machine or appliance, or any other coin or token operated mechanical device designed or used for vending purposes, including, but not limited to, machines or devices that use remote control locking mechanisms.",
+                                    "(b) (1) Commencing January 1, 1996, cigarette or tobacco product vending machines or appliances may be located at least 15 feet away from the entrance of a premise issued an on-sale public premises license as defined in Section 23039 by the Department of Alcoholic Beverage Control to sell alcoholic beverages.",
+                                    "(2) As used in this subdivision “at least 15 feet away from the entrance” means within the premises of the licensed establishment and not outside those premises.",
+                                    "(c) This section and subdivision (b) of Section 22958 set forth minimum state restrictions on the sale of cigarettes or tobacco products from vending machines or devices and do not preempt or otherwise prohibit the adoption of a local standard that further restricts access to and reduces the availability of cigarette or tobacco products from vending machines or devices or that imposes a complete ban on the sale of cigarettes or tobacco products from vending machines or devices.  A local standard that further restricts or imposes a complete ban on the sale of cigarettes or tobacco products from vending machines or devices shall control in the event of an inconsistency between this section and a local standard."
+                                ],
+                                "stat:Note": "(Added by Stats. 1995, Ch. 823, Sec. 2.   Effective January 1, 1996.)"
+                            }
+                        },
+                        {
+                            "-id": "ry8ZJbp597zS1vWkZ6c5QMHJub1-pcq7z",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22961.",
+                            "stat:Text": {
+                                "stat:heading": "22961.",
+                                "stat:p": [
+                                    "(a) No person, firm, corporation, partnership, or other organization shall advertise or cause to be advertised any tobacco products on any outdoor billboard located within 1,000 feet of any public or private elementary school, junior high school, or high school, or public playground.",
+                                    "(b) This section sets forth minimum state restrictions on the advertisement of any tobacco products on outdoor billboards near schools and public playgrounds and does not preempt or otherwise prohibit the adoption of a local standard that imposes a more restrictive or complete ban on billboard advertising or on tobacco-related billboard advertising.  A local standard that imposes a more restrictive or complete ban on billboard advertising or on tobacco-related billboard advertising shall control in the event of any inconsistency between this section and a local standard.",
+                                    "(c) This section shall not be construed to prohibit the display of a message or advertisement opposing the use of tobacco products.  However, this subdivision shall not be construed to permit an advertisement promoting the use of tobacco products by including a message opposing the use of tobacco products within that advertisement."
+                                ],
+                                "stat:Note": "(Added by Stats. 1997, Ch. 219, Sec. 3.   Effective January 1, 1998.)"
+                            }
+                        },
+                        {
+                            "-id": "HJKWJ-p55XzS1qbyZp597frJjZJ-p5cXf",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22962.",
+                            "stat:Text": {
+                                "stat:heading": "22962.",
+                                "stat:p": [
+                                    "(a) For purposes of this section, the following terms have the following meanings:",
+                                    "(1) “Self-service display” means the open display of tobacco products or tobacco paraphernalia in a manner that is accessible to the general public without the assistance of the retailer or employee of the retailer.",
+                                    "(2) “Tobacco paraphernalia” means cigarette papers or wrappers, blunt wraps as defined in Section 308 of the Penal Code, pipes, holders of smoking materials of all types, cigarette rolling machines, or other instruments or things designed for the smoking or ingestion of tobacco products.",
+                                    "(3) “Tobacco product” means a product or device as defined in subdivision (d) of Section 22950.5 of the Business and Professions Code.",
+                                    "(4) “Tobacco store” means a retail business that meets all of the following requirements:",
+                                    "(A) Primarily sells tobacco products.",
+                                    "(B) Generates more than 60 percent of its gross revenues annually from the sale of tobacco products and tobacco paraphernalia.",
+                                    "(C) Does not permit any person under 18 years of age to be present or enter the premises at any time, unless accompanied by the person’s parent or legal guardian, as defined in Section 6903 of the Family Code.",
+                                    "(D) Does not sell alcoholic\n\t\t\t\t  beverages or food for consumption on the premises.",
+                                    "(b) (1) (A) Except as permitted in subdivision (b) of Section 22960, it is unlawful for a person engaged in the retail sale of tobacco products to sell, offer for sale, or display for sale any tobacco product or tobacco paraphernalia by self-service display. A person who violates this section is subject to those civil penalties specified in the schedule in subdivision (a) of Section 22958.",
+                                    "(B) A person who violates this section is subject to those civil penalties specified in the schedule in subdivision (a) of Section 22958.",
+                                    "(2) It is unlawful for a person engaged in the retail sale of blunt wraps to place or maintain, or to cause to be placed or maintained, any blunt wraps advertising display within two feet of candy,\n\t\t\t\t  snack, or nonalcoholic beverage displayed inside any store or business.",
+                                    "(3) It is unlawful for any person or business to place or maintain, or cause to be placed or maintained, any blunt wrap advertising display that is less than four feet above the floor.",
+                                    "(c) Subdivision (b) shall not apply to the display in a tobacco store of cigars, pipe tobacco, snuff, chewing tobacco, or dipping tobacco, provided that in the case of cigars they are generally not sold or offered for sale in a sealed package of the manufacturer or importer containing less than six cigars. In any enforcement action brought pursuant to this division, the retail business that displays any of the items described in this subdivision in a self-service display shall have the burden of proving that it qualifies for the exemption established in this subdivision.",
+                                    "(d) The Attorney General, a city attorney, a county counsel, or a district attorney may bring a civil action to enforce this section.",
+                                    "(e) This section does not preempt or otherwise prohibit the adoption of a local standard that imposes greater restrictions on the access to tobacco products than the restrictions imposed by this section. To the extent that there is an inconsistency between this section and a local standard that imposes greater restrictions on the access to tobacco products, the greater restriction on the access to tobacco products in the local standard shall prevail."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2016, 2nd Ex. Sess., Ch. 7, Sec. 3.   (SB 5 2x)   Effective June 9, 2016.)"
+                            }
+                        },
+                        {
+                            "-id": "rk2-JbT9q7fHJaWJbT9cmGr10byb6qcXz",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22963.",
+                            "stat:Text": {
+                                "stat:heading": "22963.",
+                                "stat:p": [
+                                    "(a) The sale, distribution, or nonsale distribution of tobacco products directly or indirectly to any person under 21 years of age through the United States Postal Service or through any other public or private postal or package delivery service at locations, including, but not limited to, public mailboxes and mailbox stores, is prohibited.",
+                                    "(b) Any person selling or distributing, or engaging in the nonsale distribution of, tobacco products directly to a consumer in the state through the United States Postal Service or by any other public or private postal or package delivery service, including orders placed by mail, telephone, facsimile transmission, or the Internet, shall comply\n\t\t\t\t  with the following provisions:",
+                                    "(1) (A) Before enrolling a person as a customer, or distributing or selling, or engaging in the nonsale distribution of, the tobacco product through any of these means, the distributor or seller shall verify that the purchaser or recipient of the product is 21 years of age or older. The distributor or seller shall attempt to match the name, address, and date of birth provided by the customer to information contained in records in a database of individuals whose age has been verified to be 21 years or older by reference to an appropriate database of government records kept by the distributor, a direct marketing firm, or any other entity. In the case of a sale, the distributor or seller shall also verify that the billing address on the check or credit card offered for payment by the purchaser matches the address listed in the database.",
+                                    "(B) If the seller, distributor, or nonsale distributor, is unable to verify that the purchaser or recipient is 21 years of age or older pursuant to subparagraph (A), he or she shall require the customer or recipient to submit an age-verification kit consisting of an attestation signed by the customer or recipient that he or she is 21 years of age or older and a copy of a valid form of government identification. For the purposes of this section, a valid form of government identification includes a driver’s license, state identification card, passport, an official naturalization or immigration document, such as an alien registration receipt card (commonly known as a “green card”) or an immigrant visa, or military identification. In the case of a sale, the distributor or seller shall also verify that the billing address on the check or credit card provided by the consumer matches the address listed in the form of government identification.",
+                                    "(2) In the case of a sale, the distributor or seller shall impose a two-carton minimum on each order of cigarettes, and shall require payment for the purchase of any tobacco product to be made by personal check of the purchaser or the purchaser’s credit card. No money order or cash payment shall be received or permitted. The distributor or seller shall submit to each credit card acquiring company with which it has credit card sales identification information in an appropriate form and format so that the words “tobacco product” may be printed in the purchaser’s credit card statement when a purchase of a tobacco product is made by credit card payment.",
+                                    "(3) In the case of a sale, the distributor or seller shall make a telephone call after 5 p.m. to the purchaser confirming the order prior to shipping the tobacco products. The telephone call may be a person-to-person call or a recorded message. The distributor or seller is not required\n\t\t\t\t  to speak directly with a person and may leave a message on an answering machine or by voice mail.",
+                                    "(4) The nonsale distributor shall deliver the tobacco product to the recipient’s verified mailing address, or in the case of a sale, the seller or distributor shall deliver the tobacco product to the purchaser’s verified billing address on the check or credit card used for payment. No delivery described under this section shall be permitted to any post office box.",
+                                    "(c) Notwithstanding subdivisions (a) and (b), if a seller, distributor, or nonsale distributor, complies with all of the requirements of this section and a person under 21 years of age obtains a tobacco product by any of the means described in subdivision (b), the seller, distributor, or nonsale distributor is not in violation of this section.",
+                                    "(d) For the\n\t\t\t\t  purposes of the enforcement of this section pursuant to Section 22958, the acts of the United States Postal Service or other common carrier when engaged in the business of transporting and delivering packages for others, and the acts of a person, whether compensated or not, who transports or delivers a package for another person without any reason to know of the package’s contents, are not unlawful and are not subject to civil penalties.",
+                                    "(e) (1) (A) For the purposes of this section, a “distributor” is any person or entity, within or outside the state, who agrees to distribute tobacco products to a customer or recipient within the state. The United States Postal Service or any other public or private postal or package delivery service are not distributors within the meaning of this section.",
+                                    "(B) A “nonsale distributor” is any person inside\n\t\t\t\t  or outside of this state who, directly or indirectly, knowingly provides tobacco products to any person in this state as part of a nonsale transaction. “Nonsale distributor” includes the person or entity who provides the tobacco product for delivery and the person or entity who delivers the product to the recipient as part of a nonsale transaction.",
+                                    "(C) “Nonsale distribution” means to give smokeless tobacco or cigarettes to the general public at no cost, or at nominal cost, or to give coupons, coupon offers, gift certificates, gift cards, or other similar offers, or rebate offers for smokeless tobacco or cigarettes to the general public at no cost or at nominal cost. Distribution of tobacco products, coupons, coupon offers, gift certificates, gift cards, or other similar offers, or rebate offers in connection with the sale of another item, including tobacco products, cigarette lighters, magazines, or newspapers shall not constitute nonsale\n\t\t\t\t  distribution.",
+                                    "(2) For the purpose of this section, a “seller” is any person or entity, within or outside the state, who agrees to sell tobacco products to a customer within the state. The United States Postal Service or any other public or private postal or package delivery service are not sellers within the meaning of this section.",
+                                    "(3) For the purpose of this section, a “carton” is a package or container that contains 200 cigarettes.",
+                                    "(f) A district attorney, city attorney, or the Attorney General may assess civil penalties against any person, firm, corporation, or other entity that violates this section, according to the following schedule:",
+                                    "(1) A civil penalty of not less than one thousand dollars ($1,000) and not more than two thousand dollars\n\t\t\t\t  ($2,000) for the first violation.",
+                                    "(2) A civil penalty of not less than two thousand five hundred dollars ($2,500) and not more than three thousand five hundred dollars ($3,500) for the second violation.",
+                                    "(3) A civil penalty of not less than four thousand dollars ($4,000) and not more than five thousand dollars ($5,000) for the third violation within a five-year period.",
+                                    "(4) A civil penalty of not less than five thousand five hundred dollars ($5,500) and not more than six thousand five hundred dollars ($6,500) for the fourth violation within a five-year period.",
+                                    "(5) A civil penalty of ten thousand dollars ($10,000) for a fifth or subsequent violation within a five-year period."
+                                ],
+                                "stat:Note": "(Amended by Stats. 2016, 2nd Ex. Sess., Ch. 8, Sec. 6.   (SB 7 2x)   Effective June 9, 2016.)"
+                            }
+                        },
+                        {
+                            "-id": "S1yM1WT5qQfS1lz1Z6ccmzSy-z1-Tqc7G",
+                            "-is_citable": true,
+                            "-is_document": true,
+                            "-path": "/us/californiacode/California Code/Business and Professions Code - BPC",
+                            "stat:Citation": "Cal. Bus. & Prof. Code § 22964.",
+                            "stat:Text": {
+                                "stat:heading": "22964.",
+                                "stat:p": [
+                                    "This division sets forth minimum state restrictions with respect to the legal age to purchase or possess tobacco products and does not preempt or otherwise prohibit the adoption of a local standard that imposes a more restrictive legal age to purchase or possess tobacco products. A local standard that imposes a more restrictive legal age to purchase or possess tobacco products shall control in the event of any inconsistency between this division and a local standard."
+                                ],
+                                "stat:Note": "(Added by Stats. 2016, 2nd Ex. Sess., Ch. 8, Sec. 7.   (SB 7 2x)   Effective June 9, 2016.)"
+                            }
+                        }
+                    ]
                 },
                 {
-                    "-id": "HkoS3SsNF7zS13rhBoNFmMSkTSnHoNtmG",
+                    "-id": "H1TepqcQGBklaea5cXGB1W6gaqqXz",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 8.6. CIGARETTE AND TOBACCO PRODUCTS LICENSING ACT OF 2003",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 8.6. CIGARETTE AND TOBACCO PRODUCTS LICENSING ACT OF 2003",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 8.6. CIGARETTE AND TOBACCO PRODUCTS LICENSING ACT OF 2003"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "BkZL3SoEtQGHJfIhriVFXGSyXUhroNFmG",
+                    "-id": "SJoRlpq5mzS120xpqcmzBJaAg6q97f",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 9. ALCOHOLIC BEVERAGES",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 9. ALCOHOLIC BEVERAGES",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 9. ALCOHOLIC BEVERAGES"
+                    },
+                    "stat:Level": []
                 },
                 {
-                    "-id": "SJvI3BoEFXfHkO82HoEK7zHyY82Bs4YXM",
+                    "-id": "B1-ealp99XzSkGeTg65cXzByQgTea997f",
                     "-path": "/us/californiacode/California Code/Business and Professions Code - BPC/DIVISION 10. Cannabis",
                     "stat:Text": {
-                        "stat:heading": "DIVISION 10. Cannabis",
-                        "stat:Level": []
-                    }
+                        "stat:heading": "DIVISION 10. Cannabis"
+                    },
+                    "stat:Level": []
                 }
             ]
         }

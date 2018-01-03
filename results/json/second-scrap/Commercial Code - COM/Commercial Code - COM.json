@@ -1,149 +1,19 @@
 {
     "stat:Document": {
         "-xmlns:stat": "https://casetext.com/stat",
-        "-id": "rk-x9BoNK7zBkfgqSsNtmfH17x5roNYmM",
+        "-id": "r1Wem_hIcQMB1ze7u389XMSJ7gQO38q7M",
         "stat:Title": "California Code",
         "stat:URL": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
         "stat:Version": "0.1",
         "stat:Currency": "2017-07-07",
         "stat:Level": {
-            "-id": "HkVeqBoNtQfrkrx5HjNKXGB1Ue5rjEKQG",
+            "-id": "ryVeQOhL9QzHkHgmdhUcXMr1LlX_nUq7M",
             "-depth": "3",
             "-path": "/us/californiacode/California Code/Commercial Code - COM",
             "stat:Text": {
                 "-xmlns:stat": "https://casetext.com/stat",
                 "stat:Heading": "Commercial Code - COM"
-            },
-            "stat:Level": [
-                {
-                    "-id": "rJTL2rjNFXfS1CLnBs4KXMHk1wnSiVt7G",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/COMMERCIAL CODE",
-                    "stat:Text": {
-                        "stat:heading": "COMMERCIAL CODE",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "r17vhSjEFXfHyNvnBoVKmfS1BDnSjNKmM",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 1. GENERAL PROVISIONS",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 1. GENERAL PROVISIONS",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "ryYwnBoVt7fH15D2BoEF7MryjvnSsNKQf",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 2. SALES",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 2. SALES",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "SJJO2BoEK7fByxdhSjVKmfB1-u3Si4FXz",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 3. NEGOTIABLE INSTRUMENTS",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 3. NEGOTIABLE INSTRUMENTS",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "rJH_2rsVtXMSk8u2SoVt7GB1vunriEYXf",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 4. BANK DEPOSITS AND COLLECTIONS",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 4. BANK DEPOSITS AND COLLECTIONS",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "HyidhHoNtXzH1hu3BoNKXMrJpu2roEYXz",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 5. LETTERS OF CREDIT",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 5. LETTERS OF CREDIT",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "HyZYnHi4KmMH1zt2SiEFmMHyQtnrjVFXz",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 6. BULK SALES",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 6. BULK SALES",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "BJDYhBj4YQMHkOK2HoEYmzHJYt2HiEt7G",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 7. DOCUMENTS OF TITLE",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 7. DOCUMENTS OF TITLE",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "ryTFnBjVKQfr1RY2Hj4KQGHy1cnSoNtXz",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 8. INVESTMENT SECURITIES",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 8. INVESTMENT SECURITIES",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "rkmc2HoEFXzH1EchSoNKmMHkB52SoVF7G",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 9. SECURED TRANSACTIONS",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 9. SECURED TRANSACTIONS",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "H1tq2SiNK7fBkqcnroVF7Mr1oq2BoNF7z",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 10. PERSONAL PROPERTY LEASES",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 10. PERSONAL PROPERTY LEASES",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "B1kj2BiNKmGSygsnrs4FmGrkZi3Hs4FQG",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 11. FUNDS TRANSFERS",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 11. FUNDS TRANSFERS",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "BJro2Bo4tmMrk8j3riNKmMSkvj3Bs4tmz",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 13. EFFECTIVE DATE AND REPEALER",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 13. EFFECTIVE DATE AND REPEALER",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "H1is3SsEKmfSJ2ohri4t7GB1pj3HiEtXG",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 14. EFFECTIVE DATE AND TRANSITION PROVISIONS",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 14. EFFECTIVE DATE AND TRANSITION PROVISIONS",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "r1W3nSi4F7zSyz22riNKmfBJ7h3riEF7G",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 15. EFFECTIVE DATE AND TRANSITION PROVISIONS",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 15. EFFECTIVE DATE AND TRANSITION PROVISIONS",
-                        "stat:Level": []
-                    }
-                },
-                {
-                    "-id": "HJPhnBi4YQMrJdn2riNKXfr1Y3hBo4F7G",
-                    "-path": "/us/californiacode/California Code/Commercial Code - COM/DIVISION 16. EFFECTIVE DATE AND TRANSITION PROVISIONS",
-                    "stat:Text": {
-                        "stat:heading": "DIVISION 16. EFFECTIVE DATE AND TRANSITION PROVISIONS",
-                        "stat:Level": []
-                    }
-                }
-            ]
+            }
         }
     }
 }

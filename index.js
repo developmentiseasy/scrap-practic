@@ -6,14 +6,7 @@ const shortid = require('shortid')
 
 
 var fs = require('fs')
-var json2xml = require('json2xml')
 
-// fs.readFile('./results/json/Welfare and Institutions Code - WIC .json', 'utf8', function read(err, data) {
-//     if (err) console.log(err);
-//     fs.writeFile('./results/xml/Welfare and Institutions Code - WIC .xml', json2xml(JSON.parse(data)));
-// });
-//
-//
 const x = new Xray({
   filters: {
     replace: (value) => {
@@ -25,14 +18,140 @@ const x = new Xray({
 const URL = 'https://leginfo.legislature.ca.gov/faces/codes.xhtml'
 // const URL = 'https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=HSC&tocTitle=+Health+and+Safety+Code+-+HSC'
 
+const AbrCategories = [
+  {
+    full: 'Business and Professions Code - BPC',
+    abr: 'Bus. & Prof.'
+  },
+  {
+    full: 'Civil Code - CIV',
+    abr: 'Civ.'
+  },
+  {
+    full: 'Code of Civil Procedure - CCP',
+    abr: 'Civ. Proc.'
+  },
+  {
+    full: 'Commercial Code - COM',
+    abr: 'Com.'
+  },
+  {
+    full: 'Corporations Code - CORP',
+    abr: 'Corp.'
+  },
+  {
+    full: 'Education Code - EDC',
+    abr: 'Educ.'
+  },
+  {
+    full: 'Elections Code - ELEC',
+    abr: 'Elec.'
+  },
+  {
+    full: 'Evidence Code - EVID',
+    abr: 'Evid.'
+  },
+  {
+    full: 'Family Code - FAM',
+    abr: 'Fam.'
+  },
+  {
+    full: 'Financial Code - FIN',
+    abr: 'Fin.'
+  },
+  {
+    full: 'Fish and Game Code - FGC',
+    abr: 'Fish & Game'
+  },
+  {
+    full: 'Food and Agricultural Code - FAC',
+    abr: 'Food & Agric.'
+  },
+  {
+    full: 'Government Code - GOV',
+    abr: 'Gov’t'
+  },
+  {
+    full: 'Harbors and Navigation Code - HNC',
+    abr: 'Harb. & Nav.'
+  },
+  {
+    full: 'Health and Safety Code - HSC',
+    abr: 'Health & Safety'
+  },
+  {
+    full: 'Insurance Code - INS',
+    abr: 'Ins.'
+  },
+  {
+    full: 'Labor Code - LAB',
+    abr: 'Lab.'
+  },
+  {
+    full: 'Military and Veterans Code - MVC',
+    abr: 'Mil. & Vet.'
+  },
+  {
+    full: 'Penal Code - PEN',
+    abr: 'Penal'
+  },
+  {
+    full: 'Probate Code - PROB',
+    abr: 'Prob.'
+  },
+  {
+    full: 'Public Contract Code - PCC',
+    abr: 'Pub. Cont.'
+  },
+  {
+    full: 'Public Resources Code - PRC',
+    abr: 'Pub. Res.'
+  },
+  {
+    full: 'Public Utilities Code - PUC',
+    abr: 'Pub. Util.'
+  },
+  {
+    full: 'Revenue and Taxation Code - RTC',
+    abr: 'Rev. & Tax.'
+  },
+  {
+    full: 'Streets and Highways Code - SHC',
+    abr: 'Sts. & High.'
+  },
+  {
+    full: 'Unemployment Insurance Code - UIC',
+    abr: 'Unemp. Ins.'
+  },
+  {
+    full: 'Vehicle Code - VEH',
+    abr: 'Veh.'
+  },
+  {
+    full: 'Water Code - WAT',
+    abr: 'Water'
+  },
+  {
+    full: 'Welfare and Institutions Code - WIC',
+    abr: 'Welf. & Inst.'
+  },
+]
+
 const statsSelectors = [
   {
     selector: 'div#manylawsections > div > font > div',
     res_body: {
       heading: 'h6 > a',
-      p: 'p[style="margin:0;display:inline;"]',
-      // note: 'p[style="margin:0 0 2em 0;font-size:0.9em;"] > i'
-      note: 'p > i'
+      p: ['p[style="margin:0;display:inline;"]'],
+      note: 'p[style="margin:0 0 2em 0;font-size:0.9em;"] > i'
+    }
+  },
+  {
+    selector: '#expandedbranchcodesid > div',
+    res_body: {
+      url: 'a@href',
+      heading: 'a > div:nth-child(1) | replace',
+      range: 'a > div[style="float:right;width:15%;"] | replace',
     }
   },
 
@@ -40,7 +159,7 @@ const statsSelectors = [
 const selectors = [
 
   {
-    selector: '#codestocheader > div.displaycodeleftmargin > div > div',
+    selector: '#codestocheader > div.displaycodeleftmargin > div.codesIndexTblLeftdiv > div:nth-child(1)',
     res_body: {
       heading: 'a | replace',
       url: 'a@href',
@@ -53,106 +172,18 @@ const selectors = [
       url: 'a@href',
     },
   },
-
-  // {
-  //   selector: '#expandedbranchcodesid > div',
-  //   res_body: {
-  //     'stat:Text': {
-  //       'stat:heading': 'a div@style="margin-left:10px" | replace',
-  //     },
-  //   },
-  // },
-
-  // {
-  //   selector: 'div#manylawsections > div:nth-child(2) > font > div',
-  //   res_body: {
-  //     '-id': shortid.generate(),
-  //     'stat:header': 'h6 > a',
-  //     'stat:p': ['p'],
-  //     'stat:note': 'i'
-  //   },
-  // }
-
-
-  //
-  //
-  // {
-  //   selector: '#codestocheader > div.displaycodeleftmargin[style*="20px"] > div > div',
-  //   res_body: {
-  //     'stat:Level': {
-  //       '-id': shortid.generate(),
-  //       'stat:Text': {
-  //         'stat:heading':'a | replace',
-  //       },
-  //     },
-  //   },
-  // },
-  //
-  //
-
-
-  // {
-  //   selector: '#codestreeForm2 > div.codes_toc_list',
-  //   res_body: {
-  //     '-id': shortid.generate(),
-  //     'stat:Text': {
-  //       'stat:heading': 'a > span | replace',
-  //     },
-  //   },
-  // },
-
-
-  // {
-  //   selector: '#expandedbranchcodesid',
-  //   res_body: {
-  //     '-id': shortid.generate(),
-  //     'stat:header': 'h6 > a',
-  //     'stat:p': ['p'],
-  //     'stat:note': 'i'
-  //   },
-  // },
-
-  // {
-  //   selector: '#codestocheader > div.displaycodeleftmargin > div > div',
-  //   res_body: {
-  //     'stat:Level': {
-  //       '-id': toString(shortid.generate()),
-  //       'stat:Text': {
-  //         '-xmlns:stat': 'https://casetext.com/stat',
-  //         'stat:heading': 'a | replace',
-  //       },
-  //     },
-  //   },
-  // },
-  // {
-  //   selector: 'form#codestreeForm2 > div.codes_toc_list',
-  //   res_body: {
-  //     'stat:Level': {
-  //       title: 'a',
-  //       url: 'a@href',
-  //     },
-  //   },
-  // },
 ]
 
-var finish_result = []
-var correctScrapItem = ''
-var secondScrapData = {}
-var secondScrapArr = []
-var thirdScrapArr = []
-var scrapCodesArr = []
-var scrapItem = []
-var arrara
+var ListOfCategoties = []
 var CaliforniaCode = 'California Code'
-var index1 = 0
 
 getData = (err, res) => {
   if (!err) {
-    // console.log(res)
 
     if (res.length === 0) return
     res.forEach((item) => {
-      // if (item.heading === ' ') return
+      console.log('item = ', item)
+
       let doc = {}
       doc = {
         'stat:Document': {}
@@ -171,59 +202,148 @@ getData = (err, res) => {
       doc['stat:Document']['stat:Level']['stat:Text']['-xmlns:stat'] = 'https://casetext.com/stat'
       doc['stat:Document']['stat:Level']['stat:Text']['stat:Heading'] = item.heading
 
-      var index2 = 0
-
-      x(item.url, selectors[1].selector, [selectors[1].res_body])((err, res) => {
+      x(item.url, selectors[1].selector, [selectors[1].res_body])((err, categories) => {
         if (!err) {
           if (res.length === 0) return
 
-          res.forEach((elem, index) => {
-            // console.log(elem)
+          categories.forEach((category, i) => {
+            let ListOfCodes = []
+            x(category.url, statsSelectors[0].selector, [statsSelectors[0].res_body])((err, codes) => {
 
-            let codeCategory = {}
-            codeCategory['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
-            codeCategory['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading + '/' + elem.heading
-            codeCategory['stat:Text'] = {}
-            codeCategory['stat:Text']['stat:heading'] = elem.heading
-            codeCategory['stat:Text']['stat:Level'] = scrapCodesArr
+              // if (codes.length === 0) {
+              //   x(category.url, statsSelectors[1].selector, [statsSelectors[1].res_body])((err, categories) => {
+              //     if (!err) {
+              //       categories.forEach((lvl, index) => {
+              //         if (!_.isEmpty(lvl.p)) {
+              //           categories.forEach((firstUrl) => {
+              //             x(firstUrl.url, statsSelectors[0].selector, [statsSelectors[0].res_body])((err, codes) => {
+              //               console.log(categories, ' -------------- ', codes)
+              //
+              //               codes.forEach((code)=>{
+              //                 let Code = {}
+              //                 Code['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
+              //                 Code['-is_citable'] = true
+              //                 Code['-is_document'] = true
+              //                 Code['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading + '/' + firstUrl.heading + firstUrl.range
+              //                 Code['stat:Citation'] = 'Cal. ' + AbrCategories[0].abr + ' Code § ' + code.heading
+              //                 Code['stat:Text'] = {}
+              //                 Code['stat:Text']['stat:heading'] = code.heading
+              //                 Code['stat:Text']['stat:p'] = code.p
+              //                 Code['stat:Text']['stat:Note'] = code.note
+              //
+              //                 ListOfCodes[index] = Code
+              //               })
+              //
+              //               let Category = {}
+              //               Category['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
+              //               Category['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading + '/' + category.heading
+              //               Category['stat:Text'] = {}
+              //               Category['stat:Text']['stat:heading'] = category.heading
+              //
+              //               Category['stat:Level'] = ListOfCodes
+              //
+              //               ListOfCategoties[i] = Category
+              //
+              //               doc['stat:Document']['stat:Level']['stat:Level'] = []
+              //               doc['stat:Document']['stat:Level']['stat:Level']['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
+              //               doc['stat:Document']['stat:Level']['stat:Level']['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading
+              //               doc['stat:Document']['stat:Level']['stat:Level'] = ListOfCategoties
+              //
+              //               // fs.writeFile('./results/json/second-scrap/' + item.heading + '/' + item.heading + '.json', JSON.stringify(doc, null, 4), () => {
+              //               // })
+              //             })
+              //           })
+              //         }
+              //         x(lvl.url, statsSelectors[1].selector, [statsSelectors[1].res_body])((err, response) => {
+              //           if (response.length !== 0) {
+              //             response.forEach((firstUrl) => {
+              //               x(firstUrl.url, statsSelectors[0].selector, [statsSelectors[0].res_body])((err, codes) => {
+              //                 console.log(response, ' -------------- ', codes)
+              //
+              //                 codes.forEach((code)=>{
+              //                   let Code = {}
+              //                   Code['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
+              //                   Code['-is_citable'] = true
+              //                   Code['-is_document'] = true
+              //                   Code['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading + '/' + firstUrl.heading + firstUrl.range
+              //                   Code['stat:Citation'] = 'Cal. ' + AbrCategories[0].abr + ' Code § ' + code.heading
+              //                   Code['stat:Text'] = {}
+              //                   Code['stat:Text']['stat:heading'] = code.heading
+              //                   Code['stat:Text']['stat:p'] = code.p
+              //                   Code['stat:Text']['stat:Note'] = code.note
+              //
+              //                   ListOfCodes[index] = Code
+              //                 })
+              //
+              //                 let Category = {}
+              //                 Category['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
+              //                 Category['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading + '/' + category.heading
+              //                 Category['stat:Text'] = {}
+              //                 Category['stat:Text']['stat:heading'] = category.heading
+              //
+              //                 Category['stat:Level'] = ListOfCodes
+              //
+              //                 ListOfCategoties[i] = Category
+              //
+              //                 doc['stat:Document']['stat:Level']['stat:Level'] = []
+              //                 doc['stat:Document']['stat:Level']['stat:Level']['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
+              //                 doc['stat:Document']['stat:Level']['stat:Level']['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading
+              //                 doc['stat:Document']['stat:Level']['stat:Level'] = ListOfCategoties
+              //
+              //                 // fs.writeFile('./results/json/second-scrap/' + item.heading + '/' + item.heading + '.json', JSON.stringify(doc, null, 4), () => {
+              //                 // })
+              //               })
+              //             })
+              //           }
+              //         })
+              //       })
+              //       console.log(categories)
+              //     }
+              //   })
+              // }
 
-            statsSelectors.forEach((selector, index) => {
-              // console.log(res)
-              x(elem.url, selector.selector, selector.res_body)((err, result) => {
-                if (err) return err
-                // console.log(elem)
-                if (!_.isEmpty(result.heading && result.p && result.note)) {
-                  let codes = {}
-                  codes['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
-                  codes['-is_citable'] = true
-                  codes['-is_document'] = true
-                  codes['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading + '/' + elem.heading
-                  codes['stat:heading'] = result.heading
-                  codes['stat:p'] = result.p
-                  codes['stat:Note'] = result.note
+              codes.forEach((element, index) => {
+                // console.log(element)
+                let Code = {}
+                Code['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
+                Code['-is_citable'] = true
+                Code['-is_document'] = true
+                Code['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading
+                Code['stat:Citation'] = 'Cal. ' + AbrCategories[0].abr + ' Code § ' + element.heading
+                Code['stat:Text'] = {}
+                Code['stat:Text']['stat:heading'] = element.heading
+                Code['stat:Text']['stat:p'] = element.p
+                Code['stat:Text']['stat:Note'] = element.note
 
-                  scrapCodesArr[index] = codes
-
-                  console.log(scrapCodesArr)
-                } else {
-                  console.log('Alalalalalallalall')
-                }
+                ListOfCodes[index] = Code
+                // console.log(ListOfCodes)
               })
+
+              let Category = {}
+              Category['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
+              Category['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading + '/' + category.heading
+              Category['stat:Text'] = {}
+              Category['stat:Text']['stat:heading'] = category.heading
+
+              Category['stat:Level'] = ListOfCodes
+
+              ListOfCategoties[i] = Category
+
+              doc['stat:Document']['stat:Level']['stat:Level'] = []
+              doc['stat:Document']['stat:Level']['stat:Level']['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
+              doc['stat:Document']['stat:Level']['stat:Level']['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading
+              doc['stat:Document']['stat:Level']['stat:Level'] = ListOfCategoties
+
+              fs.writeFile('./results/json/second-scrap/' + item.heading + '/' + item.heading + '.json', JSON.stringify(doc, null, 4), () => {
+              })
+
             })
 
-            codeCategory['stat:Text']['stat:Level'] = scrapCodesArr
-            secondScrapArr[index] = codeCategory
 
-            doc['stat:Document']['stat:Level']['stat:Level'] = []
-            doc['stat:Document']['stat:Level']['stat:Level']['-id'] = shortid.generate() + shortid.generate() + shortid.generate()
-            doc['stat:Document']['stat:Level']['stat:Level']['-path'] = '/us/californiacode/' + CaliforniaCode + '/' + item.heading
-            doc['stat:Document']['stat:Level']['stat:Level'] = secondScrapArr
           })
-
         }
-        fs.writeFile('./results/json/second-scrap/' + item.heading + '/' + item.heading + '.json', JSON.stringify(doc, null, 4), () => {
-        })
       })
+
 
     })
   }
